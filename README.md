@@ -2,11 +2,11 @@
 <h3 align="center">Many Fingers in Many Pies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willwade" alt="willwade" /> </p>
 
+- 🏢 I work at the Ace Centre, Manchester. A charity and business supporting Adults and Children who use technology to communicate
+
 - 🔭 I’m currently working on [morAce](http://github.com/acecentre/morace)
 
 - 👯 I’m looking to collaborate on [https://dasher.acecentre.net](https://dasher.acecentre.net)
-
-- 🤔 I’m looking for help with [dasher](https://dasher.acecentre.net)
 
 - 💬 Ask me about **AAC, Assistive Technology**
 
