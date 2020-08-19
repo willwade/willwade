@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com//AceCentre/morAce/issues/5) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-2. ❗️ Opened issue [#233](https://github.com//AceCentre/pasco/issues/233) in [AceCentre/pasco](https://github.com//AceCentre/pasco)
-3. ❗️ Opened issue [#2](https://github.com//gdsports/usbkbdble/issues/2) in [gdsports/usbkbdble](https://github.com//gdsports/usbkbdble)
-4. ❗️ Opened issue [#5](https://github.com//AceCentre/morAce/issues/5) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-5. 🗣 Commented on [#10](https://github.com//AceCentre/RelayKeys/issues/10) in [AceCentre/RelayKeys](https://github.com//AceCentre/RelayKeys)
+1. ❗️ Opened issue [#9](https://github.com//AceCentre/morAce/issues/9) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+2. ❗️ Opened issue [#8](https://github.com//AceCentre/morAce/issues/8) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+3. ❗️ Opened issue [#7](https://github.com//AceCentre/morAce/issues/7) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+4. ❗️ Opened issue [#6](https://github.com//AceCentre/morAce/issues/6) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+5. ❗️ Closed issue [#5](https://github.com//AceCentre/morAce/issues/5) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
 <!--END_SECTION:activity-->
