@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com//AceCentre/morAce/issues/11) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-2. 🗣 Commented on [#20](https://github.com//dasher-project/redash/issues/20) in [dasher-project/redash](https://github.com//dasher-project/redash)
-3. ❗️ Opened issue [#20](https://github.com//dasher-project/redash/issues/20) in [dasher-project/redash](https://github.com//dasher-project/redash)
-4. ❗️ Opened issue [#10](https://github.com//AceCentre/morAce/issues/10) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-5. ❗️ Opened issue [#9](https://github.com//AceCentre/morAce/issues/9) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+1. 🗣 Commented on [#10](https://github.com//AceCentre/morAce/issues/10) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+2. 🗣 Commented on [#3](https://github.com//AceCentre/morAce/issues/3) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+3. ❗️ Opened issue [#11](https://github.com//AceCentre/morAce/issues/11) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+4. 🗣 Commented on [#20](https://github.com//dasher-project/redash/issues/20) in [dasher-project/redash](https://github.com//dasher-project/redash)
+5. ❗️ Opened issue [#20](https://github.com//dasher-project/redash/issues/20) in [dasher-project/redash](https://github.com//dasher-project/redash)
 <!--END_SECTION:activity-->
