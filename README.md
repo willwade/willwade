@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//AceCentre/morAce/issues/3) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-2. ❗️ Opened issue [#564](https://github.com//adafruit/Adafruit_nRF52_Arduino/issues/564) in [adafruit/Adafruit_nRF52_Arduino](https://github.com//adafruit/Adafruit_nRF52_Arduino)
-3. ❗️ Opened issue [#12](https://github.com//AceCentre/morAce/issues/12) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-4. 🗣 Commented on [#10](https://github.com//AceCentre/morAce/issues/10) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-5. 🗣 Commented on [#3](https://github.com//AceCentre/morAce/issues/3) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+1. ❗️ Opened issue [#22](https://github.com//dasher-project/redash/issues/22) in [dasher-project/redash](https://github.com//dasher-project/redash)
+2. 🗣 Commented on [#3](https://github.com//AceCentre/morAce/issues/3) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+3. ❗️ Opened issue [#564](https://github.com//adafruit/Adafruit_nRF52_Arduino/issues/564) in [adafruit/Adafruit_nRF52_Arduino](https://github.com//adafruit/Adafruit_nRF52_Arduino)
+4. ❗️ Opened issue [#12](https://github.com//AceCentre/morAce/issues/12) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
+5. 🗣 Commented on [#10](https://github.com//AceCentre/morAce/issues/10) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
 <!--END_SECTION:activity-->
