@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com//AceCentre/SpeechBubble/pull/146) in [AceCentre/SpeechBubble](https://github.com//AceCentre/SpeechBubble)
-2. ❗️ Opened issue [#13](https://github.com//AceCentre/morAce/issues/13) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
-3. 🗣 Commented on [#22](https://github.com//dasher-project/redash/issues/22) in [dasher-project/redash](https://github.com//dasher-project/redash)
-4. 🗣 Commented on [#22](https://github.com//dasher-project/redash/issues/22) in [dasher-project/redash](https://github.com//dasher-project/redash)
-5. ❗️ Opened issue [#22](https://github.com//dasher-project/redash/issues/22) in [dasher-project/redash](https://github.com//dasher-project/redash)
+1. 🎉 Merged PR [#147](https://github.com//AceCentre/SpeechBubble/pull/147) in [AceCentre/SpeechBubble](https://github.com//AceCentre/SpeechBubble)
+2. ❗️ Closed issue [#14](https://github.com//AceCentre/SpeakBook/issues/14) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+3. 🎉 Merged PR [#24](https://github.com//AceCentre/SpeakBook/pull/24) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+4. 🎉 Merged PR [#146](https://github.com//AceCentre/SpeechBubble/pull/146) in [AceCentre/SpeechBubble](https://github.com//AceCentre/SpeechBubble)
+5. ❗️ Opened issue [#13](https://github.com//AceCentre/morAce/issues/13) in [AceCentre/morAce](https://github.com//AceCentre/morAce)
 <!--END_SECTION:activity-->
