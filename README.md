@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com//AceCentre/SpeakBook/pull/27) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-2. 🎉 Merged PR [#26](https://github.com//AceCentre/SpeakBook/pull/26) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-3. 🎉 Merged PR [#25](https://github.com//AceCentre/SpeakBook/pull/25) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-4. 🎉 Merged PR [#147](https://github.com//AceCentre/SpeechBubble/pull/147) in [AceCentre/SpeechBubble](https://github.com//AceCentre/SpeechBubble)
-5. ❗️ Closed issue [#14](https://github.com//AceCentre/SpeakBook/issues/14) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+1. ❗️ Closed issue [#11](https://github.com//AceCentre/SpeakBook/issues/11) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+2. ❗️ Closed issue [#13](https://github.com//AceCentre/SpeakBook/issues/13) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+3. ❗️ Closed issue [#15](https://github.com//AceCentre/SpeakBook/issues/15) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+4. 🎉 Merged PR [#27](https://github.com//AceCentre/SpeakBook/pull/27) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+5. 🎉 Merged PR [#26](https://github.com//AceCentre/SpeakBook/pull/26) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
