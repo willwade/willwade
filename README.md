@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com//AceCentre/SpeakBook/pull/28) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-2. ❗️ Closed issue [#11](https://github.com//AceCentre/SpeakBook/issues/11) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-3. ❗️ Closed issue [#13](https://github.com//AceCentre/SpeakBook/issues/13) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-4. ❗️ Closed issue [#15](https://github.com//AceCentre/SpeakBook/issues/15) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
-5. 🎉 Merged PR [#27](https://github.com//AceCentre/SpeakBook/pull/27) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+1. ❗️ Closed issue [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
+2. 🗣 Commented on [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
+3. 🗣 Commented on [#6](https://github.com//AceCentre/RelayKeys/issues/6) in [AceCentre/RelayKeys](https://github.com//AceCentre/RelayKeys)
+4. ❗️ Closed issue [#6](https://github.com//AceCentre/RelayKeys/issues/6) in [AceCentre/RelayKeys](https://github.com//AceCentre/RelayKeys)
+5. ❗️ Closed issue [#9](https://github.com//AceCentre/RelayKeys/issues/9) in [AceCentre/RelayKeys](https://github.com//AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
