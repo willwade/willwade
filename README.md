@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com//AceCentre/MileageCalculator/issues/7) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
-2. ❗️ Opened issue [#6](https://github.com//AceCentre/MileageCalculator/issues/6) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
-3. ❗️ Closed issue [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
-4. 🗣 Commented on [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
-5. 🗣 Commented on [#6](https://github.com//AceCentre/RelayKeys/issues/6) in [AceCentre/RelayKeys](https://github.com//AceCentre/RelayKeys)
+1. 🎉 Merged PR [#29](https://github.com//AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com//AceCentre/SpeakBook)
+2. ❗️ Opened issue [#7](https://github.com//AceCentre/MileageCalculator/issues/7) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
+3. ❗️ Opened issue [#6](https://github.com//AceCentre/MileageCalculator/issues/6) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
+4. ❗️ Closed issue [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
+5. 🗣 Commented on [#1](https://github.com//AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com//AceCentre/MileageCalculator)
 <!--END_SECTION:activity-->
