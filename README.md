@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#43](https://github.com/AceCentre/RelayKeys/issues/43) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#29](https://github.com/AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-3. ❗️ Opened issue [#7](https://github.com/AceCentre/MileageCalculator/issues/7) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
-4. ❗️ Opened issue [#6](https://github.com/AceCentre/MileageCalculator/issues/6) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
-5. ❗️ Closed issue [#1](https://github.com/AceCentre/MileageCalculator/issues/1) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
+1. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
+2. ❗️ Closed issue [#43](https://github.com/AceCentre/RelayKeys/issues/43) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🎉 Merged PR [#29](https://github.com/AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+4. ❗️ Opened issue [#7](https://github.com/AceCentre/MileageCalculator/issues/7) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
+5. ❗️ Opened issue [#6](https://github.com/AceCentre/MileageCalculator/issues/6) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
 <!--END_SECTION:activity-->
