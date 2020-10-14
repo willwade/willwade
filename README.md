@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
-3. ❗️ Closed issue [#43](https://github.com/AceCentre/RelayKeys/issues/43) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#29](https://github.com/AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-5. ❗️ Opened issue [#7](https://github.com/AceCentre/MileageCalculator/issues/7) in [AceCentre/MileageCalculator](https://github.com/AceCentre/MileageCalculator)
+1. 💪 Opened PR [#26](https://github.com/dasher-project/redash/pull/26) in [dasher-project/redash](https://github.com/dasher-project/redash)
+2. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
+3. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
+4. ❗️ Closed issue [#43](https://github.com/AceCentre/RelayKeys/issues/43) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🎉 Merged PR [#29](https://github.com/AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
