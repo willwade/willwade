@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/dasher-project/redash/pull/26) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
-3. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
-4. ❗️ Closed issue [#43](https://github.com/AceCentre/RelayKeys/issues/43) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🎉 Merged PR [#29](https://github.com/AceCentre/SpeakBook/pull/29) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. 🗣 Commented on [#89](https://github.com/AceCentre/pasco/issues/89) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#228](https://github.com/AceCentre/pasco/issues/228) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 💪 Opened PR [#26](https://github.com/dasher-project/redash/pull/26) in [dasher-project/redash](https://github.com/dasher-project/redash)
+4. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
+5. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
 <!--END_SECTION:activity-->
