@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/AceCentre/pasco/issues/89) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. 🗣 Commented on [#228](https://github.com/AceCentre/pasco/issues/228) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. 💪 Opened PR [#26](https://github.com/dasher-project/redash/pull/26) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
-5. ❗️ Opened issue [#1](https://github.com/jfedor2/hat-mouse/issues/1) in [jfedor2/hat-mouse](https://github.com/jfedor2/hat-mouse)
+1. ❗️ Opened issue [#238](https://github.com/AceCentre/pasco/issues/238) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#89](https://github.com/AceCentre/pasco/issues/89) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 🗣 Commented on [#228](https://github.com/AceCentre/pasco/issues/228) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. 💪 Opened PR [#26](https://github.com/dasher-project/redash/pull/26) in [dasher-project/redash](https://github.com/dasher-project/redash)
+5. 💪 Opened PR [#24](https://github.com/dasher-project/redash/pull/24) in [dasher-project/redash](https://github.com/dasher-project/redash)
 <!--END_SECTION:activity-->
