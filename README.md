@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/AceCentre/ace-search-engine/issues/5) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
-2. ❗️ Opened issue [#4](https://github.com/AceCentre/ace-search-engine/issues/4) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
-3. ❗️ Opened issue [#3](https://github.com/AceCentre/ace-search-engine/issues/3) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
-4. ❗️ Opened issue [#241](https://github.com/AceCentre/pasco/issues/241) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. ❗️ Opened issue [#30](https://github.com/AceCentre/SpeakBook/issues/30) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. ❗️ Opened issue [#14](https://github.com/AceCentre/ace-search-engine/issues/14) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
+2. ❗️ Opened issue [#13](https://github.com/AceCentre/ace-search-engine/issues/13) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
+3. ❗️ Opened issue [#12](https://github.com/AceCentre/ace-search-engine/issues/12) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
+4. ❗️ Opened issue [#11](https://github.com/AceCentre/ace-search-engine/issues/11) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
+5. ❗️ Opened issue [#10](https://github.com/AceCentre/ace-search-engine/issues/10) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
 <!--END_SECTION:activity-->
