@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/AceCentre/SpeakBook/pull/32) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-2. 🗣 Commented on [#217](https://github.com/AceCentre/pasco/issues/217) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Opened issue [#32](https://github.com/dasher-project/redash/issues/32) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. ❗️ Opened issue [#31](https://github.com/dasher-project/redash/issues/31) in [dasher-project/redash](https://github.com/dasher-project/redash)
-5. ❗️ Opened issue [#14](https://github.com/AceCentre/ace-search-engine/issues/14) in [AceCentre/ace-search-engine](https://github.com/AceCentre/ace-search-engine)
+1. 🎉 Merged PR [#33](https://github.com/AceCentre/SpeakBook/pull/33) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+2. 💪 Opened PR [#33](https://github.com/AceCentre/SpeakBook/pull/33) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+3. 🎉 Merged PR [#32](https://github.com/AceCentre/SpeakBook/pull/32) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+4. 🗣 Commented on [#217](https://github.com/AceCentre/pasco/issues/217) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Opened issue [#32](https://github.com/dasher-project/redash/issues/32) in [dasher-project/redash](https://github.com/dasher-project/redash)
 <!--END_SECTION:activity-->
