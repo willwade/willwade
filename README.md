@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/AceCentre/SpeakBook/issues/41) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-2. 🗣 Commented on [#38](https://github.com/dasher-project/redash/issues/38) in [dasher-project/redash](https://github.com/dasher-project/redash)
-3. ❗️ Closed issue [#37](https://github.com/AceCentre/SpeakBook/issues/37) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-4. ❗️ Closed issue [#38](https://github.com/AceCentre/SpeakBook/issues/38) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-5. ❗️ Closed issue [#40](https://github.com/AceCentre/SpeakBook/issues/40) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. ❗️ Opened issue [#42](https://github.com/AceCentre/SpeakBook/issues/42) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+2. ❗️ Opened issue [#41](https://github.com/AceCentre/SpeakBook/issues/41) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+3. 🗣 Commented on [#38](https://github.com/dasher-project/redash/issues/38) in [dasher-project/redash](https://github.com/dasher-project/redash)
+4. ❗️ Closed issue [#37](https://github.com/AceCentre/SpeakBook/issues/37) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+5. ❗️ Closed issue [#38](https://github.com/AceCentre/SpeakBook/issues/38) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
