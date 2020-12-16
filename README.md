@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#243](https://github.com/AceCentre/pasco/issues/243) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#46](https://github.com/AceCentre/SpeakBook/issues/46) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-3. ❗️ Opened issue [#43](https://github.com/AceCentre/SpeakBook/issues/43) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-4. 🗣 Commented on [#30](https://github.com/AceCentre/SpeakBook/issues/30) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-5. 🗣 Commented on [#41](https://github.com/AceCentre/SpeakBook/issues/41) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+2. ❗️ Opened issue [#243](https://github.com/AceCentre/pasco/issues/243) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. ❗️ Opened issue [#46](https://github.com/AceCentre/SpeakBook/issues/46) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+4. ❗️ Opened issue [#43](https://github.com/AceCentre/SpeakBook/issues/43) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+5. 🗣 Commented on [#30](https://github.com/AceCentre/SpeakBook/issues/30) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
