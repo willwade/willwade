@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/AceCentre/SpeakBook/issues/48) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-2. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-3. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. 🗣 Commented on [#42](https://github.com/AceCentre/SpeakBook/issues/42) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+2. 🗣 Commented on [#30](https://github.com/AceCentre/SpeakBook/issues/30) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+3. ❗️ Opened issue [#48](https://github.com/AceCentre/SpeakBook/issues/48) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 4. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 5. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
