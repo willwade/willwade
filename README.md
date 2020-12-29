@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/AceCentre/SpeakBook/pull/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-2. 🗣 Commented on [#42](https://github.com/AceCentre/SpeakBook/issues/42) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-3. 🗣 Commented on [#30](https://github.com/AceCentre/SpeakBook/issues/30) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-4. ❗️ Opened issue [#48](https://github.com/AceCentre/SpeakBook/issues/48) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-5. 🗣 Commented on [#47](https://github.com/AceCentre/SpeakBook/issues/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. ❗️ Closed issue [#43](https://github.com/AceCentre/SpeakBook/issues/43) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+2. ❗️ Closed issue [#36](https://github.com/AceCentre/SpeakBook/issues/36) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+3. ❗️ Closed issue [#34](https://github.com/AceCentre/SpeakBook/issues/34) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+4. 🎉 Merged PR [#47](https://github.com/AceCentre/SpeakBook/pull/47) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+5. 🗣 Commented on [#42](https://github.com/AceCentre/SpeakBook/issues/42) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
