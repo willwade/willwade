@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/AceCentre/RelayKeys/pull/47) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 💪 Opened PR [#47](https://github.com/AceCentre/RelayKeys/pull/47) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#7](https://github.com/AceCentre/morAce/issues/7) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. ❗️ Closed issue [#43](https://github.com/AceCentre/SpeakBook/issues/43) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
-5. ❗️ Closed issue [#36](https://github.com/AceCentre/SpeakBook/issues/36) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
+1. 🗣 Commented on [#13](https://github.com/AceCentre/morAce/issues/13) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. 🎉 Merged PR [#47](https://github.com/AceCentre/RelayKeys/pull/47) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 💪 Opened PR [#47](https://github.com/AceCentre/RelayKeys/pull/47) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#7](https://github.com/AceCentre/morAce/issues/7) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. ❗️ Closed issue [#43](https://github.com/AceCentre/SpeakBook/issues/43) in [AceCentre/SpeakBook](https://github.com/AceCentre/SpeakBook)
 <!--END_SECTION:activity-->
