@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/dasher-project/redash/issues/47) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. ❗️ Opened issue [#47](https://github.com/dasher-project/redash/issues/47) in [dasher-project/redash](https://github.com/dasher-project/redash)
-3. ❗️ Opened issue [#46](https://github.com/dasher-project/redash/issues/46) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. ❗️ Opened issue [#45](https://github.com/dasher-project/redash/issues/45) in [dasher-project/redash](https://github.com/dasher-project/redash)
-5. ❗️ Opened issue [#44](https://github.com/dasher-project/redash/issues/44) in [dasher-project/redash](https://github.com/dasher-project/redash)
+1. ❗️ Opened issue [#50](https://github.com/dasher-project/redash/issues/50) in [dasher-project/redash](https://github.com/dasher-project/redash)
+2. 🗣 Commented on [#47](https://github.com/dasher-project/redash/issues/47) in [dasher-project/redash](https://github.com/dasher-project/redash)
+3. ❗️ Opened issue [#47](https://github.com/dasher-project/redash/issues/47) in [dasher-project/redash](https://github.com/dasher-project/redash)
+4. ❗️ Opened issue [#46](https://github.com/dasher-project/redash/issues/46) in [dasher-project/redash](https://github.com/dasher-project/redash)
+5. ❗️ Opened issue [#45](https://github.com/dasher-project/redash/issues/45) in [dasher-project/redash](https://github.com/dasher-project/redash)
 <!--END_SECTION:activity-->
