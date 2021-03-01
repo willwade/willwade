@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/AceCentre/pasco/issues/240) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. 🗣 Commented on [#238](https://github.com/AceCentre/pasco/issues/238) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. ❗️ Closed issue [#217](https://github.com/AceCentre/pasco/issues/217) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#240](https://github.com/AceCentre/pasco/issues/240) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 3. 🗣 Commented on [#238](https://github.com/AceCentre/pasco/issues/238) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. ❗️ Opened issue [#44](https://github.com/AceCentre/aacnews/issues/44) in [AceCentre/aacnews](https://github.com/AceCentre/aacnews)
-5. ❗️ Closed issue [#12](https://github.com/AceCentre/morAce/issues/12) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. 🗣 Commented on [#238](https://github.com/AceCentre/pasco/issues/238) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Opened issue [#44](https://github.com/AceCentre/aacnews/issues/44) in [AceCentre/aacnews](https://github.com/AceCentre/aacnews)
 <!--END_SECTION:activity-->
