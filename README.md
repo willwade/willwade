@@ -24,7 +24,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#248](https://github.com/AceCentre/pasco/issues/248) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🎉 Merged PR [#248](https://github.com/AceCentre/pasco/pull/248) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 2. 🗣 Commented on [#248](https://github.com/AceCentre/pasco/issues/248) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 3. 🗣 Commented on [#248](https://github.com/AceCentre/pasco/issues/248) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 4. 🗣 Commented on [#248](https://github.com/AceCentre/pasco/issues/248) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
