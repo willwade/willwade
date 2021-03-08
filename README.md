@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#249](https://github.com/AceCentre/pasco/issues/249) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. 🗣 Commented on [#100](https://github.com/AceCentre/pasco/issues/100) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. 🗣 Commented on [#221](https://github.com/AceCentre/pasco/issues/221) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. ❗️ Closed issue [#244](https://github.com/AceCentre/pasco/issues/244) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. ❗️ Closed issue [#243](https://github.com/AceCentre/pasco/issues/243) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#53](https://github.com/dasher-project/redash/issues/53) in [dasher-project/redash](https://github.com/dasher-project/redash)
+2. ❗️ Opened issue [#249](https://github.com/AceCentre/pasco/issues/249) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 🗣 Commented on [#100](https://github.com/AceCentre/pasco/issues/100) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. 🗣 Commented on [#221](https://github.com/AceCentre/pasco/issues/221) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Closed issue [#244](https://github.com/AceCentre/pasco/issues/244) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
