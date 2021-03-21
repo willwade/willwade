@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#252](https://github.com/AceCentre/pasco/issues/252) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#251](https://github.com/AceCentre/pasco/issues/251) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. 🗣 Commented on [#250](https://github.com/AceCentre/pasco/issues/250) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#100](https://github.com/AceCentre/pasco/issues/100) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. ❗️ Opened issue [#252](https://github.com/AceCentre/pasco/issues/252) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. ❗️ Opened issue [#251](https://github.com/AceCentre/pasco/issues/251) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 4. 🗣 Commented on [#250](https://github.com/AceCentre/pasco/issues/250) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. ❗️ Opened issue [#250](https://github.com/AceCentre/pasco/issues/250) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. 🗣 Commented on [#250](https://github.com/AceCentre/pasco/issues/250) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
