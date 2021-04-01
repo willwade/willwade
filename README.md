@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
-2. 🗣 Commented on [#55](https://github.com/dasher-project/redash/issues/55) in [dasher-project/redash](https://github.com/dasher-project/redash)
-3. ❗️ Closed issue [#55](https://github.com/dasher-project/redash/issues/55) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. ❗️ Opened issue [#55](https://github.com/dasher-project/redash/issues/55) in [dasher-project/redash](https://github.com/dasher-project/redash)
-5. 🗣 Commented on [#100](https://github.com/AceCentre/pasco/issues/100) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
+2. 🗣 Commented on [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
+3. ❗️ Opened issue [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
+4. 🗣 Commented on [#55](https://github.com/dasher-project/redash/issues/55) in [dasher-project/redash](https://github.com/dasher-project/redash)
+5. ❗️ Closed issue [#55](https://github.com/dasher-project/redash/issues/55) in [dasher-project/redash](https://github.com/dasher-project/redash)
 <!--END_SECTION:activity-->
