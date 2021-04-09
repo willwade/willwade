@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/AceCentre/morse-learn/issues/17) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. 🗣 Commented on [#4](https://github.com/AceCentre/morse-learn/issues/4) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-3. 🗣 Commented on [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
+1. 🗣 Commented on [#179](https://github.com/dasher-project/dasher/issues/179) in [dasher-project/dasher](https://github.com/dasher-project/dasher)
+2. ❗️ Opened issue [#17](https://github.com/AceCentre/morse-learn/issues/17) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🗣 Commented on [#4](https://github.com/AceCentre/morse-learn/issues/4) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 4. 🗣 Commented on [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
-5. ❗️ Opened issue [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
+5. 🗣 Commented on [#7](https://github.com/AceCentre/MovementSwitch/issues/7) in [AceCentre/MovementSwitch](https://github.com/AceCentre/MovementSwitch)
 <!--END_SECTION:activity-->
