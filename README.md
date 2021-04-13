@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/AceCentre/morse-learn/issues/10) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. ❗️ Opened issue [#254](https://github.com/AceCentre/pasco/issues/254) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Closed issue [#253](https://github.com/AceCentre/pasco/issues/253) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. ❗️ Opened issue [#253](https://github.com/AceCentre/pasco/issues/253) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. 🗣 Commented on [#179](https://github.com/dasher-project/dasher/issues/179) in [dasher-project/dasher](https://github.com/dasher-project/dasher)
+1. 🗣 Commented on [#7](https://github.com/AceCentre/morse-learn/issues/7) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. 🗣 Commented on [#10](https://github.com/AceCentre/morse-learn/issues/10) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. ❗️ Opened issue [#254](https://github.com/AceCentre/pasco/issues/254) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❗️ Closed issue [#253](https://github.com/AceCentre/pasco/issues/253) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Opened issue [#253](https://github.com/AceCentre/pasco/issues/253) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
