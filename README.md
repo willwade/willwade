@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/AceCentre/morse-learn/issues/19) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. 🗣 Commented on [#3](https://github.com/AceCentre/morse-learn/issues/3) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 2. 🗣 Commented on [#19](https://github.com/AceCentre/morse-learn/issues/19) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-3. 🗣 Commented on [#7](https://github.com/AceCentre/morse-learn/issues/7) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. 🗣 Commented on [#10](https://github.com/AceCentre/morse-learn/issues/10) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. ❗️ Opened issue [#254](https://github.com/AceCentre/pasco/issues/254) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 🗣 Commented on [#19](https://github.com/AceCentre/morse-learn/issues/19) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+4. 🗣 Commented on [#7](https://github.com/AceCentre/morse-learn/issues/7) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+5. 🗣 Commented on [#10](https://github.com/AceCentre/morse-learn/issues/10) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
