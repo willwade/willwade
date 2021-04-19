@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AceCentre/Password-Generator/pull/5) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
-2. 💪 Opened PR [#5](https://github.com/AceCentre/Password-Generator/pull/5) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
-3. 🎉 Merged PR [#4](https://github.com/AceCentre/Password-Generator/pull/4) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
-4. 💪 Opened PR [#4](https://github.com/AceCentre/Password-Generator/pull/4) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
-5. ❗️ Opened issue [#3](https://github.com/AceCentre/Password-Generator/issues/3) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
+1. ❗️ Opened issue [#24](https://github.com/AceCentre/morse-learn/issues/24) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. ❗️ Opened issue [#23](https://github.com/AceCentre/morse-learn/issues/23) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🎉 Merged PR [#5](https://github.com/AceCentre/Password-Generator/pull/5) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
+4. 💪 Opened PR [#5](https://github.com/AceCentre/Password-Generator/pull/5) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
+5. 🎉 Merged PR [#4](https://github.com/AceCentre/Password-Generator/pull/4) in [AceCentre/Password-Generator](https://github.com/AceCentre/Password-Generator)
 <!--END_SECTION:activity-->
