@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/AceCentre/morse-learn/issues/32) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. 🗣 Commented on [#3](https://github.com/Baton-donation/app/issues/3) in [Baton-donation/app](https://github.com/Baton-donation/app)
-3. 🗣 Commented on [#2](https://github.com/dasher-project/dasher-captivewebview/issues/2) in [dasher-project/dasher-captivewebview](https://github.com/dasher-project/dasher-captivewebview)
-4. 🗣 Commented on [#3](https://github.com/Baton-donation/app/issues/3) in [Baton-donation/app](https://github.com/Baton-donation/app)
-5. ❗️ Opened issue [#31](https://github.com/AceCentre/morse-learn/issues/31) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. 🗣 Commented on [#33](https://github.com/AceCentre/morse-learn/issues/33) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. ❗️ Opened issue [#32](https://github.com/AceCentre/morse-learn/issues/32) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🗣 Commented on [#3](https://github.com/Baton-donation/app/issues/3) in [Baton-donation/app](https://github.com/Baton-donation/app)
+4. 🗣 Commented on [#2](https://github.com/dasher-project/dasher-captivewebview/issues/2) in [dasher-project/dasher-captivewebview](https://github.com/dasher-project/dasher-captivewebview)
+5. 🗣 Commented on [#3](https://github.com/Baton-donation/app/issues/3) in [Baton-donation/app](https://github.com/Baton-donation/app)
 <!--END_SECTION:activity-->
