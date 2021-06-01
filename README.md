@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/AceCentre/morse-learn/issues/38) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. ❗️ Opened issue [#6](https://github.com/Baton-donation/app/issues/6) in [Baton-donation/app](https://github.com/Baton-donation/app)
-3. ❗️ Opened issue [#5](https://github.com/Baton-donation/app/issues/5) in [Baton-donation/app](https://github.com/Baton-donation/app)
-4. ❗️ Opened issue [#38](https://github.com/AceCentre/morse-learn/issues/38) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. 🎉 Merged PR [#37](https://github.com/AceCentre/morse-learn/pull/37) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. ❗️ Opened issue [#39](https://github.com/AceCentre/morse-learn/issues/39) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. 🗣 Commented on [#38](https://github.com/AceCentre/morse-learn/issues/38) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. ❗️ Opened issue [#6](https://github.com/Baton-donation/app/issues/6) in [Baton-donation/app](https://github.com/Baton-donation/app)
+4. ❗️ Opened issue [#5](https://github.com/Baton-donation/app/issues/5) in [Baton-donation/app](https://github.com/Baton-donation/app)
+5. ❗️ Opened issue [#38](https://github.com/AceCentre/morse-learn/issues/38) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
