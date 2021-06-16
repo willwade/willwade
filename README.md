@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/dasher-project/redash/issues/19) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. ❗️ Opened issue [#40](https://github.com/AceCentre/morse-learn/issues/40) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-3. ❗️ Opened issue [#39](https://github.com/AceCentre/morse-learn/issues/39) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. 🗣 Commented on [#38](https://github.com/AceCentre/morse-learn/issues/38) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. ❗️ Opened issue [#6](https://github.com/Baton-donation/app/issues/6) in [Baton-donation/app](https://github.com/Baton-donation/app)
+1. 🗣 Commented on [#41](https://github.com/AceCentre/morse-learn/issues/41) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. ❗️ Opened issue [#41](https://github.com/AceCentre/morse-learn/issues/41) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🗣 Commented on [#19](https://github.com/dasher-project/redash/issues/19) in [dasher-project/redash](https://github.com/dasher-project/redash)
+4. ❗️ Opened issue [#40](https://github.com/AceCentre/morse-learn/issues/40) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+5. ❗️ Opened issue [#39](https://github.com/AceCentre/morse-learn/issues/39) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
