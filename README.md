@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/AceCentre/acecentre.org.uk/issues/214) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+1. 🎉 Merged PR [#28](https://github.com/dasher-project/website/pull/28) in [dasher-project/website](https://github.com/dasher-project/website)
 2. 🗣 Commented on [#214](https://github.com/AceCentre/acecentre.org.uk/issues/214) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-3. 🗣 Commented on [#42](https://github.com/AceCentre/morse-learn/issues/42) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. 🗣 Commented on [#41](https://github.com/AceCentre/morse-learn/issues/41) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. ❗️ Opened issue [#41](https://github.com/AceCentre/morse-learn/issues/41) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🗣 Commented on [#214](https://github.com/AceCentre/acecentre.org.uk/issues/214) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+4. 🗣 Commented on [#42](https://github.com/AceCentre/morse-learn/issues/42) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+5. 🗣 Commented on [#41](https://github.com/AceCentre/morse-learn/issues/41) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
