@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/dasher-project/redash/issues/59) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
+1. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
+2. 🗣 Commented on [#59](https://github.com/dasher-project/redash/issues/59) in [dasher-project/redash](https://github.com/dasher-project/redash)
 3. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. 🎉 Merged PR [#28](https://github.com/dasher-project/website/pull/28) in [dasher-project/website](https://github.com/dasher-project/website)
-5. 🗣 Commented on [#214](https://github.com/AceCentre/acecentre.org.uk/issues/214) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+4. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
+5. 🎉 Merged PR [#28](https://github.com/dasher-project/website/pull/28) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
