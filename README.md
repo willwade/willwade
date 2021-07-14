@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/dasher-project/redash/issues/77) in [dasher-project/redash](https://github.com/dasher-project/redash)
-2. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
-3. 🗣 Commented on [#59](https://github.com/dasher-project/redash/issues/59) in [dasher-project/redash](https://github.com/dasher-project/redash)
-4. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
+1. ❗️ Opened issue [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
+2. 🗣 Commented on [#77](https://github.com/dasher-project/redash/issues/77) in [dasher-project/redash](https://github.com/dasher-project/redash)
+3. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
+4. 🗣 Commented on [#59](https://github.com/dasher-project/redash/issues/59) in [dasher-project/redash](https://github.com/dasher-project/redash)
 5. 🗣 Commented on [#86](https://github.com/dasher-project/redash/issues/86) in [dasher-project/redash](https://github.com/dasher-project/redash)
 <!--END_SECTION:activity-->
