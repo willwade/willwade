@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/dasher-project/dasher-web/issues/98) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-2. ❗️ Opened issue [#98](https://github.com/dasher-project/dasher-web/issues/98) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-3. ❗️ Opened issue [#97](https://github.com/dasher-project/dasher-web/issues/97) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. ❗️ Opened issue [#271](https://github.com/AceCentre/acecentre.org.uk/issues/271) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-5. ❗️ Opened issue [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
+1. ❗️ Opened issue [#99](https://github.com/dasher-project/dasher-web/issues/99) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+2. 🗣 Commented on [#98](https://github.com/dasher-project/dasher-web/issues/98) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+3. ❗️ Opened issue [#98](https://github.com/dasher-project/dasher-web/issues/98) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+4. ❗️ Opened issue [#97](https://github.com/dasher-project/dasher-web/issues/97) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. ❗️ Opened issue [#271](https://github.com/AceCentre/acecentre.org.uk/issues/271) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
 <!--END_SECTION:activity-->
