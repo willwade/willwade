@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. ❗️ Opened issue [#6](https://github.com/AceCentre/EyeCommander/issues/6) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Opened issue [#5](https://github.com/AceCentre/EyeCommander/issues/5) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🗣 Commented on [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
-5. ❗️ Opened issue [#294](https://github.com/AceCentre/acecentre.org.uk/issues/294) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+1. ❗️ Opened issue [#8](https://github.com/AceCentre/EyeCommander/issues/8) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. ❗️ Opened issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. ❗️ Opened issue [#6](https://github.com/AceCentre/EyeCommander/issues/6) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❗️ Opened issue [#5](https://github.com/AceCentre/EyeCommander/issues/5) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🗣 Commented on [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
 <!--END_SECTION:activity-->
