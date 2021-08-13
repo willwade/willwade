@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. ❗️ Opened issue [#10](https://github.com/AceCentre/EyeCommander/issues/10) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Opened issue [#8](https://github.com/AceCentre/EyeCommander/issues/8) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. ❗️ Opened issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#6](https://github.com/AceCentre/EyeCommander/issues/6) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🗣 Commented on [#8](https://github.com/AceCentre/EyeCommander/issues/8) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. ❗️ Closed issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. ❗️ Opened issue [#10](https://github.com/AceCentre/EyeCommander/issues/10) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❗️ Opened issue [#8](https://github.com/AceCentre/EyeCommander/issues/8) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. ❗️ Opened issue [#7](https://github.com/AceCentre/EyeCommander/issues/7) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
