@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🗣 Commented on [#13](https://github.com/AceCentre/EyeCommander/issues/13) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. 💪 Opened PR [#13](https://github.com/AceCentre/EyeCommander/pull/13) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 3. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 4. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
