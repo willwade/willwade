@@ -27,6 +27,6 @@
 1. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 2. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 3. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. ❗️ Opened issue [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#11](https://github.com/AceCentre/EyeCommander/issues/11) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. 🗣 Commented on [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. ❗️ Opened issue [#12](https://github.com/AceCentre/EyeCommander/issues/12) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
