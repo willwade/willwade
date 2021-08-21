@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
-2. 🗣 Commented on [#16](https://github.com/AceCentre/EyeCommander/issues/16) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Closed issue [#16](https://github.com/AceCentre/EyeCommander/issues/16) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🗣 Commented on [#16](https://github.com/AceCentre/EyeCommander/issues/16) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#16](https://github.com/AceCentre/EyeCommander/issues/16) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. ❗️ Closed issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+2. 🗣 Commented on [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+3. ❗️ Opened issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+4. 🗣 Commented on [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
+5. 🗣 Commented on [#16](https://github.com/AceCentre/EyeCommander/issues/16) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
