@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/ferensw/python-easywave/issues/2) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
-2. ❗️ Closed issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
-3. 🗣 Commented on [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
-4. ❗️ Opened issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
-5. 🗣 Commented on [#2](https://github.com/ferensw/homekit-easywave/issues/2) in [ferensw/homekit-easywave](https://github.com/ferensw/homekit-easywave)
+1. ❗️ Opened issue [#2](https://github.com/AceCentre/X80/issues/2) in [AceCentre/X80](https://github.com/AceCentre/X80)
+2. ❗️ Opened issue [#2](https://github.com/ferensw/python-easywave/issues/2) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+3. ❗️ Closed issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+4. 🗣 Commented on [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+5. ❗️ Opened issue [#1](https://github.com/ferensw/python-easywave/issues/1) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
 <!--END_SECTION:activity-->
