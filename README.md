@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#258](https://github.com/AceCentre/pasco/pull/258) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#3](https://github.com/AceCentre/X80/issues/3) in [AceCentre/X80](https://github.com/AceCentre/X80)
-3. 💪 Opened PR [#14](https://github.com/AceCentre/morAce/pull/14) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. ❗️ Opened issue [#2](https://github.com/AceCentre/X80/issues/2) in [AceCentre/X80](https://github.com/AceCentre/X80)
-5. ❗️ Opened issue [#2](https://github.com/ferensw/python-easywave/issues/2) in [ferensw/python-easywave](https://github.com/ferensw/python-easywave)
+1. 🗣 Commented on [#252](https://github.com/AceCentre/pasco/issues/252) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. ❗️ Opened issue [#259](https://github.com/AceCentre/pasco/issues/259) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 💪 Opened PR [#258](https://github.com/AceCentre/pasco/pull/258) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❗️ Opened issue [#3](https://github.com/AceCentre/X80/issues/3) in [AceCentre/X80](https://github.com/AceCentre/X80)
+5. 💪 Opened PR [#14](https://github.com/AceCentre/morAce/pull/14) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
