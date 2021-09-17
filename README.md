@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 💪 Opened PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Opened issue [#5](https://github.com/AceCentre/X80/issues/5) in [AceCentre/X80](https://github.com/AceCentre/X80)
-4. ❗️ Opened issue [#59](https://github.com/AceCentre/RelayKeys/issues/59) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Opened issue [#4](https://github.com/AceCentre/X80/issues/4) in [AceCentre/X80](https://github.com/AceCentre/X80)
+1. 💪 Opened PR [#19](https://github.com/AceCentre/EyeCommander/pull/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. 🎉 Merged PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. 💪 Opened PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❗️ Opened issue [#5](https://github.com/AceCentre/X80/issues/5) in [AceCentre/X80](https://github.com/AceCentre/X80)
+5. ❗️ Opened issue [#59](https://github.com/AceCentre/RelayKeys/issues/59) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
