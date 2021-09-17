@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/AceCentre/EyeCommander/issues/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 💪 Opened PR [#19](https://github.com/AceCentre/EyeCommander/pull/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. 🎉 Merged PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 💪 Opened PR [#18](https://github.com/AceCentre/EyeCommander/pull/18) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#5](https://github.com/AceCentre/X80/issues/5) in [AceCentre/X80](https://github.com/AceCentre/X80)
+1. 🗣 Commented on [#18](https://github.com/tidzo/pyvjoy/issues/18) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
+2. 🗣 Commented on [#15](https://github.com/tidzo/pyvjoy/issues/15) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
+3. 🗣 Commented on [#19](https://github.com/AceCentre/EyeCommander/issues/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. 🗣 Commented on [#19](https://github.com/AceCentre/EyeCommander/issues/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 💪 Opened PR [#19](https://github.com/AceCentre/EyeCommander/pull/19) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
