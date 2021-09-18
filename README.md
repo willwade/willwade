@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/willwade/pyvjoy/pull/1) in [willwade/pyvjoy](https://github.com/willwade/pyvjoy)
-2. 💪 Opened PR [#1](https://github.com/willwade/pyvjoy/pull/1) in [willwade/pyvjoy](https://github.com/willwade/pyvjoy)
-3. 🗣 Commented on [#13](https://github.com/tidzo/pyvjoy/issues/13) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
-4. 🗣 Commented on [#18](https://github.com/tidzo/pyvjoy/issues/18) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
-5. 🗣 Commented on [#15](https://github.com/tidzo/pyvjoy/issues/15) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
+1. ❗️ Opened issue [#20](https://github.com/AceCentre/EyeCommander/issues/20) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. 🎉 Merged PR [#1](https://github.com/willwade/pyvjoy/pull/1) in [willwade/pyvjoy](https://github.com/willwade/pyvjoy)
+3. 💪 Opened PR [#1](https://github.com/willwade/pyvjoy/pull/1) in [willwade/pyvjoy](https://github.com/willwade/pyvjoy)
+4. 🗣 Commented on [#13](https://github.com/tidzo/pyvjoy/issues/13) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
+5. 🗣 Commented on [#18](https://github.com/tidzo/pyvjoy/issues/18) in [tidzo/pyvjoy](https://github.com/tidzo/pyvjoy)
 <!--END_SECTION:activity-->
