@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/AceCentre/EyeCommander/issues/27) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 🗣 Commented on [#27](https://github.com/AceCentre/EyeCommander/issues/27) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Opened issue [#27](https://github.com/AceCentre/EyeCommander/issues/27) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. ❗️ Closed issue [#20](https://github.com/AceCentre/EyeCommander/issues/20) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗️ Opened issue [#26](https://github.com/AceCentre/EyeCommander/issues/26) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🗣 Commented on [#102](https://github.com/dasher-project/dasher-web/issues/102) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+2. 🗣 Commented on [#109](https://github.com/dasher-project/dasher-web/issues/109) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+3. 🗣 Commented on [#114](https://github.com/dasher-project/dasher-web/issues/114) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+4. 🗣 Commented on [#7](https://github.com/dasher-project/dasher-captivewebview/issues/7) in [dasher-project/dasher-captivewebview](https://github.com/dasher-project/dasher-captivewebview)
+5. 🗣 Commented on [#27](https://github.com/AceCentre/EyeCommander/issues/27) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
