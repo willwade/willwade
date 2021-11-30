@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/AceCentre/EyeCommander/issues/54) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 🗣 Commented on [#50](https://github.com/AceCentre/EyeCommander/issues/50) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. ❗️ Opened issue [#50](https://github.com/AceCentre/EyeCommander/issues/50) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🗣 Commented on [#48](https://github.com/AceCentre/EyeCommander/issues/48) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. 🗣 Commented on [#49](https://github.com/AceCentre/EyeCommander/issues/49) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🎉 Merged PR [#674](https://github.com/AceCentre/acecentre.org.uk/pull/674) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+2. ❗️ Opened issue [#54](https://github.com/AceCentre/EyeCommander/issues/54) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. 🗣 Commented on [#50](https://github.com/AceCentre/EyeCommander/issues/50) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❗️ Opened issue [#50](https://github.com/AceCentre/EyeCommander/issues/50) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🗣 Commented on [#48](https://github.com/AceCentre/EyeCommander/issues/48) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
