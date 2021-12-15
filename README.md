@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
-2. 🗣 Commented on [#211](https://github.com/simon987/sist2/issues/211) in [simon987/sist2](https://github.com/simon987/sist2)
-3. ❗️ Opened issue [#211](https://github.com/simon987/sist2/issues/211) in [simon987/sist2](https://github.com/simon987/sist2)
-4. 🗣 Commented on [#54](https://github.com/AceCentre/EyeCommander/issues/54) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. 🎉 Merged PR [#674](https://github.com/AceCentre/acecentre.org.uk/pull/674) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+1. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
+2. ❗️ Opened issue [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
+3. 🗣 Commented on [#211](https://github.com/simon987/sist2/issues/211) in [simon987/sist2](https://github.com/simon987/sist2)
+4. ❗️ Opened issue [#211](https://github.com/simon987/sist2/issues/211) in [simon987/sist2](https://github.com/simon987/sist2)
+5. 🗣 Commented on [#54](https://github.com/AceCentre/EyeCommander/issues/54) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
