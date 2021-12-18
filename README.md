@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
-2. ❗️ Opened issue [#213](https://github.com/simon987/sist2/issues/213) in [simon987/sist2](https://github.com/simon987/sist2)
-3. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
-4. ❗️ Opened issue [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
-5. 🗣 Commented on [#211](https://github.com/simon987/sist2/issues/211) in [simon987/sist2](https://github.com/simon987/sist2)
+2. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
+3. ❗️ Opened issue [#213](https://github.com/simon987/sist2/issues/213) in [simon987/sist2](https://github.com/simon987/sist2)
+4. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
+5. ❗️ Opened issue [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
 <!--END_SECTION:activity-->
