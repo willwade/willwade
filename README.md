@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/AceCentre/GridWiz/issues/27) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
-2. ❗️ Opened issue [#26](https://github.com/AceCentre/GridWiz/issues/26) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
-3. ❗️ Opened issue [#25](https://github.com/AceCentre/GridWiz/issues/25) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
-4. 🎉 Merged PR [#1](https://github.com/willwade/Snap-ReactionTest/pull/1) in [willwade/Snap-ReactionTest](https://github.com/willwade/Snap-ReactionTest)
-5. 🗣 Commented on [#212](https://github.com/simon987/sist2/issues/212) in [simon987/sist2](https://github.com/simon987/sist2)
+1. ❗️ Opened issue [#217](https://github.com/simon987/sist2/issues/217) in [simon987/sist2](https://github.com/simon987/sist2)
+2. ❗️ Opened issue [#27](https://github.com/AceCentre/GridWiz/issues/27) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
+3. ❗️ Opened issue [#26](https://github.com/AceCentre/GridWiz/issues/26) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
+4. ❗️ Opened issue [#25](https://github.com/AceCentre/GridWiz/issues/25) in [AceCentre/GridWiz](https://github.com/AceCentre/GridWiz)
+5. 🎉 Merged PR [#1](https://github.com/willwade/Snap-ReactionTest/pull/1) in [willwade/Snap-ReactionTest](https://github.com/willwade/Snap-ReactionTest)
 <!--END_SECTION:activity-->
