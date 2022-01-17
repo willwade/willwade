@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
-2. 🗣 Commented on [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
-3. ❗️ Opened issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
-4. 💪 Opened PR [#64](https://github.com/AceCentre/RelayKeys/pull/64) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#57](https://github.com/AceCentre/EyeCommander/issues/57) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🎉 Merged PR [#151](https://github.com/AceCentre/SpeechBubble/pull/151) in [AceCentre/SpeechBubble](https://github.com/AceCentre/SpeechBubble)
+2. ❗️ Closed issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
+3. 🗣 Commented on [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
+4. ❗️ Opened issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
+5. 💪 Opened PR [#64](https://github.com/AceCentre/RelayKeys/pull/64) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
