@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/dasher-project/website/pull/29) in [dasher-project/website](https://github.com/dasher-project/website)
-2. 🎉 Merged PR [#151](https://github.com/AceCentre/SpeechBubble/pull/151) in [AceCentre/SpeechBubble](https://github.com/AceCentre/SpeechBubble)
-3. ❗️ Closed issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
-4. 🗣 Commented on [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
-5. ❗️ Opened issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
+1. 🗣 Commented on [#60](https://github.com/AceCentre/EyeCommander/issues/60) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. 🎉 Merged PR [#29](https://github.com/dasher-project/website/pull/29) in [dasher-project/website](https://github.com/dasher-project/website)
+3. 🎉 Merged PR [#151](https://github.com/AceCentre/SpeechBubble/pull/151) in [AceCentre/SpeechBubble](https://github.com/AceCentre/SpeechBubble)
+4. ❗️ Closed issue [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
+5. 🗣 Commented on [#233](https://github.com/simon987/sist2/issues/233) in [simon987/sist2](https://github.com/simon987/sist2)
 <!--END_SECTION:activity-->
