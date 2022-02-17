@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. 🗣 Commented on [#1](https://github.com/dasher-project/governance/issues/1) in [dasher-project/governance](https://github.com/dasher-project/governance)
-3. 🗣 Commented on [#60](https://github.com/AceCentre/EyeCommander/issues/60) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🎉 Merged PR [#29](https://github.com/dasher-project/website/pull/29) in [dasher-project/website](https://github.com/dasher-project/website)
-5. 🎉 Merged PR [#151](https://github.com/AceCentre/SpeechBubble/pull/151) in [AceCentre/SpeechBubble](https://github.com/AceCentre/SpeechBubble)
+1. 🎉 Merged PR [#258](https://github.com/AceCentre/pasco/pull/258) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. ❗️ Opened issue [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 🗣 Commented on [#1](https://github.com/dasher-project/governance/issues/1) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🗣 Commented on [#60](https://github.com/AceCentre/EyeCommander/issues/60) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🎉 Merged PR [#29](https://github.com/dasher-project/website/pull/29) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
