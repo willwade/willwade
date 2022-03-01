@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
-2. 🎉 Merged PR [#944](https://github.com/AceCentre/acecentre.org.uk/pull/944) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-3. 🎉 Merged PR [#258](https://github.com/AceCentre/pasco/pull/258) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. ❗️ Opened issue [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. 🗣 Commented on [#1](https://github.com/dasher-project/governance/issues/1) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+2. ❗️ Opened issue [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+3. 🎉 Merged PR [#944](https://github.com/AceCentre/acecentre.org.uk/pull/944) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+4. 🎉 Merged PR [#258](https://github.com/AceCentre/pasco/pull/258) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Opened issue [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
