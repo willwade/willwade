@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/AceCentre/pasco/issues/251) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#98](https://github.com/rspeer/wordfreq/issues/98) in [rspeer/wordfreq](https://github.com/rspeer/wordfreq)
-3. ❗️ Opened issue [#75](https://github.com/AceCentre/RelayKeys/issues/75) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#15](https://github.com/AceCentre/morAce/pull/15) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. 🗣 Commented on [#145](https://github.com/AceCentre/pasco/issues/145) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#76](https://github.com/AceCentre/RelayKeys/issues/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 💪 Opened PR [#76](https://github.com/AceCentre/RelayKeys/pull/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#251](https://github.com/AceCentre/pasco/issues/251) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❗️ Opened issue [#98](https://github.com/rspeer/wordfreq/issues/98) in [rspeer/wordfreq](https://github.com/rspeer/wordfreq)
+5. ❗️ Opened issue [#75](https://github.com/AceCentre/RelayKeys/issues/75) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
