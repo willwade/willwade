@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#77](https://github.com/AceCentre/RelayKeys/issues/77) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#76](https://github.com/AceCentre/RelayKeys/issues/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 💪 Opened PR [#76](https://github.com/AceCentre/RelayKeys/pull/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#251](https://github.com/AceCentre/pasco/issues/251) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. ❗️ Opened issue [#98](https://github.com/rspeer/wordfreq/issues/98) in [rspeer/wordfreq](https://github.com/rspeer/wordfreq)
+1. ❌ Closed PR [#73](https://github.com/AceCentre/RelayKeys/pull/73) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❌ Closed PR [#74](https://github.com/AceCentre/RelayKeys/pull/74) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❌ Closed PR [#70](https://github.com/AceCentre/RelayKeys/pull/70) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❌ Closed PR [#67](https://github.com/AceCentre/RelayKeys/pull/67) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❌ Closed PR [#66](https://github.com/AceCentre/RelayKeys/pull/66) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
