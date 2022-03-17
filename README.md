@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#73](https://github.com/AceCentre/RelayKeys/pull/73) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. ❌ Closed PR [#74](https://github.com/AceCentre/RelayKeys/pull/74) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❌ Closed PR [#70](https://github.com/AceCentre/RelayKeys/pull/70) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❌ Closed PR [#67](https://github.com/AceCentre/RelayKeys/pull/67) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❌ Closed PR [#66](https://github.com/AceCentre/RelayKeys/pull/66) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#55](https://github.com/AceCentre/EyeCommander/issues/55) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. 🗣 Commented on [#63](https://github.com/AceCentre/EyeCommander/issues/63) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. 🗣 Commented on [#67](https://github.com/AceCentre/EyeCommander/issues/67) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❌ Closed PR [#73](https://github.com/AceCentre/RelayKeys/pull/73) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❌ Closed PR [#74](https://github.com/AceCentre/RelayKeys/pull/74) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
