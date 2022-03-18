@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/AceCentre/RelayKeys/issues/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#55](https://github.com/AceCentre/EyeCommander/issues/55) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. 🗣 Commented on [#63](https://github.com/AceCentre/EyeCommander/issues/63) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🗣 Commented on [#67](https://github.com/AceCentre/EyeCommander/issues/67) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❌ Closed PR [#73](https://github.com/AceCentre/RelayKeys/pull/73) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Closed issue [#69](https://github.com/AceCentre/RelayKeys/issues/69) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Closed issue [#77](https://github.com/AceCentre/RelayKeys/issues/77) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#76](https://github.com/AceCentre/RelayKeys/issues/76) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#55](https://github.com/AceCentre/EyeCommander/issues/55) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🗣 Commented on [#63](https://github.com/AceCentre/EyeCommander/issues/63) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
