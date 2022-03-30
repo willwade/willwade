@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/AceCentre/RelayKeys/issues/71) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#72](https://github.com/AceCentre/RelayKeys/issues/72) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Opened issue [#56](https://github.com/rvaiya/warpd/issues/56) in [rvaiya/warpd](https://github.com/rvaiya/warpd)
-4. ❗️ Opened issue [#55](https://github.com/rvaiya/warpd/issues/55) in [rvaiya/warpd](https://github.com/rvaiya/warpd)
-5. ❗️ Closed issue [#75](https://github.com/AceCentre/RelayKeys/issues/75) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Closed issue [#63](https://github.com/AceCentre/RelayKeys/issues/63) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#63](https://github.com/AceCentre/RelayKeys/issues/63) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Closed issue [#71](https://github.com/AceCentre/RelayKeys/issues/71) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#71](https://github.com/AceCentre/RelayKeys/issues/71) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#71](https://github.com/AceCentre/RelayKeys/issues/71) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
