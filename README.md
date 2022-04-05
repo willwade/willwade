@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/AceCentre/RelayKeys/issues/81) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#55](https://github.com/AceCentre/EyeCommander/issues/55) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. 🗣 Commented on [#55](https://github.com/rvaiya/warpd/issues/55) in [rvaiya/warpd](https://github.com/rvaiya/warpd)
-4. 🗣 Commented on [#55](https://github.com/rvaiya/warpd/issues/55) in [rvaiya/warpd](https://github.com/rvaiya/warpd)
-5. 🗣 Commented on [#268](https://github.com/AceCentre/pasco/issues/268) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#82](https://github.com/AceCentre/RelayKeys/issues/82) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#82](https://github.com/AceCentre/RelayKeys/issues/82) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Opened issue [#81](https://github.com/AceCentre/RelayKeys/issues/81) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#55](https://github.com/AceCentre/EyeCommander/issues/55) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🗣 Commented on [#55](https://github.com/rvaiya/warpd/issues/55) in [rvaiya/warpd](https://github.com/rvaiya/warpd)
 <!--END_SECTION:activity-->
