@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mrdaly/ColorCode/pull/1) in [mrdaly/ColorCode](https://github.com/mrdaly/ColorCode)
-2. ❗️ Opened issue [#1212](https://github.com/cboard-org/cboard/issues/1212) in [cboard-org/cboard](https://github.com/cboard-org/cboard)
-3. ❗️ Closed issue [#85](https://github.com/AceCentre/RelayKeys/issues/85) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Closed issue [#39](https://github.com/AceCentre/RelayKeys/issues/39) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#39](https://github.com/AceCentre/RelayKeys/issues/39) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#91](https://github.com/AceCentre/RelayKeys/issues/91) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 💪 Opened PR [#1](https://github.com/mrdaly/ColorCode/pull/1) in [mrdaly/ColorCode](https://github.com/mrdaly/ColorCode)
+3. ❗️ Opened issue [#1212](https://github.com/cboard-org/cboard/issues/1212) in [cboard-org/cboard](https://github.com/cboard-org/cboard)
+4. ❗️ Closed issue [#85](https://github.com/AceCentre/RelayKeys/issues/85) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❗️ Closed issue [#39](https://github.com/AceCentre/RelayKeys/issues/39) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
