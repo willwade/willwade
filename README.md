@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/AceCentre/pasco/issues/86) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#18](https://github.com/spyoungtech/pyclip/issues/18) in [spyoungtech/pyclip](https://github.com/spyoungtech/pyclip)
-3. 🗣 Commented on [#268](https://github.com/AceCentre/pasco/issues/268) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. 🗣 Commented on [#89](https://github.com/AceCentre/RelayKeys/issues/89) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🎉 Merged PR [#96](https://github.com/AceCentre/RelayKeys/pull/96) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#277](https://github.com/AceCentre/pasco/issues/277) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#86](https://github.com/AceCentre/pasco/issues/86) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. ❗️ Opened issue [#18](https://github.com/spyoungtech/pyclip/issues/18) in [spyoungtech/pyclip](https://github.com/spyoungtech/pyclip)
+4. 🗣 Commented on [#268](https://github.com/AceCentre/pasco/issues/268) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. 🗣 Commented on [#89](https://github.com/AceCentre/RelayKeys/issues/89) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
