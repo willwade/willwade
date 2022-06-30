@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/AceCentre/RelayKeys/issues/89) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#99](https://github.com/AceCentre/RelayKeys/pull/99) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🎉 Merged PR [#98](https://github.com/AceCentre/RelayKeys/pull/98) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#98](https://github.com/AceCentre/RelayKeys/issues/98) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Reopened issue [#89](https://github.com/AceCentre/RelayKeys/issues/89) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Opened issue [#102](https://github.com/AceCentre/RelayKeys/issues/102) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Closed issue [#101](https://github.com/AceCentre/RelayKeys/issues/101) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Opened issue [#101](https://github.com/AceCentre/RelayKeys/issues/101) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❗️ Opened issue [#100](https://github.com/AceCentre/RelayKeys/issues/100) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#89](https://github.com/AceCentre/RelayKeys/issues/89) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
