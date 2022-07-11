@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/AceCentre/RelayKeys/issues/107) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. ❗️ Opened issue [#106](https://github.com/AceCentre/RelayKeys/issues/106) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Opened issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
-4. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#107](https://github.com/AceCentre/RelayKeys/issues/107) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Opened issue [#106](https://github.com/AceCentre/RelayKeys/issues/106) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❗️ Opened issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
 5. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
