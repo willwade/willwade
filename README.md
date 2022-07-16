@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/AceCentre/MorseWriter/issues/25) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. ❗️ Opened issue [#24](https://github.com/AceCentre/MorseWriter/issues/24) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-3. ❗️ Opened issue [#23](https://github.com/AceCentre/MorseWriter/issues/23) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. ❗️ Opened issue [#251](https://github.com/GabrielAcostaEngler/signtool-code-sign/issues/251) in [GabrielAcostaEngler/signtool-code-sign](https://github.com/GabrielAcostaEngler/signtool-code-sign)
-5. ❗️ Closed issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
+1. ❗️ Closed issue [#24](https://github.com/AceCentre/MorseWriter/issues/24) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. ❗️ Opened issue [#25](https://github.com/AceCentre/MorseWriter/issues/25) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. ❗️ Opened issue [#24](https://github.com/AceCentre/MorseWriter/issues/24) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. ❗️ Opened issue [#23](https://github.com/AceCentre/MorseWriter/issues/23) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. ❗️ Opened issue [#251](https://github.com/GabrielAcostaEngler/signtool-code-sign/issues/251) in [GabrielAcostaEngler/signtool-code-sign](https://github.com/GabrielAcostaEngler/signtool-code-sign)
 <!--END_SECTION:activity-->
