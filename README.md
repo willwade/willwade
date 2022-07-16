@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#251](https://github.com/GabrielAcostaEngler/signtool-code-sign/issues/251) in [GabrielAcostaEngler/signtool-code-sign](https://github.com/GabrielAcostaEngler/signtool-code-sign)
-2. ❗️ Closed issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
-3. 🗣 Commented on [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
-4. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🎉 Merged PR [#109](https://github.com/AceCentre/RelayKeys/pull/109) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Opened issue [#24](https://github.com/AceCentre/MorseWriter/issues/24) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. ❗️ Opened issue [#23](https://github.com/AceCentre/MorseWriter/issues/23) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. ❗️ Opened issue [#251](https://github.com/GabrielAcostaEngler/signtool-code-sign/issues/251) in [GabrielAcostaEngler/signtool-code-sign](https://github.com/GabrielAcostaEngler/signtool-code-sign)
+4. ❗️ Closed issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
+5. 🗣 Commented on [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
 <!--END_SECTION:activity-->
