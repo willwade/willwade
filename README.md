@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 💪 Opened PR [#111](https://github.com/AceCentre/RelayKeys/pull/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🎉 Merged PR [#110](https://github.com/AceCentre/RelayKeys/pull/110) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#26](https://github.com/AceCentre/MorseWriter/issues/26) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. ❗️ Closed issue [#22](https://github.com/AceCentre/MorseWriter/issues/22) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Reopened issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
+3. 🗣 Commented on [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
+4. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#105](https://github.com/AceCentre/RelayKeys/issues/105) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
