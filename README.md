@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#730](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/730) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
-2. ❗️ Opened issue [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Reopened issue [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
-5. 🗣 Commented on [#44](https://github.com/ms7m/notify-py/issues/44) in [ms7m/notify-py](https://github.com/ms7m/notify-py)
+1. 🗣 Commented on [#114](https://github.com/AceCentre/RelayKeys/issues/114) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Opened issue [#114](https://github.com/AceCentre/RelayKeys/issues/114) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#730](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/730) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
+4. ❗️ Opened issue [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
