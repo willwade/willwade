@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#117](https://github.com/AceCentre/RelayKeys/issues/117) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#1](https://github.com/NSIS-Dev/ci-examples/issues/1) in [NSIS-Dev/ci-examples](https://github.com/NSIS-Dev/ci-examples)
-3. 🗣 Commented on [#117](https://github.com/AceCentre/RelayKeys/issues/117) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Closed issue [#117](https://github.com/AceCentre/RelayKeys/issues/117) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#1](https://github.com/NSIS-Dev/ci-examples/issues/1) in [NSIS-Dev/ci-examples](https://github.com/NSIS-Dev/ci-examples)
 4. 🗣 Commented on [#117](https://github.com/AceCentre/RelayKeys/issues/117) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🎉 Merged PR [#121](https://github.com/AceCentre/RelayKeys/pull/121) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#117](https://github.com/AceCentre/RelayKeys/issues/117) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
