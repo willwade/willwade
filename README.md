@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Closed issue [#102](https://github.com/AceCentre/RelayKeys/issues/102) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Opened issue [#1](https://github.com/safing/nsis-shortcut-properties/issues/1) in [safing/nsis-shortcut-properties](https://github.com/safing/nsis-shortcut-properties)
-5. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🎉 Merged PR [#123](https://github.com/AceCentre/RelayKeys/pull/123) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#113](https://github.com/AceCentre/RelayKeys/issues/113) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#115](https://github.com/AceCentre/RelayKeys/issues/115) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#111](https://github.com/AceCentre/RelayKeys/issues/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
