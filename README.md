@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+1. 🎉 Merged PR [#18](https://github.com/AceCentre/morAce/pull/18) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 2. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
-3. 🎉 Merged PR [#16](https://github.com/AceCentre/morAce/pull/16) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. ❗️ Closed issue [#1](https://github.com/NSIS-Dev/ci-examples/issues/1) in [NSIS-Dev/ci-examples](https://github.com/NSIS-Dev/ci-examples)
-5. ❗️ Closed issue [#1](https://github.com/safing/nsis-shortcut-properties/issues/1) in [safing/nsis-shortcut-properties](https://github.com/safing/nsis-shortcut-properties)
+3. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+4. 🎉 Merged PR [#16](https://github.com/AceCentre/morAce/pull/16) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. ❗️ Closed issue [#1](https://github.com/NSIS-Dev/ci-examples/issues/1) in [NSIS-Dev/ci-examples](https://github.com/NSIS-Dev/ci-examples)
 <!--END_SECTION:activity-->
