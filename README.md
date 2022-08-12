@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#18](https://github.com/AceCentre/morAce/pull/18) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+1. 🗣 Commented on [#13](https://github.com/AceCentre/morAce/issues/13) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🎉 Merged PR [#18](https://github.com/AceCentre/morAce/pull/18) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 4. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
-5. 🎉 Merged PR [#16](https://github.com/AceCentre/morAce/pull/16) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🗣 Commented on [#6086](https://github.com/adafruit/circuitpython/issues/6086) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
 <!--END_SECTION:activity-->
