@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/AceCentre/morAce/issues/22) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-2. ❗️ Opened issue [#21](https://github.com/AceCentre/morAce/issues/21) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. ❗️ Closed issue [#19](https://github.com/AceCentre/morAce/issues/19) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. 🗣 Commented on [#19](https://github.com/AceCentre/morAce/issues/19) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. ❗️ Closed issue [#20](https://github.com/AceCentre/morAce/issues/20) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. 🗣 Commented on [#22](https://github.com/AceCentre/morAce/issues/22) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. ❗️ Opened issue [#21](https://github.com/AceCentre/morAce/issues/21) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. ❗️ Closed issue [#19](https://github.com/AceCentre/morAce/issues/19) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🗣 Commented on [#19](https://github.com/AceCentre/morAce/issues/19) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
