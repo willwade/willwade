@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/AceCentre/morAce/issues/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-2. ❗️ Opened issue [#31](https://github.com/AceCentre/morAce/issues/31) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. ❗️ Opened issue [#30](https://github.com/AceCentre/morAce/issues/30) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. 🎉 Merged PR [#28](https://github.com/AceCentre/morAce/pull/28) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. 🎉 Merged PR [#26](https://github.com/AceCentre/morAce/pull/26) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+1. 🎉 Merged PR [#32](https://github.com/AceCentre/morAce/pull/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. 🗣 Commented on [#32](https://github.com/AceCentre/morAce/issues/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. ❗️ Opened issue [#31](https://github.com/AceCentre/morAce/issues/31) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. ❗️ Opened issue [#30](https://github.com/AceCentre/morAce/issues/30) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🎉 Merged PR [#28](https://github.com/AceCentre/morAce/pull/28) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
