@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/AceCentre/morAce/issues/31) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-2. 🎉 Merged PR [#34](https://github.com/AceCentre/morAce/pull/34) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. ❗️ Closed issue [#30](https://github.com/AceCentre/morAce/issues/30) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. 🎉 Merged PR [#32](https://github.com/AceCentre/morAce/pull/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. 🗣 Commented on [#32](https://github.com/AceCentre/morAce/issues/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+1. ❗️ Opened issue [#1442](https://github.com/zmkfirmware/zmk/issues/1442) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+2. ❗️ Closed issue [#31](https://github.com/AceCentre/morAce/issues/31) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. 🎉 Merged PR [#34](https://github.com/AceCentre/morAce/pull/34) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. ❗️ Closed issue [#30](https://github.com/AceCentre/morAce/issues/30) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🎉 Merged PR [#32](https://github.com/AceCentre/morAce/pull/32) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
