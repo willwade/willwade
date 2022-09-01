@@ -26,7 +26,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/AceCentre/morAce/issues/36) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 2. 🗣 Commented on [#36](https://github.com/AceCentre/morAce/issues/36) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. ❗️ Closed issue [#35](https://github.com/AceCentre/morAce/issues/35) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. 🗣 Commented on [#35](https://github.com/AceCentre/morAce/issues/35) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. 🎉 Merged PR [#37](https://github.com/AceCentre/morAce/pull/37) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. 🗣 Commented on [#36](https://github.com/AceCentre/morAce/issues/36) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. ❗️ Closed issue [#35](https://github.com/AceCentre/morAce/issues/35) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🗣 Commented on [#35](https://github.com/AceCentre/morAce/issues/35) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
