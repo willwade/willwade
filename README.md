@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1442](https://github.com/zmkfirmware/zmk/issues/1442) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
-2. 🗣 Commented on [#39](https://github.com/AceCentre/morAce/issues/39) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. 🗣 Commented on [#40](https://github.com/AceCentre/morAce/issues/40) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Opened issue [#40](https://github.com/AceCentre/morAce/issues/40) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+1. 🗣 Commented on [#41](https://github.com/AceCentre/morAce/issues/41) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. ❌ Closed PR [#42](https://github.com/AceCentre/morAce/pull/42) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. 🗣 Commented on [#1442](https://github.com/zmkfirmware/zmk/issues/1442) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+4. 🗣 Commented on [#39](https://github.com/AceCentre/morAce/issues/39) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🗣 Commented on [#40](https://github.com/AceCentre/morAce/issues/40) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
