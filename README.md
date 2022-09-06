@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/AceCentre/EyeCommander/issues/85) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. 🗣 Commented on [#39](https://github.com/AceCentre/morAce/issues/39) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-3. 🗣 Commented on [#41](https://github.com/AceCentre/morAce/issues/41) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-4. ❌ Closed PR [#42](https://github.com/AceCentre/morAce/pull/42) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. 🗣 Commented on [#1442](https://github.com/zmkfirmware/zmk/issues/1442) in [zmkfirmware/zmk](https://github.com/zmkfirmware/zmk)
+1. 🎉 Merged PR [#41](https://github.com/AceCentre/morAce/pull/41) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+2. 🗣 Commented on [#85](https://github.com/AceCentre/EyeCommander/issues/85) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. 🗣 Commented on [#39](https://github.com/AceCentre/morAce/issues/39) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. 🗣 Commented on [#41](https://github.com/AceCentre/morAce/issues/41) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. ❌ Closed PR [#42](https://github.com/AceCentre/morAce/pull/42) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
