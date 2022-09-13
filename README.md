@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#39](https://github.com/AceCentre/morAce/issues/39) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 2. 🗣 Commented on [#43](https://github.com/AceCentre/morAce/issues/43) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 3. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Closed issue [#40](https://github.com/AceCentre/morAce/issues/40) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+4. 🗣 Commented on [#43](https://github.com/AceCentre/morAce/issues/43) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+5. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
