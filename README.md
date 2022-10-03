@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#284](https://github.com/AceCentre/pasco/issues/284) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-2. ❗️ Opened issue [#283](https://github.com/AceCentre/pasco/issues/283) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Opened issue [#282](https://github.com/AceCentre/pasco/issues/282) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. 🎉 Merged PR [#126](https://github.com/AceCentre/RelayKeys/pull/126) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Opened issue [#281](https://github.com/AceCentre/pasco/issues/281) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🗣 Commented on [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Opened issue [#284](https://github.com/AceCentre/pasco/issues/284) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. ❗️ Opened issue [#283](https://github.com/AceCentre/pasco/issues/283) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❗️ Opened issue [#282](https://github.com/AceCentre/pasco/issues/282) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. 🎉 Merged PR [#126](https://github.com/AceCentre/RelayKeys/pull/126) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
