@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. ❗️ Opened issue [#284](https://github.com/AceCentre/pasco/issues/284) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Opened issue [#283](https://github.com/AceCentre/pasco/issues/283) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-4. ❗️ Opened issue [#282](https://github.com/AceCentre/pasco/issues/282) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. 🎉 Merged PR [#126](https://github.com/AceCentre/RelayKeys/pull/126) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#136](https://github.com/asweigart/pyautogui/issues/136) in [asweigart/pyautogui](https://github.com/asweigart/pyautogui)
+2. ❗️ Opened issue [#9](https://github.com/wolfmanstout/screen-ocr/issues/9) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
+3. 🗣 Commented on [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❗️ Opened issue [#284](https://github.com/AceCentre/pasco/issues/284) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+5. ❗️ Opened issue [#283](https://github.com/AceCentre/pasco/issues/283) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
