@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/mattoppenheim/microbit_activity_indicator/issues/7) in [mattoppenheim/microbit_activity_indicator](https://github.com/mattoppenheim/microbit_activity_indicator)
-2. 🗣 Commented on [#136](https://github.com/asweigart/pyautogui/issues/136) in [asweigart/pyautogui](https://github.com/asweigart/pyautogui)
-3. ❗️ Opened issue [#9](https://github.com/wolfmanstout/screen-ocr/issues/9) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
-4. 🗣 Commented on [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Opened issue [#284](https://github.com/AceCentre/pasco/issues/284) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🎉 Merged PR [#128](https://github.com/AceCentre/RelayKeys/pull/128) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗️ Opened issue [#7](https://github.com/mattoppenheim/microbit_activity_indicator/issues/7) in [mattoppenheim/microbit_activity_indicator](https://github.com/mattoppenheim/microbit_activity_indicator)
+3. 🗣 Commented on [#136](https://github.com/asweigart/pyautogui/issues/136) in [asweigart/pyautogui](https://github.com/asweigart/pyautogui)
+4. ❗️ Opened issue [#9](https://github.com/wolfmanstout/screen-ocr/issues/9) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
+5. 🗣 Commented on [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
