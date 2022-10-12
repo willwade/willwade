@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Closed issue [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#128](https://github.com/AceCentre/RelayKeys/pull/128) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Opened issue [#7](https://github.com/mattoppenheim/microbit_activity_indicator/issues/7) in [mattoppenheim/microbit_activity_indicator](https://github.com/mattoppenheim/microbit_activity_indicator)
+1. ❗️ Opened issue [#10](https://github.com/wolfmanstout/screen-ocr/issues/10) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
+2. 🗣 Commented on [#9](https://github.com/wolfmanstout/screen-ocr/issues/9) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
+3. ❗️ Closed issue [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#125](https://github.com/AceCentre/RelayKeys/issues/125) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❗️ Closed issue [#127](https://github.com/AceCentre/RelayKeys/issues/127) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
