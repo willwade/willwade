@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. ❗️ Closed issue [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🎉 Merged PR [#129](https://github.com/AceCentre/RelayKeys/pull/129) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Opened issue [#10](https://github.com/wolfmanstout/screen-ocr/issues/10) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
-5. 🗣 Commented on [#9](https://github.com/wolfmanstout/screen-ocr/issues/9) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
+1. ❗️ Opened issue [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Closed issue [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🎉 Merged PR [#129](https://github.com/AceCentre/RelayKeys/pull/129) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❗️ Opened issue [#10](https://github.com/wolfmanstout/screen-ocr/issues/10) in [wolfmanstout/screen-ocr](https://github.com/wolfmanstout/screen-ocr)
 <!--END_SECTION:activity-->
