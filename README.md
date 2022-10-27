@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. ❗️ Opened issue [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Opened issue [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗️ Closed issue [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Opened issue [#748](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/748) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
+2. 🗣 Commented on [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. ❗️ Opened issue [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❗️ Opened issue [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
