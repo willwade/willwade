@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#748](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/748) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
-2. 🗣 Commented on [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Opened issue [#131](https://github.com/AceCentre/RelayKeys/issues/131) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Opened issue [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#26](https://github.com/AceCentre/RelayKeys/issues/26) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗️ Opened issue [#4](https://github.com/AceCentre/TextAloud/issues/4) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗️ Opened issue [#3](https://github.com/AceCentre/TextAloud/issues/3) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Opened issue [#2](https://github.com/AceCentre/TextAloud/issues/2) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗️ Opened issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#748](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/748) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 <!--END_SECTION:activity-->
