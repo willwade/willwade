@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/AceCentre/TextAloud/issues/4) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Opened issue [#3](https://github.com/AceCentre/TextAloud/issues/3) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. ❗️ Opened issue [#2](https://github.com/AceCentre/TextAloud/issues/2) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. ❗️ Opened issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#748](https://github.com/adafruit/Adafruit_nRF52_Arduino/issues/748) in [adafruit/Adafruit_nRF52_Arduino](https://github.com/adafruit/Adafruit_nRF52_Arduino)
+1. ❗️ Opened issue [#5](https://github.com/AceCentre/TextAloud/issues/5) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗️ Opened issue [#4](https://github.com/AceCentre/TextAloud/issues/4) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Opened issue [#3](https://github.com/AceCentre/TextAloud/issues/3) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗️ Opened issue [#2](https://github.com/AceCentre/TextAloud/issues/2) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
