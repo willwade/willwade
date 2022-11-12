@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗️ Opened issue [#6](https://github.com/AceCentre/TextAloud/issues/6) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. ❗️ Opened issue [#5](https://github.com/AceCentre/TextAloud/issues/5) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#4](https://github.com/AceCentre/TextAloud/issues/4) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗️ Opened issue [#9](https://github.com/AceCentre/TextAloud/issues/9) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. 🗣 Commented on [#112](https://github.com/AceCentre/RelayKeys/issues/112) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#130](https://github.com/AceCentre/RelayKeys/issues/130) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❗️ Opened issue [#6](https://github.com/AceCentre/TextAloud/issues/6) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#5](https://github.com/AceCentre/TextAloud/issues/5) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
