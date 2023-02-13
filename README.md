@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/AceCentre/EyeCommander/issues/45) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. ❗️ Opened issue [#43](https://github.com/AceCentre/nhs-service-finder/issues/43) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-3. 🗣 Commented on [#10](https://github.com/AceCentre/TextAloud/issues/10) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. ❗️ Opened issue [#10](https://github.com/AceCentre/TextAloud/issues/10) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#9](https://github.com/AceCentre/TextAloud/issues/9) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗️ Opened issue [#407](https://github.com/SwiftUIX/SwiftUIX/issues/407) in [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
+2. 🗣 Commented on [#45](https://github.com/AceCentre/EyeCommander/issues/45) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. ❗️ Opened issue [#43](https://github.com/AceCentre/nhs-service-finder/issues/43) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+4. 🗣 Commented on [#10](https://github.com/AceCentre/TextAloud/issues/10) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#10](https://github.com/AceCentre/TextAloud/issues/10) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
