@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/AceCentre/TextAloud/pull/8) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. 🗣 Commented on [#86](https://github.com/AceCentre/pasco/issues/86) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Closed issue [#4](https://github.com/AceCentre/TextAloud/issues/4) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. ❗️ Closed issue [#5](https://github.com/AceCentre/TextAloud/issues/5) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Closed issue [#6](https://github.com/AceCentre/TextAloud/issues/6) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗️ Closed issue [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#261](https://github.com/AceCentre/pasco/issues/261) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+3. 🗣 Commented on [#283](https://github.com/AceCentre/pasco/issues/283) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❌ Closed PR [#8](https://github.com/AceCentre/TextAloud/pull/8) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🗣 Commented on [#86](https://github.com/AceCentre/pasco/issues/86) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
 <!--END_SECTION:activity-->
