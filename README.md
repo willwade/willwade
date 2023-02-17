@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Closed issue [#12](https://github.com/AceCentre/TextAloud/issues/12) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. ❗️ Opened issue [#14](https://github.com/AceCentre/TextAloud/issues/14) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#245](https://github.com/AceCentre/pasco/issues/245) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-5. ❗️ Opened issue [#13](https://github.com/AceCentre/TextAloud/issues/13) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗️ Opened issue [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗️ Opened issue [#15](https://github.com/AceCentre/TextAloud/issues/15) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Closed issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗️ Closed issue [#12](https://github.com/AceCentre/TextAloud/issues/12) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#14](https://github.com/AceCentre/TextAloud/issues/14) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
