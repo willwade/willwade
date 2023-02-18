@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/SwiftUIX/SwiftUIX/issues/407) in [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
-2. ❗️ Opened issue [#17](https://github.com/AceCentre/TextAloud/issues/17) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. ❗️ Opened issue [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. ❗️ Opened issue [#15](https://github.com/AceCentre/TextAloud/issues/15) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Closed issue [#1](https://github.com/AceCentre/TextAloud/issues/1) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. 🗣 Commented on [#13](https://github.com/AceCentre/TextAloud/issues/13) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗️ Opened issue [#18](https://github.com/AceCentre/TextAloud/issues/18) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. 🗣 Commented on [#407](https://github.com/SwiftUIX/SwiftUIX/issues/407) in [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
+4. ❗️ Opened issue [#17](https://github.com/AceCentre/TextAloud/issues/17) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. ❗️ Opened issue [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
