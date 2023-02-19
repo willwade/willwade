@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/AceCentre/TextAloud/issues/13) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Opened issue [#18](https://github.com/AceCentre/TextAloud/issues/18) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. 🗣 Commented on [#407](https://github.com/SwiftUIX/SwiftUIX/issues/407) in [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
-4. ❗️ Opened issue [#17](https://github.com/AceCentre/TextAloud/issues/17) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗️ Opened issue [#1841](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1841) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+2. 🗣 Commented on [#13](https://github.com/AceCentre/TextAloud/issues/13) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Opened issue [#18](https://github.com/AceCentre/TextAloud/issues/18) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. 🗣 Commented on [#407](https://github.com/SwiftUIX/SwiftUIX/issues/407) in [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX)
+5. ❗️ Opened issue [#17](https://github.com/AceCentre/TextAloud/issues/17) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
