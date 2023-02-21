@@ -25,8 +25,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Opened issue [#6](https://github.com/AceCentre/X80/issues/6) in [AceCentre/X80](https://github.com/AceCentre/X80)
-3. 🗣 Commented on [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. 🗣 Commented on [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Opened issue [#6](https://github.com/AceCentre/X80/issues/6) in [AceCentre/X80](https://github.com/AceCentre/X80)
+4. 🗣 Commented on [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🗣 Commented on [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
