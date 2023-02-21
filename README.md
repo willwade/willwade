@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Opened issue [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. ❗️ Opened issue [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#1841](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1841) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+1. 🗣 Commented on [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. 🗣 Commented on [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+3. ❗️ Opened issue [#21](https://github.com/AceCentre/TextAloud/issues/21) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗️ Opened issue [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🗣 Commented on [#16](https://github.com/AceCentre/TextAloud/issues/16) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
