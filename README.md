@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1841](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1841) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-2. ❗️ Closed issue [#42](https://github.com/AceCentre/pasco/issues/42) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
-3. ❗️ Opened issue [#22](https://github.com/AceCentre/TextAloud/issues/22) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#18](https://github.com/AceCentre/TextAloud/issues/18) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Closed issue [#19](https://github.com/AceCentre/TextAloud/issues/19) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. 🗣 Commented on [#89](https://github.com/AceCentre/pasco/issues/89) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+2. 🗣 Commented on [#1841](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1841) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+3. ❗️ Closed issue [#42](https://github.com/AceCentre/pasco/issues/42) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+4. ❗️ Opened issue [#22](https://github.com/AceCentre/TextAloud/issues/22) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🗣 Commented on [#18](https://github.com/AceCentre/TextAloud/issues/18) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
