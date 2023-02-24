@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#528](https://github.com/KeyboardKit/KeyboardKit/issues/528) in [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit)
-2. ❗️ Opened issue [#27](https://github.com/AceCentre/TextAloud/issues/27) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. 🗣 Commented on [#26](https://github.com/AceCentre/TextAloud/issues/26) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#23](https://github.com/AceCentre/TextAloud/issues/23) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#25](https://github.com/AceCentre/TextAloud/issues/25) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. 🗣 Commented on [#23](https://github.com/AceCentre/TextAloud/issues/23) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗️ Opened issue [#528](https://github.com/KeyboardKit/KeyboardKit/issues/528) in [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit)
+3. ❗️ Opened issue [#27](https://github.com/AceCentre/TextAloud/issues/27) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. 🗣 Commented on [#26](https://github.com/AceCentre/TextAloud/issues/26) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🗣 Commented on [#23](https://github.com/AceCentre/TextAloud/issues/23) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
