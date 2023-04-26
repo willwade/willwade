@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/AceCentre/TextAloud/issues/59) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-2. ❗️ Opened issue [#57](https://github.com/AceCentre/TextAloud/issues/57) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. 🎉 Merged PR [#132](https://github.com/AceCentre/RelayKeys/pull/132) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗️ Opened issue [#52](https://github.com/AceCentre/TextAloud/issues/52) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-5. ❗️ Opened issue [#13](https://github.com/AceCentre/climbing-dots/issues/13) in [AceCentre/climbing-dots](https://github.com/AceCentre/climbing-dots)
+1. ❗️ Opened issue [#45](https://github.com/AceCentre/morse-learn/issues/45) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. ❗️ Opened issue [#44](https://github.com/AceCentre/morse-learn/issues/44) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. ❗️ Opened issue [#59](https://github.com/AceCentre/TextAloud/issues/59) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗️ Opened issue [#57](https://github.com/AceCentre/TextAloud/issues/57) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+5. 🎉 Merged PR [#132](https://github.com/AceCentre/RelayKeys/pull/132) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
