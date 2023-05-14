@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/google/project-gameface/issues/9) in [google/project-gameface](https://github.com/google/project-gameface)
-2. ❗️ Opened issue [#2](https://github.com/AceCentre/MusicSwitcher/issues/2) in [AceCentre/MusicSwitcher](https://github.com/AceCentre/MusicSwitcher)
-3. ❗️ Opened issue [#1](https://github.com/AceCentre/MusicSwitcher/issues/1) in [AceCentre/MusicSwitcher](https://github.com/AceCentre/MusicSwitcher)
-4. ❗️ Opened issue [#45](https://github.com/AceCentre/morse-learn/issues/45) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. ❗️ Opened issue [#44](https://github.com/AceCentre/morse-learn/issues/44) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. 🗣 Commented on [#2](https://github.com/google/project-gameface/issues/2) in [google/project-gameface](https://github.com/google/project-gameface)
+2. ❗️ Opened issue [#10](https://github.com/google/project-gameface/issues/10) in [google/project-gameface](https://github.com/google/project-gameface)
+3. ❗️ Opened issue [#9](https://github.com/google/project-gameface/issues/9) in [google/project-gameface](https://github.com/google/project-gameface)
+4. ❗️ Opened issue [#2](https://github.com/AceCentre/MusicSwitcher/issues/2) in [AceCentre/MusicSwitcher](https://github.com/AceCentre/MusicSwitcher)
+5. ❗️ Opened issue [#1](https://github.com/AceCentre/MusicSwitcher/issues/1) in [AceCentre/MusicSwitcher](https://github.com/AceCentre/MusicSwitcher)
 <!--END_SECTION:activity-->
