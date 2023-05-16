@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🗣 Commented on [#12](https://github.com/google/project-gameface/issues/12) in [google/project-gameface](https://github.com/google/project-gameface)
-3. ❗️ Opened issue [#191](https://github.com/David-OConnor/pyflow/issues/191) in [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow)
-4. 🗣 Commented on [#6](https://github.com/google/project-gameface/issues/6) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 💪 Opened PR [#11](https://github.com/google/project-gameface/pull/11) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
+2. ❗️ Opened issue [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#12](https://github.com/google/project-gameface/issues/12) in [google/project-gameface](https://github.com/google/project-gameface)
+4. ❗️ Opened issue [#191](https://github.com/David-OConnor/pyflow/issues/191) in [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow)
+5. 🗣 Commented on [#6](https://github.com/google/project-gameface/issues/6) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
