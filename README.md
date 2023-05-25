@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/google/project-gameface/issues/2) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🎉 Merged PR [#30](https://github.com/dasher-project/website/pull/30) in [dasher-project/website](https://github.com/dasher-project/website)
-3. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
-4. ❗️ Opened issue [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#12](https://github.com/google/project-gameface/issues/12) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#2](https://github.com/google/project-gameface/issues/2) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🎉 Merged PR [#30](https://github.com/dasher-project/website/pull/30) in [dasher-project/website](https://github.com/dasher-project/website)
+4. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
+5. ❗️ Opened issue [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
