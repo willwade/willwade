@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/google/project-gameface/issues/10) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
-3. 🗣 Commented on [#5](https://github.com/google/project-gameface/issues/5) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#9](https://github.com/google/project-gameface/issues/9) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#10](https://github.com/google/project-gameface/issues/10) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
 4. 🗣 Commented on [#5](https://github.com/google/project-gameface/issues/5) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#14](https://github.com/google/project-gameface/issues/14) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 🗣 Commented on [#5](https://github.com/google/project-gameface/issues/5) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
