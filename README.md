@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/google/project-gameface/issues/29) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 💪 Opened PR [#31](https://github.com/google/project-gameface/pull/31) in [google/project-gameface](https://github.com/google/project-gameface)
-3. ❗ Opened issue [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#56](https://github.com/AceCentre/nhs-service-finder/issues/56) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. ❌ Closed PR [#11](https://github.com/google/project-gameface/pull/11) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#21](https://github.com/google/project-gameface/issues/21) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#31](https://github.com/google/project-gameface/issues/31) in [google/project-gameface](https://github.com/google/project-gameface)
+3. ❗ Opened issue [#33](https://github.com/google/project-gameface/issues/33) in [google/project-gameface](https://github.com/google/project-gameface)
+4. 🗣 Commented on [#18](https://github.com/google/project-gameface/issues/18) in [google/project-gameface](https://github.com/google/project-gameface)
+5. ❗ Opened issue [#32](https://github.com/google/project-gameface/issues/32) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
