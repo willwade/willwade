@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/google/project-gameface/issues/23) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🗣 Commented on [#33](https://github.com/google/project-gameface/issues/33) in [google/project-gameface](https://github.com/google/project-gameface)
-3. 🗣 Commented on [#28](https://github.com/google/project-gameface/issues/28) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 🗣 Commented on [#21](https://github.com/google/project-gameface/issues/21) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#31](https://github.com/google/project-gameface/issues/31) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#30](https://github.com/google/project-gameface/issues/30) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#23](https://github.com/google/project-gameface/issues/23) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#33](https://github.com/google/project-gameface/issues/33) in [google/project-gameface](https://github.com/google/project-gameface)
+4. 🗣 Commented on [#28](https://github.com/google/project-gameface/issues/28) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 🗣 Commented on [#21](https://github.com/google/project-gameface/issues/21) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
