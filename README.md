@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/AceCentre/RelayKeys/pull/134) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#35](https://github.com/google/project-gameface/issues/35) in [google/project-gameface](https://github.com/google/project-gameface)
-3. ❗ Opened issue [#34](https://github.com/google/project-gameface/issues/34) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 🗣 Commented on [#1990](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1990) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-5. 🗣 Commented on [#30](https://github.com/google/project-gameface/issues/30) in [google/project-gameface](https://github.com/google/project-gameface)
+1. ❗ Opened issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🔒 Closed issue [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🎉 Merged PR [#134](https://github.com/AceCentre/RelayKeys/pull/134) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#35](https://github.com/google/project-gameface/issues/35) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
