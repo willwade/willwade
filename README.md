@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/google/project-gameface/issues/34) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🗣 Commented on [#1990](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1990) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
-3. 🗣 Commented on [#30](https://github.com/google/project-gameface/issues/30) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 🗣 Commented on [#23](https://github.com/google/project-gameface/issues/23) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#33](https://github.com/google/project-gameface/issues/33) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#35](https://github.com/google/project-gameface/issues/35) in [google/project-gameface](https://github.com/google/project-gameface)
+2. ❗ Opened issue [#34](https://github.com/google/project-gameface/issues/34) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#1990](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1990) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+4. 🗣 Commented on [#30](https://github.com/google/project-gameface/issues/30) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 🗣 Commented on [#23](https://github.com/google/project-gameface/issues/23) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
