@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🔒 Closed issue [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#134](https://github.com/AceCentre/RelayKeys/pull/134) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#35](https://github.com/google/project-gameface/issues/35) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🚀 Published release [v 0.9](https://github.com/v 0.9) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. ❗ Opened issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🔒 Closed issue [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#133](https://github.com/AceCentre/RelayKeys/issues/133) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🎉 Merged PR [#134](https://github.com/AceCentre/RelayKeys/pull/134) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
