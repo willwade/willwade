@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#138](https://github.com/AceCentre/RelayKeys/pull/138) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#137](https://github.com/AceCentre/RelayKeys/pull/137) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1631055890) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 🚀 Published release [Receiver Dongle, Fixes for removal of board](https://github.com/AceCentre/RelayKeys/releases/tag/1.99.6) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🎉 Merged PR [#136](https://github.com/AceCentre/RelayKeys/pull/136) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🔒 Closed issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🚀 Published release [No pair needed release](https://github.com/AceCentre/RelayKeys/releases/tag/1.99.7) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🎉 Merged PR [#138](https://github.com/AceCentre/RelayKeys/pull/138) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🎉 Merged PR [#137](https://github.com/AceCentre/RelayKeys/pull/137) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1631055890) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
