@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🚀 Published release [No pair needed release](https://github.com/AceCentre/RelayKeys/releases/tag/1.99.7) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🎉 Merged PR [#138](https://github.com/AceCentre/RelayKeys/pull/138) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#137](https://github.com/AceCentre/RelayKeys/pull/137) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1631055890) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1644966453) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. ❗ Opened issue [#20](https://github.com/mediatechlab/tts-wrapper/issues/20) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 🔒 Closed issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🚀 Published release [No pair needed release](https://github.com/AceCentre/RelayKeys/releases/tag/1.99.7) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🎉 Merged PR [#138](https://github.com/AceCentre/RelayKeys/pull/138) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
