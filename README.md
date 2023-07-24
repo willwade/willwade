@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/mediatechlab/tts-wrapper/issues/21) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-2. 🗣 Commented on [#20](https://github.com/mediatechlab/tts-wrapper/issues/20#issuecomment-1646652723) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1644966453) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. ❗ Opened issue [#20](https://github.com/mediatechlab/tts-wrapper/issues/20) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. 🔒 Closed issue [#135](https://github.com/AceCentre/RelayKeys/issues/135) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❗ Opened issue [#22](https://github.com/mediatechlab/tts-wrapper/issues/22) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+2. ❗ Opened issue [#21](https://github.com/mediatechlab/tts-wrapper/issues/21) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 🗣 Commented on [#20](https://github.com/mediatechlab/tts-wrapper/issues/20#issuecomment-1646652723) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1644966453) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. ❗ Opened issue [#20](https://github.com/mediatechlab/tts-wrapper/issues/20) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
