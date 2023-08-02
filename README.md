@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/AceCentre/RelayKeys/pull/139) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#139](https://github.com/AceCentre/RelayKeys/pull/139#issuecomment-1652545812) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. ❗ Opened issue [#22](https://github.com/mediatechlab/tts-wrapper/issues/22) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-4. ❗ Opened issue [#21](https://github.com/mediatechlab/tts-wrapper/issues/21) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. 🗣 Commented on [#20](https://github.com/mediatechlab/tts-wrapper/issues/20#issuecomment-1646652723) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. ❗ Opened issue [#4](https://github.com/AceCentre/TranslateAndTTS/issues/4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. ❗ Opened issue [#3](https://github.com/AceCentre/TranslateAndTTS/issues/3) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. ❗ Opened issue [#2](https://github.com/AceCentre/TranslateAndTTS/issues/2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🎉 Merged PR [#139](https://github.com/AceCentre/RelayKeys/pull/139) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#139](https://github.com/AceCentre/RelayKeys/pull/139#issuecomment-1652545812) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
