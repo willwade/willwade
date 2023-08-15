@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/AceCentre/RelayKeys/pull/141#issuecomment-1678583899) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#145](https://github.com/AceCentre/RelayKeys/pull/145) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#144](https://github.com/AceCentre/RelayKeys/issues/144#issuecomment-1677090287) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#142](https://github.com/AceCentre/RelayKeys/issues/142#issuecomment-1676988511) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗ Opened issue [#41](https://github.com/ilyachch/md_docs-trans-app/issues/41) in [ilyachch/md_docs-trans-app](https://github.com/ilyachch/md_docs-trans-app)
+1. 🔒 Closed issue [#143](https://github.com/AceCentre/RelayKeys/issues/143) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🎉 Merged PR [#141](https://github.com/AceCentre/RelayKeys/pull/141) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#141](https://github.com/AceCentre/RelayKeys/pull/141#issuecomment-1678583899) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🎉 Merged PR [#145](https://github.com/AceCentre/RelayKeys/pull/145) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#144](https://github.com/AceCentre/RelayKeys/issues/144#issuecomment-1677090287) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
