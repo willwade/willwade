@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683814393) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683443314) in [google/project-gameface](https://github.com/google/project-gameface)
-3. ❗ Opened issue [#6](https://github.com/AceCentre/TranslateAndTTS/issues/6) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🚀 Published release [2.00 - ](https://github.com/AceCentre/RelayKeys/releases/tag/2.00) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🔒 Closed issue [#144](https://github.com/AceCentre/RelayKeys/issues/144) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#148](https://github.com/AceCentre/RelayKeys/issues/148#issuecomment-1685237119) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683814393) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683443314) in [google/project-gameface](https://github.com/google/project-gameface)
+4. ❗ Opened issue [#6](https://github.com/AceCentre/TranslateAndTTS/issues/6) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🚀 Published release [2.00 - ](https://github.com/AceCentre/RelayKeys/releases/tag/2.00) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
