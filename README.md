@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/AceCentre/TranslateAndTTS/issues/7) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. ❗ Opened issue [#81](https://github.com/kxxt/aspeak/issues/81) in [kxxt/aspeak](https://github.com/kxxt/aspeak)
-3. 🗣 Commented on [#148](https://github.com/AceCentre/RelayKeys/issues/148#issuecomment-1685237119) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683814393) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683443314) in [google/project-gameface](https://github.com/google/project-gameface)
+1. ❗ Opened issue [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. ❗ Opened issue [#7](https://github.com/AceCentre/TranslateAndTTS/issues/7) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. ❗ Opened issue [#81](https://github.com/kxxt/aspeak/issues/81) in [kxxt/aspeak](https://github.com/kxxt/aspeak)
+4. 🗣 Commented on [#148](https://github.com/AceCentre/RelayKeys/issues/148#issuecomment-1685237119) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#31](https://github.com/google/project-gameface/pull/31#issuecomment-1683814393) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
