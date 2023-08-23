@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/mediatechlab/tts-wrapper/issues/10#issuecomment-1687779750) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-2. 🗣 Commented on [#21](https://github.com/mediatechlab/tts-wrapper/issues/21#issuecomment-1687778354) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. ❗ Opened issue [#10](https://github.com/AceCentre/TranslateAndTTS/issues/10) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. ❗ Opened issue [#9](https://github.com/AceCentre/TranslateAndTTS/issues/9) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. ❗ Opened issue [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🗣 Commented on [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8#issuecomment-1689290271) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🗣 Commented on [#10](https://github.com/mediatechlab/tts-wrapper/issues/10#issuecomment-1687779750) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 🗣 Commented on [#21](https://github.com/mediatechlab/tts-wrapper/issues/21#issuecomment-1687778354) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. ❗ Opened issue [#10](https://github.com/AceCentre/TranslateAndTTS/issues/10) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. ❗ Opened issue [#9](https://github.com/AceCentre/TranslateAndTTS/issues/9) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
