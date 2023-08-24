@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/AceCentre/TranslateAndTTS/issues/4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🔒 Closed issue [#3](https://github.com/AceCentre/TranslateAndTTS/issues/3) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🔒 Closed issue [#2](https://github.com/AceCentre/TranslateAndTTS/issues/2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🗣 Commented on [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8#issuecomment-1689290271) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🗣 Commented on [#10](https://github.com/mediatechlab/tts-wrapper/issues/10#issuecomment-1687779750) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1691443875) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🔒 Closed issue [#4](https://github.com/AceCentre/TranslateAndTTS/issues/4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🔒 Closed issue [#3](https://github.com/AceCentre/TranslateAndTTS/issues/3) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🔒 Closed issue [#2](https://github.com/AceCentre/TranslateAndTTS/issues/2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🗣 Commented on [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8#issuecomment-1689290271) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
