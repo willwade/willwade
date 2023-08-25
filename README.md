@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/AceCentre/TranslateAndTTS/issues/11) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🗣 Commented on [#37](https://github.com/google/project-gameface/issues/37#issuecomment-1691819508) in [google/project-gameface](https://github.com/google/project-gameface)
-3. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1691443875) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🔒 Closed issue [#4](https://github.com/AceCentre/TranslateAndTTS/issues/4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🔒 Closed issue [#3](https://github.com/AceCentre/TranslateAndTTS/issues/3) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🗣 Commented on [#320](https://github.com/asterics/AsTeRICS-Grid/issues/320#issuecomment-1693140147) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. ❗ Opened issue [#320](https://github.com/asterics/AsTeRICS-Grid/issues/320) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. ❗ Opened issue [#11](https://github.com/AceCentre/TranslateAndTTS/issues/11) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🗣 Commented on [#37](https://github.com/google/project-gameface/issues/37#issuecomment-1691819508) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1691443875) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
