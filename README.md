@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/AceCentre/TranslateAndTTS/issues/6) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🔒 Closed issue [#5](https://github.com/AceCentre/TranslateAndTTS/issues/5) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🔒 Closed issue [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🗣 Commented on [#150](https://github.com/AceCentre/RelayKeys/issues/150#issuecomment-1693881331) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#150](https://github.com/AceCentre/RelayKeys/issues/150#issuecomment-1693816463) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🔒 Closed issue [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🗣 Commented on [#8](https://github.com/AceCentre/TranslateAndTTS/issues/8#issuecomment-1694141835) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🔒 Closed issue [#6](https://github.com/AceCentre/TranslateAndTTS/issues/6) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🔒 Closed issue [#5](https://github.com/AceCentre/TranslateAndTTS/issues/5) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🔒 Closed issue [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
