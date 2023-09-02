@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/AceCentre/TranslateAndTTS/issues/15) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🔒 Closed issue [#14](https://github.com/AceCentre/TranslateAndTTS/issues/14) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🔒 Closed issue [#11](https://github.com/AceCentre/TranslateAndTTS/issues/11) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🔒 Closed issue [#9](https://github.com/AceCentre/TranslateAndTTS/issues/9) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🎉 Merged PR [#17](https://github.com/AceCentre/TranslateAndTTS/pull/17) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🎉 Merged PR [#18](https://github.com/AceCentre/TranslateAndTTS/pull/18) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🔒 Closed issue [#15](https://github.com/AceCentre/TranslateAndTTS/issues/15) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🔒 Closed issue [#14](https://github.com/AceCentre/TranslateAndTTS/issues/14) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🔒 Closed issue [#11](https://github.com/AceCentre/TranslateAndTTS/issues/11) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🔒 Closed issue [#9](https://github.com/AceCentre/TranslateAndTTS/issues/9) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
