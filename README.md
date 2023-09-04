@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/AceCentre/RelayKeys/pull/151) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#151](https://github.com/AceCentre/RelayKeys/pull/151#issuecomment-1705710866) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#150](https://github.com/AceCentre/RelayKeys/issues/150#issuecomment-1705706830) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. ❗ Opened issue [#22](https://github.com/AceCentre/TranslateAndTTS/issues/22) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. ❗ Opened issue [#21](https://github.com/AceCentre/TranslateAndTTS/issues/21) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. ❗ Opened issue [#23](https://github.com/AceCentre/TranslateAndTTS/issues/23) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🎉 Merged PR [#151](https://github.com/AceCentre/RelayKeys/pull/151) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#151](https://github.com/AceCentre/RelayKeys/pull/151#issuecomment-1705710866) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#150](https://github.com/AceCentre/RelayKeys/issues/150#issuecomment-1705706830) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. ❗ Opened issue [#22](https://github.com/AceCentre/TranslateAndTTS/issues/22) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
