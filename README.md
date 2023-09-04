@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/AceCentre/TranslateAndTTS/pull/19) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1703738416) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🚀 Published release [1.0](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.0) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🎉 Merged PR [#18](https://github.com/AceCentre/TranslateAndTTS/pull/18) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🔒 Closed issue [#15](https://github.com/AceCentre/TranslateAndTTS/issues/15) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 💪 Opened PR [#20](https://github.com/AceCentre/TranslateAndTTS/pull/20) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🎉 Merged PR [#19](https://github.com/AceCentre/TranslateAndTTS/pull/19) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🗣 Commented on [#1](https://github.com/AceCentre/TranslateAndTTS/issues/1#issuecomment-1703738416) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🚀 Published release [1.0](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.0) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🎉 Merged PR [#18](https://github.com/AceCentre/TranslateAndTTS/pull/18) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
