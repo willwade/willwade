@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/google/project-gameface/issues/37#issuecomment-1706643527) in [google/project-gameface](https://github.com/google/project-gameface)
-2. ❗ Opened issue [#23](https://github.com/AceCentre/TranslateAndTTS/issues/23) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🎉 Merged PR [#151](https://github.com/AceCentre/RelayKeys/pull/151) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#151](https://github.com/AceCentre/RelayKeys/pull/151#issuecomment-1705710866) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#150](https://github.com/AceCentre/RelayKeys/issues/150#issuecomment-1705706830) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🔒 Closed issue [#10](https://github.com/AceCentre/TranslateAndTTS/issues/10) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🔒 Closed issue [#23](https://github.com/AceCentre/TranslateAndTTS/issues/23) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🎉 Merged PR [#20](https://github.com/AceCentre/TranslateAndTTS/pull/20) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🗣 Commented on [#37](https://github.com/google/project-gameface/issues/37#issuecomment-1706643527) in [google/project-gameface](https://github.com/google/project-gameface)
+5. ❗ Opened issue [#23](https://github.com/AceCentre/TranslateAndTTS/issues/23) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
