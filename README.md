@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/AceCentre/TranslateAndTTS/issues/22) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🔒 Closed issue [#21](https://github.com/AceCentre/TranslateAndTTS/issues/21) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🎉 Merged PR [#24](https://github.com/AceCentre/TranslateAndTTS/pull/24) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🗣 Commented on [#322](https://github.com/asterics/AsTeRICS-Grid/issues/322#issuecomment-1715619187) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#322](https://github.com/asterics/AsTeRICS-Grid/issues/322#issuecomment-1715560344) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🎉 Merged PR [#25](https://github.com/AceCentre/TranslateAndTTS/pull/25) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🔒 Closed issue [#22](https://github.com/AceCentre/TranslateAndTTS/issues/22) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🔒 Closed issue [#21](https://github.com/AceCentre/TranslateAndTTS/issues/21) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🎉 Merged PR [#24](https://github.com/AceCentre/TranslateAndTTS/pull/24) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🗣 Commented on [#322](https://github.com/asterics/AsTeRICS-Grid/issues/322#issuecomment-1715619187) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
