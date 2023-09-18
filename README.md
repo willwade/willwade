@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/AceCentre/TranslateAndTTS/pull/29) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🚀 Published release [Fix for exception with SAPI](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.1.1) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🔒 Closed issue [#26](https://github.com/AceCentre/TranslateAndTTS/issues/26) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🎉 Merged PR [#28](https://github.com/AceCentre/TranslateAndTTS/pull/28) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🗣 Commented on [#53](https://github.com/AceCentre/pasco/issues/53#issuecomment-1723152518) in [AceCentre/pasco](https://github.com/AceCentre/pasco)
+1. 🚀 Published release [Removing debug and fix nonadmin install](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. ❗ Opened issue [#30](https://github.com/AceCentre/TranslateAndTTS/issues/30) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🎉 Merged PR [#29](https://github.com/AceCentre/TranslateAndTTS/pull/29) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🚀 Published release [Fix for exception with SAPI](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.1.1) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🔒 Closed issue [#26](https://github.com/AceCentre/TranslateAndTTS/issues/26) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
