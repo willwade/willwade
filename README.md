@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/AceCentre/RelayKeys/pull/152#issuecomment-1732315319) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#152](https://github.com/AceCentre/RelayKeys/pull/152#issuecomment-1729512919) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🚀 Published release [2.01](https://github.com/AceCentre/RelayKeys/releases/tag/2.01) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🚀 Published release [Removing debug and fix nonadmin install](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. ❗ Opened issue [#30](https://github.com/AceCentre/TranslateAndTTS/issues/30) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 💪 Opened PR [#31](https://github.com/AceCentre/TranslateAndTTS/pull/31) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🗣 Commented on [#152](https://github.com/AceCentre/RelayKeys/pull/152#issuecomment-1732315319) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#152](https://github.com/AceCentre/RelayKeys/pull/152#issuecomment-1729512919) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🚀 Published release [2.01](https://github.com/AceCentre/RelayKeys/releases/tag/2.01) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🚀 Published release [Removing debug and fix nonadmin install](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.2) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
