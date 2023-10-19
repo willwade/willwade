@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🗣 Commented on [#2](https://github.com/willwade/IPAChat/pull/2#issuecomment-1768021984) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-3. ❗ Opened issue [#1](https://github.com/willwade/IPAChat/issues/1) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-4. 💪 Opened PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🎉 Merged PR [#33](https://github.com/AceCentre/TranslateAndTTS/pull/33) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🎉 Merged PR [#35](https://github.com/AceCentre/TranslateAndTTS/pull/35) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🎉 Merged PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🗣 Commented on [#2](https://github.com/willwade/IPAChat/pull/2#issuecomment-1768021984) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+4. ❗ Opened issue [#1](https://github.com/willwade/IPAChat/issues/1) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+5. 💪 Opened PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
