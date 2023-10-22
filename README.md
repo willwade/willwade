@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1773888633) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🚀 Published release [1.0 ](https://github.com/AceCentre/SoundSwitch/releases/tag/1.0) in [AceCentre/SoundSwitch](https://github.com/AceCentre/SoundSwitch)
-3. 🎉 Merged PR [#35](https://github.com/AceCentre/TranslateAndTTS/pull/35) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🎉 Merged PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🗣 Commented on [#2](https://github.com/willwade/IPAChat/pull/2#issuecomment-1768021984) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+1. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1774124812) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1773888633) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🚀 Published release [1.0 ](https://github.com/AceCentre/SoundSwitch/releases/tag/1.0) in [AceCentre/SoundSwitch](https://github.com/AceCentre/SoundSwitch)
+4. 🎉 Merged PR [#35](https://github.com/AceCentre/TranslateAndTTS/pull/35) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🎉 Merged PR [#34](https://github.com/AceCentre/TranslateAndTTS/pull/34) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
