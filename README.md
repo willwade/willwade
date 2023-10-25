@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/willwade/IPAChat/issues/5) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-2. ❗ Opened issue [#4](https://github.com/willwade/IPAChat/issues/4) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-3. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1774124812) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1773888633) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🚀 Published release [1.0 ](https://github.com/AceCentre/SoundSwitch/releases/tag/1.0) in [AceCentre/SoundSwitch](https://github.com/AceCentre/SoundSwitch)
+1. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🎉 Merged PR [#36](https://github.com/AceCentre/TranslateAndTTS/pull/36) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. ❗ Opened issue [#5](https://github.com/willwade/IPAChat/issues/5) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+5. ❗ Opened issue [#4](https://github.com/willwade/IPAChat/issues/4) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
 <!--END_SECTION:activity-->
