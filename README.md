@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🎉 Merged PR [#36](https://github.com/AceCentre/TranslateAndTTS/pull/36) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. ❗ Opened issue [#5](https://github.com/willwade/IPAChat/issues/5) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-5. ❗ Opened issue [#4](https://github.com/willwade/IPAChat/issues/4) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+1. 🎉 Merged PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 💪 Opened PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🎉 Merged PR [#36](https://github.com/AceCentre/TranslateAndTTS/pull/36) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
