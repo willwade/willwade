@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 💪 Opened PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🎉 Merged PR [#36](https://github.com/AceCentre/TranslateAndTTS/pull/36) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🚀 Published release [Fixing install location](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🎉 Merged PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 💪 Opened PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
