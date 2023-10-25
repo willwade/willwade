@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fixing install location](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. 🎉 Merged PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. 💪 Opened PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🎉 Merged PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 💪 Opened PR [#37](https://github.com/AceCentre/TranslateAndTTS/pull/37) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780189871) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780182288) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. 🚀 Published release [Fixing install location](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. 🎉 Merged PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 💪 Opened PR [#38](https://github.com/AceCentre/TranslateAndTTS/pull/38) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
