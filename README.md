@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/willwade/IPAChat/issues/6) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-2. ❗ Opened issue [#6](https://github.com/willwade/IPAChat/issues/6) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-3. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780189871) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780182288) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🚀 Published release [Fixing install location](https://github.com/AceCentre/TranslateAndTTS/releases/tag/1.4) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+1. ❗ Opened issue [#7](https://github.com/willwade/IPAChat/issues/7) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+2. 🔒 Closed issue [#6](https://github.com/willwade/IPAChat/issues/6) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+3. ❗ Opened issue [#6](https://github.com/willwade/IPAChat/issues/6) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+4. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780189871) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-1780182288) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
