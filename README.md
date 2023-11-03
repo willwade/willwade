@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/AceCentre/Echo/issues/27#issuecomment-1791985241) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. ❗ Opened issue [#27](https://github.com/AceCentre/Echo/issues/27) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. ❗ Opened issue [#26](https://github.com/AceCentre/Echo/issues/26) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. ❗ Opened issue [#7](https://github.com/willwade/IPAChat/issues/7) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-5. 🔒 Closed issue [#6](https://github.com/willwade/IPAChat/issues/6) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
+1. 🗣 Commented on [#3](https://github.com/AceCentre/Echo/issues/3#issuecomment-1792518936) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/Echo/issues/27#issuecomment-1791985241) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. ❗ Opened issue [#27](https://github.com/AceCentre/Echo/issues/27) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. ❗ Opened issue [#26](https://github.com/AceCentre/Echo/issues/26) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. ❗ Opened issue [#7](https://github.com/willwade/IPAChat/issues/7) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
 <!--END_SECTION:activity-->
