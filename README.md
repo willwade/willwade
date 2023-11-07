@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/AceCentre/Echo/issues/39) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. ❗ Opened issue [#38](https://github.com/AceCentre/Echo/issues/38) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 🗣 Commented on [#37](https://github.com/AceCentre/Echo/issues/37#issuecomment-1797869979) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-1793485853) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗ Opened issue [#29](https://github.com/AceCentre/Echo/issues/29) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🗣 Commented on [#35](https://github.com/AceCentre/Echo/issues/35#issuecomment-1798393605) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. ❗ Opened issue [#39](https://github.com/AceCentre/Echo/issues/39) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. ❗ Opened issue [#38](https://github.com/AceCentre/Echo/issues/38) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🗣 Commented on [#37](https://github.com/AceCentre/Echo/issues/37#issuecomment-1797869979) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-1793485853) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
