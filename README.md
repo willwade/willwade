@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1807780541) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-2. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1806276754) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1804721455) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-4. ❗ Opened issue [#43](https://github.com/AceCentre/Echo/issues/43) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. ❗ Opened issue [#60](https://github.com/AceCentre/nhs-service-finder/issues/60) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. 💪 Opened PR [#3](https://github.com/acidcoke/Grimassist/pull/3) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+2. ❌ Closed PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 💪 Opened PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
+4. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1807780541) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+5. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1806276754) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
 <!--END_SECTION:activity-->
