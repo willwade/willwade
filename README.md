@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-2. 💪 Opened PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. ❌ Closed PR [#41](https://github.com/google/project-gameface/pull/41) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 💪 Opened PR [#41](https://github.com/google/project-gameface/pull/41) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1812147936) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+1. ❗ Opened issue [#6](https://github.com/acidcoke/Grimassist/issues/6) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+2. 🎉 Merged PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+3. 💪 Opened PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+4. ❌ Closed PR [#41](https://github.com/google/project-gameface/pull/41) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 💪 Opened PR [#41](https://github.com/google/project-gameface/pull/41) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
