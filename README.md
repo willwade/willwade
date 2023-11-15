@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/acidcoke/Grimassist/pull/3) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-2. 💪 Opened PR [#3](https://github.com/acidcoke/Grimassist/pull/3) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. ❌ Closed PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
-4. 💪 Opened PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#1](https://github.com/acidcoke/Grimassist/pull/1#issuecomment-1807780541) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+1. 🔒 Closed issue [#60](https://github.com/AceCentre/nhs-service-finder/issues/60) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+2. 🎉 Merged PR [#3](https://github.com/acidcoke/Grimassist/pull/3) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+3. 💪 Opened PR [#3](https://github.com/acidcoke/Grimassist/pull/3) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+4. ❌ Closed PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
+5. 💪 Opened PR [#40](https://github.com/google/project-gameface/pull/40) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
