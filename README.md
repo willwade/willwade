@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/espeak-ng/espeak-ng-ios-app/issues/1#issuecomment-1819451891) in [espeak-ng/espeak-ng-ios-app](https://github.com/espeak-ng/espeak-ng-ios-app)
-2. ❗ Opened issue [#6](https://github.com/acidcoke/Grimassist/issues/6) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. 🎉 Merged PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-4. 💪 Opened PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-5. ❌ Closed PR [#41](https://github.com/google/project-gameface/pull/41) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#1](https://github.com/espeak-ng/espeak-ng-ios-app/issues/1#issuecomment-1821697308) in [espeak-ng/espeak-ng-ios-app](https://github.com/espeak-ng/espeak-ng-ios-app)
+2. 🗣 Commented on [#1](https://github.com/espeak-ng/espeak-ng-ios-app/issues/1#issuecomment-1819451891) in [espeak-ng/espeak-ng-ios-app](https://github.com/espeak-ng/espeak-ng-ios-app)
+3. ❗ Opened issue [#6](https://github.com/acidcoke/Grimassist/issues/6) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+4. 🎉 Merged PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+5. 💪 Opened PR [#5](https://github.com/acidcoke/Grimassist/pull/5) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
 <!--END_SECTION:activity-->
