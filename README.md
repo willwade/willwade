@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-2. 💪 Opened PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-3. 🗣 Commented on [#5](https://github.com/willwade/IPAChat/issues/5#issuecomment-1825844266) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
-4. 🗣 Commented on [#1](https://github.com/espeak-ng/espeak-ng-ios-app/issues/1#issuecomment-1821697308) in [espeak-ng/espeak-ng-ios-app](https://github.com/espeak-ng/espeak-ng-ios-app)
-5. 🗣 Commented on [#1](https://github.com/espeak-ng/espeak-ng-ios-app/issues/1#issuecomment-1819451891) in [espeak-ng/espeak-ng-ios-app](https://github.com/espeak-ng/espeak-ng-ios-app)
+1. 🎉 Merged PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+2. 💪 Opened PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+3. 🎉 Merged PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+4. 💪 Opened PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+5. 🗣 Commented on [#5](https://github.com/willwade/IPAChat/issues/5#issuecomment-1825844266) in [willwade/IPAChat](https://github.com/willwade/IPAChat)
 <!--END_SECTION:activity-->
