@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/AceCentre/AAC-Corpora-Collecting/issues/4) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-2. 🎉 Merged PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-3. 💪 Opened PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-4. 🎉 Merged PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
-5. 💪 Opened PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+1. 🗣 Commented on [#83](https://github.com/quaxalber/bluetooth_2_usb/issues/83#issuecomment-1852744597) in [quaxalber/bluetooth_2_usb](https://github.com/quaxalber/bluetooth_2_usb)
+2. ❗ Opened issue [#4](https://github.com/AceCentre/AAC-Corpora-Collecting/issues/4) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+3. 🎉 Merged PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+4. 💪 Opened PR [#2](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/2) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+5. 🎉 Merged PR [#1](https://github.com/AceCentre/AAC-Corpora-Collecting/pull/1) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
 <!--END_SECTION:activity-->
