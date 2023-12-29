@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#154](https://github.com/AceCentre/RelayKeys/issues/154) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#37](https://github.com/AceCentre/Echo/issues/37#issuecomment-1862714436) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 🗣 Commented on [#14](https://github.com/googlecreativelab/morse-learn/issues/14#issuecomment-1856252543) in [googlecreativelab/morse-learn](https://github.com/googlecreativelab/morse-learn)
-4. 🗣 Commented on [#83](https://github.com/quaxalber/bluetooth_2_usb/issues/83#issuecomment-1852744597) in [quaxalber/bluetooth_2_usb](https://github.com/quaxalber/bluetooth_2_usb)
-5. ❗ Opened issue [#4](https://github.com/AceCentre/AAC-Corpora-Collecting/issues/4) in [AceCentre/AAC-Corpora-Collecting](https://github.com/AceCentre/AAC-Corpora-Collecting)
+1. 🗣 Commented on [#154](https://github.com/AceCentre/RelayKeys/issues/154#issuecomment-1872122667) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. ❗ Opened issue [#154](https://github.com/AceCentre/RelayKeys/issues/154) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#37](https://github.com/AceCentre/Echo/issues/37#issuecomment-1862714436) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🗣 Commented on [#14](https://github.com/googlecreativelab/morse-learn/issues/14#issuecomment-1856252543) in [googlecreativelab/morse-learn](https://github.com/googlecreativelab/morse-learn)
+5. 🗣 Commented on [#83](https://github.com/quaxalber/bluetooth_2_usb/issues/83#issuecomment-1852744597) in [quaxalber/bluetooth_2_usb](https://github.com/quaxalber/bluetooth_2_usb)
 <!--END_SECTION:activity-->
