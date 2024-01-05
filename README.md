@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1291](https://github.com/espeak-ng/espeak-ng/issues/1291#issuecomment-1877902778) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
-2. 🗣 Commented on [#6](https://github.com/acidcoke/Grimassist/issues/6#issuecomment-1877741043) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. 🗣 Commented on [#6](https://github.com/acidcoke/Grimassist/issues/6#issuecomment-1873495327) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-4. 🗣 Commented on [#154](https://github.com/AceCentre/RelayKeys/issues/154#issuecomment-1872122667) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. ❗ Opened issue [#154](https://github.com/AceCentre/RelayKeys/issues/154) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#1291](https://github.com/espeak-ng/espeak-ng/issues/1291#issuecomment-1878447213) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
+2. 🗣 Commented on [#1291](https://github.com/espeak-ng/espeak-ng/issues/1291#issuecomment-1877902778) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
+3. 🗣 Commented on [#6](https://github.com/acidcoke/Grimassist/issues/6#issuecomment-1877741043) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+4. 🗣 Commented on [#6](https://github.com/acidcoke/Grimassist/issues/6#issuecomment-1873495327) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
+5. 🗣 Commented on [#154](https://github.com/AceCentre/RelayKeys/issues/154#issuecomment-1872122667) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
