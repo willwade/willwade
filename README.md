@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/AceCentre/Echo/issues/54) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. 🗣 Commented on [#10](https://github.com/acidcoke/Grimassist/issues/10#issuecomment-1879314482) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
-3. 🗣 Commented on [#52](https://github.com/AceCentre/Echo/issues/52#issuecomment-1878660828) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🗣 Commented on [#1291](https://github.com/espeak-ng/espeak-ng/issues/1291#issuecomment-1878447213) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
-5. 🗣 Commented on [#1291](https://github.com/espeak-ng/espeak-ng/issues/1291#issuecomment-1877902778) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
+1. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1897556389) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
+2. ❗ Opened issue [#39](https://github.com/grantjenks/python-wordsegment/issues/39) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
+3. 🗣 Commented on [#32](https://github.com/grantjenks/python-wordsegment/issues/32#issuecomment-1897521361) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
+4. ❗ Opened issue [#54](https://github.com/AceCentre/Echo/issues/54) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🗣 Commented on [#10](https://github.com/acidcoke/Grimassist/issues/10#issuecomment-1879314482) in [acidcoke/Grimassist](https://github.com/acidcoke/Grimassist)
 <!--END_SECTION:activity-->
