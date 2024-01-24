@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1898293187) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
-2. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1897556389) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
-3. ❗ Opened issue [#39](https://github.com/grantjenks/python-wordsegment/issues/39) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
-4. 🗣 Commented on [#32](https://github.com/grantjenks/python-wordsegment/issues/32#issuecomment-1897521361) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
-5. ❗ Opened issue [#54](https://github.com/AceCentre/Echo/issues/54) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. ❗ Opened issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+2. 🗣 Commented on [#1](https://github.com/AceCentre/DragToSpeak/issues/1#issuecomment-1908242047) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+3. 🔒 Closed issue [#1](https://github.com/AceCentre/DragToSpeak/issues/1) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+4. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1898293187) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
+5. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1897556389) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
 <!--END_SECTION:activity-->
