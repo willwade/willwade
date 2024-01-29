@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-2. 🗣 Commented on [#1](https://github.com/AceCentre/DragToSpeak/issues/1#issuecomment-1908242047) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-3. 🔒 Closed issue [#1](https://github.com/AceCentre/DragToSpeak/issues/1) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-4. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1898293187) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
-5. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1897556389) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
+1. 🗣 Commented on [#95](https://github.com/AceCentre/EyeCommander/issues/95#issuecomment-1914458780) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+2. ❗ Opened issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+3. 🗣 Commented on [#1](https://github.com/AceCentre/DragToSpeak/issues/1#issuecomment-1908242047) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+4. 🔒 Closed issue [#1](https://github.com/AceCentre/DragToSpeak/issues/1) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+5. 🗣 Commented on [#39](https://github.com/grantjenks/python-wordsegment/issues/39#issuecomment-1898293187) in [grantjenks/python-wordsegment](https://github.com/grantjenks/python-wordsegment)
 <!--END_SECTION:activity-->
