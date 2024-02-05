@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-2. ❗ Opened issue [#3](https://github.com/AceCentre/DragToSpeak/issues/3) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-3. 🔒 Closed issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-4. 🗣 Commented on [#95](https://github.com/AceCentre/EyeCommander/issues/95#issuecomment-1914458780) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗ Opened issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+1. 🗣 Commented on [#40](https://github.com/AceCentre/Echo/issues/40#issuecomment-1927030923) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. ❗ Opened issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+3. ❗ Opened issue [#3](https://github.com/AceCentre/DragToSpeak/issues/3) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+4. 🔒 Closed issue [#2](https://github.com/AceCentre/DragToSpeak/issues/2) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+5. 🗣 Commented on [#95](https://github.com/AceCentre/EyeCommander/issues/95#issuecomment-1914458780) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
