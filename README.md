@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/Ki6an/fastT5/issues/76#issuecomment-1975061562) in [Ki6an/fastT5](https://github.com/Ki6an/fastT5)
-2. ❗ Opened issue [#97](https://github.com/AceCentre/EyeCommander/issues/97) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. 🚀 Published release [v0.1.0-beta](https://github.com/AceCentre/Correct-A-Sentence/releases/tag/v0.1.0-beta) in [AceCentre/Correct-A-Sentence](https://github.com/AceCentre/Correct-A-Sentence)
-4. 🗣 Commented on [#40](https://github.com/AceCentre/Echo/issues/40#issuecomment-1927030923) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. ❗ Opened issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+1. ❗ Opened issue [#70](https://github.com/AceCentre/TextAloud/issues/70) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. 🗣 Commented on [#76](https://github.com/Ki6an/fastT5/issues/76#issuecomment-1975061562) in [Ki6an/fastT5](https://github.com/Ki6an/fastT5)
+3. ❗ Opened issue [#97](https://github.com/AceCentre/EyeCommander/issues/97) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. 🚀 Published release [v0.1.0-beta](https://github.com/AceCentre/Correct-A-Sentence/releases/tag/v0.1.0-beta) in [AceCentre/Correct-A-Sentence](https://github.com/AceCentre/Correct-A-Sentence)
+5. 🗣 Commented on [#40](https://github.com/AceCentre/Echo/issues/40#issuecomment-1927030923) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
