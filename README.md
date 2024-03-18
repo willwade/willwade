@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64](https://github.com/AceCentre/Echo/issues/64) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. 🎉 Merged PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-3. 💪 Opened PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-4. ❌ Closed PR [#2](https://github.com/AceCentre/IPAChat/pull/2) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-5. ❗ Opened issue [#70](https://github.com/AceCentre/TextAloud/issues/70) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+1. ❗ Opened issue [#66](https://github.com/AceCentre/Echo/issues/66) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. ❗ Opened issue [#65](https://github.com/AceCentre/Echo/issues/65) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. ❗ Opened issue [#64](https://github.com/AceCentre/Echo/issues/64) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🎉 Merged PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
+5. 💪 Opened PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
 <!--END_SECTION:activity-->
