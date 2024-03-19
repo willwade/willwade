@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#66](https://github.com/AceCentre/Echo/issues/66) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. ❗ Opened issue [#65](https://github.com/AceCentre/Echo/issues/65) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. ❗ Opened issue [#64](https://github.com/AceCentre/Echo/issues/64) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🎉 Merged PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-5. 💪 Opened PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
+1. 🗣 Commented on [#25](https://github.com/TeamGleason/SwipeSpeak/issues/25#issuecomment-2007637053) in [TeamGleason/SwipeSpeak](https://github.com/TeamGleason/SwipeSpeak)
+2. ❗ Opened issue [#66](https://github.com/AceCentre/Echo/issues/66) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. ❗ Opened issue [#65](https://github.com/AceCentre/Echo/issues/65) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. ❗ Opened issue [#64](https://github.com/AceCentre/Echo/issues/64) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🎉 Merged PR [#8](https://github.com/AceCentre/IPAChat/pull/8) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
 <!--END_SECTION:activity-->
