@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dasher-project/.github/pull/2#issuecomment-2009097146) in [dasher-project/.github](https://github.com/dasher-project/.github)
-2. 🗣 Commented on [#25](https://github.com/TeamGleason/SwipeSpeak/issues/25#issuecomment-2007637053) in [TeamGleason/SwipeSpeak](https://github.com/TeamGleason/SwipeSpeak)
-3. ❗ Opened issue [#66](https://github.com/AceCentre/Echo/issues/66) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. ❗ Opened issue [#65](https://github.com/AceCentre/Echo/issues/65) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. ❗ Opened issue [#64](https://github.com/AceCentre/Echo/issues/64) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+2. ❗ Opened issue [#6](https://github.com/AceCentre/DragToSpeak/issues/6) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+3. ❗ Opened issue [#5](https://github.com/AceCentre/DragToSpeak/issues/5) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+4. 🔒 Closed issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+5. 🗣 Commented on [#2](https://github.com/dasher-project/.github/pull/2#issuecomment-2009097146) in [dasher-project/.github](https://github.com/dasher-project/.github)
 <!--END_SECTION:activity-->
