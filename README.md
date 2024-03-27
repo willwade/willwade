@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-2. ❗ Opened issue [#6](https://github.com/AceCentre/DragToSpeak/issues/6) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-3. ❗ Opened issue [#5](https://github.com/AceCentre/DragToSpeak/issues/5) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-4. 🔒 Closed issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-5. 🗣 Commented on [#2](https://github.com/dasher-project/.github/pull/2#issuecomment-2009097146) in [dasher-project/.github](https://github.com/dasher-project/.github)
+1. ❗ Opened issue [#8](https://github.com/ricsinaruto/gutenberg-dialog/issues/8) in [ricsinaruto/gutenberg-dialog](https://github.com/ricsinaruto/gutenberg-dialog)
+2. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+3. ❗ Opened issue [#6](https://github.com/AceCentre/DragToSpeak/issues/6) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+4. ❗ Opened issue [#5](https://github.com/AceCentre/DragToSpeak/issues/5) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+5. 🔒 Closed issue [#4](https://github.com/AceCentre/DragToSpeak/issues/4) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
 <!--END_SECTION:activity-->
