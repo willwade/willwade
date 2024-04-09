@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/AceCentre/morse-learn/issues/40#issuecomment-2042620295) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. ❗ Opened issue [#8](https://github.com/ricsinaruto/gutenberg-dialog/issues/8) in [ricsinaruto/gutenberg-dialog](https://github.com/ricsinaruto/gutenberg-dialog)
-3. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-4. ❗ Opened issue [#6](https://github.com/AceCentre/DragToSpeak/issues/6) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
-5. ❗ Opened issue [#5](https://github.com/AceCentre/DragToSpeak/issues/5) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+1. ❗ Opened issue [#29](https://github.com/CasperVerswijvelt/TypeFast/issues/29) in [CasperVerswijvelt/TypeFast](https://github.com/CasperVerswijvelt/TypeFast)
+2. 🗣 Commented on [#40](https://github.com/AceCentre/morse-learn/issues/40#issuecomment-2042620295) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. ❗ Opened issue [#8](https://github.com/ricsinaruto/gutenberg-dialog/issues/8) in [ricsinaruto/gutenberg-dialog](https://github.com/ricsinaruto/gutenberg-dialog)
+4. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+5. ❗ Opened issue [#6](https://github.com/AceCentre/DragToSpeak/issues/6) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
 <!--END_SECTION:activity-->
