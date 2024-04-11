@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/willwade/Abbreviation-Finder/issues/1#issuecomment-2047255092) in [willwade/Abbreviation-Finder](https://github.com/willwade/Abbreviation-Finder)
-2. ❗ Opened issue [#29](https://github.com/CasperVerswijvelt/TypeFast/issues/29) in [CasperVerswijvelt/TypeFast](https://github.com/CasperVerswijvelt/TypeFast)
-3. 🗣 Commented on [#40](https://github.com/AceCentre/morse-learn/issues/40#issuecomment-2042620295) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. ❗ Opened issue [#8](https://github.com/ricsinaruto/gutenberg-dialog/issues/8) in [ricsinaruto/gutenberg-dialog](https://github.com/ricsinaruto/gutenberg-dialog)
-5. ❗ Opened issue [#7](https://github.com/AceCentre/DragToSpeak/issues/7) in [AceCentre/DragToSpeak](https://github.com/AceCentre/DragToSpeak)
+1. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2049318857) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🗣 Commented on [#11](https://github.com/AceCentre/FaceCommander/issues/11#issuecomment-2049304071) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🗣 Commented on [#1](https://github.com/willwade/Abbreviation-Finder/issues/1#issuecomment-2047255092) in [willwade/Abbreviation-Finder](https://github.com/willwade/Abbreviation-Finder)
+4. ❗ Opened issue [#29](https://github.com/CasperVerswijvelt/TypeFast/issues/29) in [CasperVerswijvelt/TypeFast](https://github.com/CasperVerswijvelt/TypeFast)
+5. 🗣 Commented on [#40](https://github.com/AceCentre/morse-learn/issues/40#issuecomment-2042620295) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
