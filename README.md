@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2056157127) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2053975899) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#26](https://github.com/dennisvang/tufup-example/pull/26#issuecomment-2053740246) in [dennisvang/tufup-example](https://github.com/dennisvang/tufup-example)
-4. 🗣 Commented on [#6](https://github.com/AceCentre/FaceCommander/issues/6#issuecomment-2051421162) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#11](https://github.com/AceCentre/FaceCommander/issues/11#issuecomment-2051093601) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. ❗ Opened issue [#29](https://github.com/AceCentre/MorseWriter/issues/29) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/MorseWriter/issues/27#issuecomment-2056575296) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. ❗ Opened issue [#28](https://github.com/AceCentre/MorseWriter/issues/28) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. ❗ Opened issue [#27](https://github.com/AceCentre/MorseWriter/issues/27) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2056157127) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
