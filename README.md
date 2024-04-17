@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2060861231) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2060830727) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2059456484) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2057682422) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#27](https://github.com/AceCentre/MorseWriter/issues/27#issuecomment-2056676129) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#14](https://github.com/AceCentre/FaceCommander/issues/14#issuecomment-2061350121) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2060861231) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2060830727) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#7](https://github.com/AceCentre/FaceCommander/issues/7#issuecomment-2059456484) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🗣 Commented on [#20](https://github.com/AceCentre/FaceCommander/issues/20#issuecomment-2057682422) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
