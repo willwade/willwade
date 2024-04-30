@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/AceCentre/MorseWriter/issues/30) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🗣 Commented on [#590](https://github.com/moses-palmer/pynput/issues/590#issuecomment-2080130958) in [moses-palmer/pynput](https://github.com/moses-palmer/pynput)
-3. ❗ Opened issue [#30](https://github.com/AceCentre/MorseWriter/issues/30) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. ❗ Opened issue [#22](https://github.com/AceCentre/FaceCommander/issues/22) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#14](https://github.com/AceCentre/FaceCommander/issues/14#issuecomment-2061350121) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. ❗ Opened issue [#32](https://github.com/AceCentre/MorseWriter/issues/32) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. 🗣 Commented on [#30](https://github.com/AceCentre/MorseWriter/issues/30#issuecomment-2085025995) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. ❗ Opened issue [#31](https://github.com/AceCentre/MorseWriter/issues/31) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. 🔒 Closed issue [#30](https://github.com/AceCentre/MorseWriter/issues/30) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. 🗣 Commented on [#590](https://github.com/moses-palmer/pynput/issues/590#issuecomment-2080130958) in [moses-palmer/pynput](https://github.com/moses-palmer/pynput)
 <!--END_SECTION:activity-->
