@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#79](https://github.com/espnet/espnet_model_zoo/issues/79) in [espnet/espnet_model_zoo](https://github.com/espnet/espnet_model_zoo)
-2. 🗣 Commented on [#26](https://github.com/mediatechlab/tts-wrapper/issues/26#issuecomment-2088937240) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. ❗ Opened issue [#26](https://github.com/mediatechlab/tts-wrapper/issues/26) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-4. ❗ Opened issue [#33](https://github.com/AceCentre/MorseWriter/issues/33) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. ❗ Opened issue [#32](https://github.com/AceCentre/MorseWriter/issues/32) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#312](https://github.com/nateshmbhat/pyttsx3/issues/312#issuecomment-2092701258) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. ❗ Opened issue [#312](https://github.com/nateshmbhat/pyttsx3/issues/312) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🗣 Commented on [#297](https://github.com/nateshmbhat/pyttsx3/issues/297#issuecomment-2092691333) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#301](https://github.com/nateshmbhat/pyttsx3/issues/301#issuecomment-2092689395) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#304](https://github.com/nateshmbhat/pyttsx3/issues/304#issuecomment-2092688172) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
