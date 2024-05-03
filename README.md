@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/nateshmbhat/pyttsx3/pull/295#issuecomment-2092793441) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🎉 Merged PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
-3. 💪 Opened PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
-4. 🗣 Commented on [#312](https://github.com/nateshmbhat/pyttsx3/issues/312#issuecomment-2092701258) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. ❗ Opened issue [#312](https://github.com/nateshmbhat/pyttsx3/issues/312) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 💪 Opened PR [#2](https://github.com/thevickypedia/py3-tts/pull/2) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+2. 🗣 Commented on [#295](https://github.com/nateshmbhat/pyttsx3/pull/295#issuecomment-2092793441) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🎉 Merged PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
+4. 💪 Opened PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
+5. 🗣 Commented on [#312](https://github.com/nateshmbhat/pyttsx3/issues/312#issuecomment-2092701258) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
