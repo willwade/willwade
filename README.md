@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/nateshmbhat/pyttsx3/issues/312#issuecomment-2092701258) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. ❗ Opened issue [#312](https://github.com/nateshmbhat/pyttsx3/issues/312) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#297](https://github.com/nateshmbhat/pyttsx3/issues/297#issuecomment-2092691333) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#301](https://github.com/nateshmbhat/pyttsx3/issues/301#issuecomment-2092689395) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#304](https://github.com/nateshmbhat/pyttsx3/issues/304#issuecomment-2092688172) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🎉 Merged PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
+2. 💪 Opened PR [#1](https://github.com/willwade/py3-tts/pull/1) in [willwade/py3-tts](https://github.com/willwade/py3-tts)
+3. 🗣 Commented on [#312](https://github.com/nateshmbhat/pyttsx3/issues/312#issuecomment-2092701258) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. ❗ Opened issue [#312](https://github.com/nateshmbhat/pyttsx3/issues/312) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#297](https://github.com/nateshmbhat/pyttsx3/issues/297#issuecomment-2092691333) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
