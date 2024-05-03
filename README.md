@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mediatechlab/tts-wrapper/issues/26#issuecomment-2088937240) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-2. ❗ Opened issue [#26](https://github.com/mediatechlab/tts-wrapper/issues/26) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. ❗ Opened issue [#33](https://github.com/AceCentre/MorseWriter/issues/33) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. ❗ Opened issue [#32](https://github.com/AceCentre/MorseWriter/issues/32) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. 🗣 Commented on [#30](https://github.com/AceCentre/MorseWriter/issues/30#issuecomment-2085025995) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. ❗ Opened issue [#79](https://github.com/espnet/espnet_model_zoo/issues/79) in [espnet/espnet_model_zoo](https://github.com/espnet/espnet_model_zoo)
+2. 🗣 Commented on [#26](https://github.com/mediatechlab/tts-wrapper/issues/26#issuecomment-2088937240) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. ❗ Opened issue [#26](https://github.com/mediatechlab/tts-wrapper/issues/26) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. ❗ Opened issue [#33](https://github.com/AceCentre/MorseWriter/issues/33) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. ❗ Opened issue [#32](https://github.com/AceCentre/MorseWriter/issues/32) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
 <!--END_SECTION:activity-->
