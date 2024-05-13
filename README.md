@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/mediatechlab/tts-wrapper/issues/8#issuecomment-2103476626) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-2. 🗣 Commented on [#21](https://github.com/mediatechlab/tts-wrapper/issues/21#issuecomment-2103475232) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. 🗣 Commented on [#22](https://github.com/mediatechlab/tts-wrapper/issues/22#issuecomment-2103474260) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-4. 🗣 Commented on [#24](https://github.com/mediatechlab/tts-wrapper/issues/24#issuecomment-2103472220) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. 🗣 Commented on [#26](https://github.com/mediatechlab/tts-wrapper/issues/26#issuecomment-2103469955) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2107689794) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#8](https://github.com/mediatechlab/tts-wrapper/issues/8#issuecomment-2103476626) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 🗣 Commented on [#21](https://github.com/mediatechlab/tts-wrapper/issues/21#issuecomment-2103475232) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 🗣 Commented on [#22](https://github.com/mediatechlab/tts-wrapper/issues/22#issuecomment-2103474260) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+5. 🗣 Commented on [#24](https://github.com/mediatechlab/tts-wrapper/issues/24#issuecomment-2103472220) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
