@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#499](https://github.com/rhasspy/piper/issues/499) in [rhasspy/piper](https://github.com/rhasspy/piper)
-2. ❗ Opened issue [#498](https://github.com/rhasspy/piper/issues/498) in [rhasspy/piper](https://github.com/rhasspy/piper)
-3. 🗣 Commented on [#217](https://github.com/rhasspy/piper/issues/217#issuecomment-2109347612) in [rhasspy/piper](https://github.com/rhasspy/piper)
-4. 🗣 Commented on [#1217](https://github.com/espeak-ng/espeak-ng/issues/1217#issuecomment-2109289578) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
-5. ❗ Opened issue [#1](https://github.com/willwade/VoiceBroker/issues/1) in [willwade/VoiceBroker](https://github.com/willwade/VoiceBroker)
+1. 🗣 Commented on [#498](https://github.com/rhasspy/piper/issues/498#issuecomment-2119012389) in [rhasspy/piper](https://github.com/rhasspy/piper)
+2. ❗ Opened issue [#499](https://github.com/rhasspy/piper/issues/499) in [rhasspy/piper](https://github.com/rhasspy/piper)
+3. ❗ Opened issue [#498](https://github.com/rhasspy/piper/issues/498) in [rhasspy/piper](https://github.com/rhasspy/piper)
+4. 🗣 Commented on [#217](https://github.com/rhasspy/piper/issues/217#issuecomment-2109347612) in [rhasspy/piper](https://github.com/rhasspy/piper)
+5. 🗣 Commented on [#1217](https://github.com/espeak-ng/espeak-ng/issues/1217#issuecomment-2109289578) in [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
 <!--END_SECTION:activity-->
