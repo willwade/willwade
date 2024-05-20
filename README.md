@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/AceCentre/MorseWriter/issues/31#issuecomment-2119335071) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🗣 Commented on [#498](https://github.com/rhasspy/piper/issues/498#issuecomment-2119012389) in [rhasspy/piper](https://github.com/rhasspy/piper)
-3. ❗ Opened issue [#499](https://github.com/rhasspy/piper/issues/499) in [rhasspy/piper](https://github.com/rhasspy/piper)
-4. ❗ Opened issue [#498](https://github.com/rhasspy/piper/issues/498) in [rhasspy/piper](https://github.com/rhasspy/piper)
-5. 🗣 Commented on [#217](https://github.com/rhasspy/piper/issues/217#issuecomment-2109347612) in [rhasspy/piper](https://github.com/rhasspy/piper)
+1. 🗣 Commented on [#44](https://github.com/google/project-gameface/issues/44#issuecomment-2119735740) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#31](https://github.com/AceCentre/MorseWriter/issues/31#issuecomment-2119335071) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. 🗣 Commented on [#498](https://github.com/rhasspy/piper/issues/498#issuecomment-2119012389) in [rhasspy/piper](https://github.com/rhasspy/piper)
+4. ❗ Opened issue [#499](https://github.com/rhasspy/piper/issues/499) in [rhasspy/piper](https://github.com/rhasspy/piper)
+5. ❗ Opened issue [#498](https://github.com/rhasspy/piper/issues/498) in [rhasspy/piper](https://github.com/rhasspy/piper)
 <!--END_SECTION:activity-->
