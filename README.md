@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/AceCentre/MorseWriter/issues/34) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🗣 Commented on [#32](https://github.com/AceCentre/MorseWriter/issues/32#issuecomment-2130280141) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-3. ❗ Opened issue [#35](https://github.com/AceCentre/MorseWriter/issues/35) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. 🗣 Commented on [#51](https://github.com/google/project-gameface/issues/51#issuecomment-2127631507) in [google/project-gameface](https://github.com/google/project-gameface)
-5. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2126269816) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2130322361) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. ❗ Opened issue [#34](https://github.com/AceCentre/MorseWriter/issues/34) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. 🗣 Commented on [#32](https://github.com/AceCentre/MorseWriter/issues/32#issuecomment-2130280141) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. ❗ Opened issue [#35](https://github.com/AceCentre/MorseWriter/issues/35) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. 🗣 Commented on [#51](https://github.com/google/project-gameface/issues/51#issuecomment-2127631507) in [google/project-gameface](https://github.com/google/project-gameface)
 <!--END_SECTION:activity-->
