@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/AceCentre/MorseWriter/pull/36) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2130322361) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. ❗ Opened issue [#34](https://github.com/AceCentre/MorseWriter/issues/34) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. 🗣 Commented on [#32](https://github.com/AceCentre/MorseWriter/issues/32#issuecomment-2130280141) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. ❗ Opened issue [#35](https://github.com/AceCentre/MorseWriter/issues/35) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🔒 Closed issue [#28](https://github.com/AceCentre/MorseWriter/issues/28) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. 🔒 Closed issue [#2](https://github.com/AceCentre/MorseWriter/issues/2) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. 🔒 Closed issue [#23](https://github.com/AceCentre/MorseWriter/issues/23) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. 🔒 Closed issue [#26](https://github.com/AceCentre/MorseWriter/issues/26) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. 🔒 Closed issue [#29](https://github.com/AceCentre/MorseWriter/issues/29) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
 <!--END_SECTION:activity-->
