@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#577](https://github.com/boppreh/keyboard/issues/577#issuecomment-2132384918) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
-2. ❗ Opened issue [#42](https://github.com/AceCentre/MorseWriter/issues/42) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-3. 🗣 Commented on [#614](https://github.com/boppreh/keyboard/issues/614#issuecomment-2132379274) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
-4. 🗣 Commented on [#38](https://github.com/AceCentre/MorseWriter/issues/38#issuecomment-2132253223) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. 🗣 Commented on [#41](https://github.com/AceCentre/MorseWriter/issues/41#issuecomment-2132250212) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#526](https://github.com/boppreh/keyboard/issues/526#issuecomment-2132642745) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
+2. 🗣 Commented on [#558](https://github.com/boppreh/keyboard/issues/558#issuecomment-2132636323) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
+3. 🗣 Commented on [#577](https://github.com/boppreh/keyboard/issues/577#issuecomment-2132384918) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
+4. ❗ Opened issue [#42](https://github.com/AceCentre/MorseWriter/issues/42) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. 🗣 Commented on [#614](https://github.com/boppreh/keyboard/issues/614#issuecomment-2132379274) in [boppreh/keyboard](https://github.com/boppreh/keyboard)
 <!--END_SECTION:activity-->
