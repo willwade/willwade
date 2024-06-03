@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/willwade/tts-wrapper/pull/1) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 💪 Opened PR [#1](https://github.com/willwade/tts-wrapper/pull/1) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#510](https://github.com/rhasspy/piper/issues/510#issuecomment-2143468375) in [rhasspy/piper](https://github.com/rhasspy/piper)
-4. ❗ Opened issue [#39](https://github.com/AceCentre/TranslateAndTTS/issues/39) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 🗣 Commented on [#43](https://github.com/AceCentre/MorseWriter/issues/43#issuecomment-2136670009) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#42](https://github.com/AceCentre/MorseWriter/issues/42#issuecomment-2144064131) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. 🎉 Merged PR [#1](https://github.com/willwade/tts-wrapper/pull/1) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 💪 Opened PR [#1](https://github.com/willwade/tts-wrapper/pull/1) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🗣 Commented on [#510](https://github.com/rhasspy/piper/issues/510#issuecomment-2143468375) in [rhasspy/piper](https://github.com/rhasspy/piper)
+5. ❗ Opened issue [#39](https://github.com/AceCentre/TranslateAndTTS/issues/39) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
