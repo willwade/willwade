@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#41](https://github.com/AceCentre/MorseWriter/issues/41) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🗣 Commented on [#10](https://github.com/google/project-gameface/issues/10#issuecomment-2150427907) in [google/project-gameface](https://github.com/google/project-gameface)
-3. 🔒 Closed issue [#37](https://github.com/AceCentre/MorseWriter/issues/37) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-4. 🔒 Closed issue [#27](https://github.com/AceCentre/MorseWriter/issues/27) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-5. 🔒 Closed issue [#16](https://github.com/AceCentre/MorseWriter/issues/16) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#33](https://github.com/AceCentre/MorseWriter/issues/33#issuecomment-2154836246) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+2. 🔒 Closed issue [#42](https://github.com/AceCentre/MorseWriter/issues/42) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. ❗ Opened issue [#47](https://github.com/AceCentre/MorseWriter/issues/47) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. ❗ Opened issue [#46](https://github.com/AceCentre/MorseWriter/issues/46) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+5. ❗ Opened issue [#45](https://github.com/AceCentre/MorseWriter/issues/45) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
 <!--END_SECTION:activity-->
