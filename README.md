@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0](https://github.com/AceCentre/MorseWriter/releases/tag/v3.0) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-2. 🔒 Closed issue [#53](https://github.com/AceCentre/MorseWriter/issues/53) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
-3. ❗ Opened issue [#5](https://github.com/willwade/pyReadAloud/issues/5) in [willwade/pyReadAloud](https://github.com/willwade/pyReadAloud)
-4. ❗ Opened issue [#4](https://github.com/willwade/pyReadAloud/issues/4) in [willwade/pyReadAloud](https://github.com/willwade/pyReadAloud)
-5. ❗ Opened issue [#3](https://github.com/willwade/pyReadAloud/issues/3) in [willwade/pyReadAloud](https://github.com/willwade/pyReadAloud)
+1. ❌ Closed PR [#2](https://github.com/thevickypedia/py3-tts/pull/2) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+2. 🚀 Published release [v3.0](https://github.com/AceCentre/MorseWriter/releases/tag/v3.0) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+3. 🔒 Closed issue [#53](https://github.com/AceCentre/MorseWriter/issues/53) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+4. ❗ Opened issue [#5](https://github.com/willwade/pyReadAloud/issues/5) in [willwade/pyReadAloud](https://github.com/willwade/pyReadAloud)
+5. ❗ Opened issue [#4](https://github.com/willwade/pyReadAloud/issues/4) in [willwade/pyReadAloud](https://github.com/willwade/pyReadAloud)
 <!--END_SECTION:activity-->
