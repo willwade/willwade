@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2171092199) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🗣 Commented on [#4](https://github.com/thevickypedia/py3-tts/issues/4#issuecomment-2170929749) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-3. ❗ Opened issue [#4](https://github.com/thevickypedia/py3-tts/issues/4) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-4. ❌ Closed PR [#2](https://github.com/thevickypedia/py3-tts/pull/2) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-5. 🚀 Published release [v3.0](https://github.com/AceCentre/MorseWriter/releases/tag/v3.0) in [AceCentre/MorseWriter](https://github.com/AceCentre/MorseWriter)
+1. 🗣 Commented on [#4](https://github.com/thevickypedia/py3-tts/issues/4#issuecomment-2173315473) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+2. ❗ Opened issue [#5](https://github.com/thevickypedia/py3-tts/issues/5) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+3. 🗣 Commented on [#311](https://github.com/nateshmbhat/pyttsx3/issues/311#issuecomment-2171092199) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#4](https://github.com/thevickypedia/py3-tts/issues/4#issuecomment-2170929749) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. ❗ Opened issue [#4](https://github.com/thevickypedia/py3-tts/issues/4) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
 <!--END_SECTION:activity-->
