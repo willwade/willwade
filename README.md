@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#526](https://github.com/rhasspy/piper/issues/526) in [rhasspy/piper](https://github.com/rhasspy/piper)
-2. ❗ Opened issue [#526](https://github.com/rhasspy/piper/issues/526) in [rhasspy/piper](https://github.com/rhasspy/piper)
-3. 🗣 Commented on [#274](https://github.com/nateshmbhat/pyttsx3/issues/274#issuecomment-2174447292) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#3](https://github.com/thevickypedia/py3-tts/issues/3#issuecomment-2173338506) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-5. 💪 Opened PR [#6](https://github.com/thevickypedia/py3-tts/pull/6) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+1. ❗ Opened issue [#15](https://github.com/wannaphong/ttsmms/issues/15) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+2. 🗣 Commented on [#14](https://github.com/wannaphong/ttsmms/pull/14#issuecomment-2184267887) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+3. 🗣 Commented on [#14](https://github.com/wannaphong/ttsmms/pull/14#issuecomment-2184261452) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+4. 💪 Opened PR [#14](https://github.com/wannaphong/ttsmms/pull/14) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+5. 🔒 Closed issue [#526](https://github.com/rhasspy/piper/issues/526) in [rhasspy/piper](https://github.com/rhasspy/piper)
 <!--END_SECTION:activity-->
