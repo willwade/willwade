@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/AceCentre/TranslateAndTTS/issues/42) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-2. ❗ Opened issue [#41](https://github.com/AceCentre/TranslateAndTTS/issues/41) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-3. ❗ Opened issue [#40](https://github.com/AceCentre/TranslateAndTTS/issues/40) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-4. 🔒 Closed issue [#39](https://github.com/AceCentre/TranslateAndTTS/issues/39) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
-5. 💪 Opened PR [#16](https://github.com/wannaphong/ttsmms/pull/16) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+1. ❗ Opened issue [#43](https://github.com/AceCentre/AACSpeakHelper/issues/43) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/TranslateAndTTS/issues/27#issuecomment-2186365545) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+3. ❗ Opened issue [#42](https://github.com/AceCentre/TranslateAndTTS/issues/42) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+4. ❗ Opened issue [#41](https://github.com/AceCentre/TranslateAndTTS/issues/41) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
+5. ❗ Opened issue [#40](https://github.com/AceCentre/TranslateAndTTS/issues/40) in [AceCentre/TranslateAndTTS](https://github.com/AceCentre/TranslateAndTTS)
 <!--END_SECTION:activity-->
