@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/willwade/tts-wrapper/pull/3) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 💪 Opened PR [#3](https://github.com/willwade/tts-wrapper/pull/3) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🎉 Merged PR [#2](https://github.com/willwade/tts-wrapper/pull/2) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🗣 Commented on [#41](https://github.com/AceCentre/AACSpeakHelper/issues/41#issuecomment-2189357582) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 💪 Opened PR [#2](https://github.com/willwade/tts-wrapper/pull/2) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🎉 Merged PR [#4](https://github.com/willwade/tts-wrapper/pull/4) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#4](https://github.com/willwade/tts-wrapper/pull/4) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🎉 Merged PR [#3](https://github.com/willwade/tts-wrapper/pull/3) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#3](https://github.com/willwade/tts-wrapper/pull/3) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🎉 Merged PR [#2](https://github.com/willwade/tts-wrapper/pull/2) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
