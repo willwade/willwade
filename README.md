@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/willwade/tts-wrapper/pull/7) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🎉 Merged PR [#6](https://github.com/willwade/tts-wrapper/pull/6) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🎉 Merged PR [#5](https://github.com/willwade/tts-wrapper/pull/5) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. ❗ Opened issue [#44](https://github.com/AceCentre/AACSpeakHelper/issues/44) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. ❗ Opened issue [#17](https://github.com/wannaphong/ttsmms/issues/17) in [wannaphong/ttsmms](https://github.com/wannaphong/ttsmms)
+1. 🎉 Merged PR [#8](https://github.com/willwade/tts-wrapper/pull/8) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🎉 Merged PR [#7](https://github.com/willwade/tts-wrapper/pull/7) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🎉 Merged PR [#6](https://github.com/willwade/tts-wrapper/pull/6) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🎉 Merged PR [#5](https://github.com/willwade/tts-wrapper/pull/5) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. ❗ Opened issue [#44](https://github.com/AceCentre/AACSpeakHelper/issues/44) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
