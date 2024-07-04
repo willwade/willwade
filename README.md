@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/willwade/tts-wrapper/issues/10) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. ❗ Opened issue [#9](https://github.com/willwade/tts-wrapper/issues/9) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 💪 Opened PR [#45](https://github.com/AceCentre/AACSpeakHelper/pull/45) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🎉 Merged PR [#8](https://github.com/willwade/tts-wrapper/pull/8) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🎉 Merged PR [#7](https://github.com/willwade/tts-wrapper/pull/7) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🎉 Merged PR [#11](https://github.com/willwade/tts-wrapper/pull/11) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#11](https://github.com/willwade/tts-wrapper/pull/11) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. ❌ Closed PR [#28](https://github.com/mediatechlab/tts-wrapper/pull/28) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 💪 Opened PR [#28](https://github.com/mediatechlab/tts-wrapper/pull/28) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+5. ❗ Opened issue [#10](https://github.com/willwade/tts-wrapper/issues/10) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
