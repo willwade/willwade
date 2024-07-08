@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2212586972) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-2. 🎉 Merged PR [#1](https://github.com/willwade/ttsmms/pull/1) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
-3. 🎉 Merged PR [#11](https://github.com/willwade/tts-wrapper/pull/11) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 💪 Opened PR [#11](https://github.com/willwade/tts-wrapper/pull/11) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. ❌ Closed PR [#28](https://github.com/mediatechlab/tts-wrapper/pull/28) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. ❗ Opened issue [#9](https://github.com/thevickypedia/py3-tts/issues/9) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+2. 🗣 Commented on [#7](https://github.com/thevickypedia/py3-tts/issues/7#issuecomment-2213190826) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+3. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2213171643) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+4. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2212586972) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. 🎉 Merged PR [#1](https://github.com/willwade/ttsmms/pull/1) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
 <!--END_SECTION:activity-->
