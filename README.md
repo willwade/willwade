@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/willwade/ttsmms/pull/2) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
-2. ❗ Opened issue [#9](https://github.com/thevickypedia/py3-tts/issues/9) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-3. 🗣 Commented on [#7](https://github.com/thevickypedia/py3-tts/issues/7#issuecomment-2213190826) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-4. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2213171643) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-5. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2212586972) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+1. 🎉 Merged PR [#45](https://github.com/AceCentre/AACSpeakHelper/pull/45) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🎉 Merged PR [#2](https://github.com/willwade/ttsmms/pull/2) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
+3. ❗ Opened issue [#9](https://github.com/thevickypedia/py3-tts/issues/9) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+4. 🗣 Commented on [#7](https://github.com/thevickypedia/py3-tts/issues/7#issuecomment-2213190826) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2213171643) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
 <!--END_SECTION:activity-->
