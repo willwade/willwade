@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2226448981) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-2. 🚀 Published release [MMS and more](https://github.com/AceCentre/AACSpeakHelper/releases/tag/2.0) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🎉 Merged PR [#45](https://github.com/AceCentre/AACSpeakHelper/pull/45) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🎉 Merged PR [#2](https://github.com/willwade/ttsmms/pull/2) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
-5. ❗ Opened issue [#9](https://github.com/thevickypedia/py3-tts/issues/9) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+1. 🎉 Merged PR [#46](https://github.com/AceCentre/AACSpeakHelper/pull/46) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2226448981) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+3. 🚀 Published release [MMS and more](https://github.com/AceCentre/AACSpeakHelper/releases/tag/2.0) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🎉 Merged PR [#45](https://github.com/AceCentre/AACSpeakHelper/pull/45) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🎉 Merged PR [#2](https://github.com/willwade/ttsmms/pull/2) in [willwade/ttsmms](https://github.com/willwade/ttsmms)
 <!--END_SECTION:activity-->
