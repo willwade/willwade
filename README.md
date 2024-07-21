@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/AceCentre/morAce/issues/44) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-2. ❗ Opened issue [#36](https://github.com/AceCentre/FaceCommander/issues/36) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🎉 Merged PR [#48](https://github.com/AceCentre/AACSpeakHelper/pull/48) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🎉 Merged PR [#47](https://github.com/AceCentre/AACSpeakHelper/pull/47) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🎉 Merged PR [#46](https://github.com/AceCentre/AACSpeakHelper/pull/46) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🗣 Commented on [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49#issuecomment-2241727556) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. ❗ Opened issue [#44](https://github.com/AceCentre/morAce/issues/44) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
+3. ❗ Opened issue [#36](https://github.com/AceCentre/FaceCommander/issues/36) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🎉 Merged PR [#48](https://github.com/AceCentre/AACSpeakHelper/pull/48) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🎉 Merged PR [#47](https://github.com/AceCentre/AACSpeakHelper/pull/47) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
