@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2247550318) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-2. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2247401813) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-3. 🗣 Commented on [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49#issuecomment-2241727556) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. ❗ Opened issue [#44](https://github.com/AceCentre/morAce/issues/44) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
-5. ❗ Opened issue [#36](https://github.com/AceCentre/FaceCommander/issues/36) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2247837025) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+2. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2247550318) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+3. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2247401813) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+4. 🗣 Commented on [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49#issuecomment-2241727556) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. ❗ Opened issue [#44](https://github.com/AceCentre/morAce/issues/44) in [AceCentre/morAce](https://github.com/AceCentre/morAce)
 <!--END_SECTION:activity-->
