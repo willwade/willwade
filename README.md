@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🗣 Commented on [#25](https://github.com/mediatechlab/tts-wrapper/pull/25#issuecomment-2252249919) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. ❌ Closed PR [#25](https://github.com/mediatechlab/tts-wrapper/pull/25) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-4. 🗣 Commented on [#1169](https://github.com/k2-fsa/sherpa-onnx/issues/1169#issuecomment-2249699972) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. ❗ Opened issue [#1169](https://github.com/k2-fsa/sherpa-onnx/issues/1169) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🗣 Commented on [#3](https://github.com/thevickypedia/py3-tts/issues/3#issuecomment-2252921594) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+2. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2252920647) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+3. 🎉 Merged PR [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#25](https://github.com/mediatechlab/tts-wrapper/pull/25#issuecomment-2252249919) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+5. ❌ Closed PR [#25](https://github.com/mediatechlab/tts-wrapper/pull/25) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
