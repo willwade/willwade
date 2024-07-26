@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/thevickypedia/py3-tts/issues/3#issuecomment-2252921594) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-2. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2252920647) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-3. 🎉 Merged PR [#49](https://github.com/AceCentre/AACSpeakHelper/pull/49) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🗣 Commented on [#25](https://github.com/mediatechlab/tts-wrapper/pull/25#issuecomment-2252249919) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. ❌ Closed PR [#25](https://github.com/mediatechlab/tts-wrapper/pull/25) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. 🗣 Commented on [#31](https://github.com/AceCentre/Echo/issues/31#issuecomment-2252971168) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 🗣 Commented on [#30](https://github.com/AceCentre/Echo/issues/30#issuecomment-2252967899) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🗣 Commented on [#68](https://github.com/AceCentre/Echo/issues/68#issuecomment-2252967216) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🗣 Commented on [#3](https://github.com/thevickypedia/py3-tts/issues/3#issuecomment-2252921594) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2252920647) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
 <!--END_SECTION:activity-->
