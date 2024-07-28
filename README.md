@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2253804241) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-2. 🗣 Commented on [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173#issuecomment-2253665163) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-3. ❗ Opened issue [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#702](https://github.com/k2-fsa/sherpa-onnx/issues/702#issuecomment-2253513440) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. 🗣 Commented on [#31](https://github.com/AceCentre/Echo/issues/31#issuecomment-2252971168) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🎉 Merged PR [#12](https://github.com/willwade/tts-wrapper/pull/12) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2253804241) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+3. 🗣 Commented on [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173#issuecomment-2253665163) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+4. ❗ Opened issue [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🗣 Commented on [#702](https://github.com/k2-fsa/sherpa-onnx/issues/702#issuecomment-2253513440) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
