@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/IBM/python-sdk-core/issues/202#issuecomment-2254987636) in [IBM/python-sdk-core](https://github.com/IBM/python-sdk-core)
-2. 🎉 Merged PR [#12](https://github.com/willwade/tts-wrapper/pull/12) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2253804241) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173#issuecomment-2253665163) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. ❗ Opened issue [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🗣 Commented on [#202](https://github.com/IBM/python-sdk-core/issues/202#issuecomment-2255020122) in [IBM/python-sdk-core](https://github.com/IBM/python-sdk-core)
+2. 🗣 Commented on [#202](https://github.com/IBM/python-sdk-core/issues/202#issuecomment-2254987636) in [IBM/python-sdk-core](https://github.com/IBM/python-sdk-core)
+3. 🎉 Merged PR [#12](https://github.com/willwade/tts-wrapper/pull/12) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2253804241) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🗣 Commented on [#1173](https://github.com/k2-fsa/sherpa-onnx/issues/1173#issuecomment-2253665163) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
