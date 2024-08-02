@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/AceCentre/AACSpeakHelper/pull/50#issuecomment-2263849671) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. ❗ Opened issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. ❗ Opened issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. ❗ Opened issue [#13](https://github.com/willwade/tts-wrapper/issues/13) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🔒 Closed issue [#10](https://github.com/willwade/tts-wrapper/issues/10) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#51](https://github.com/AceCentre/AACSpeakHelper/pull/51#issuecomment-2264744115) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#50](https://github.com/AceCentre/AACSpeakHelper/pull/50#issuecomment-2263849671) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. ❗ Opened issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. ❗ Opened issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. ❗ Opened issue [#13](https://github.com/willwade/tts-wrapper/issues/13) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
