@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/AceCentre/AACSpeakHelper/issues/27#issuecomment-2267724498) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. ❗ Opened issue [#52](https://github.com/AceCentre/AACSpeakHelper/issues/52) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2267715721) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-4. 🎉 Merged PR [#50](https://github.com/AceCentre/AACSpeakHelper/pull/50) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🗣 Commented on [#50](https://github.com/AceCentre/AACSpeakHelper/pull/50#issuecomment-2265771692) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. ❌ Closed PR [#51](https://github.com/AceCentre/AACSpeakHelper/pull/51) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#27](https://github.com/AceCentre/AACSpeakHelper/issues/27#issuecomment-2267724498) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. ❗ Opened issue [#52](https://github.com/AceCentre/AACSpeakHelper/issues/52) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2267715721) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. 🎉 Merged PR [#50](https://github.com/AceCentre/AACSpeakHelper/pull/50) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
