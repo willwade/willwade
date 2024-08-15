@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/nateshmbhat/pyttsx3/pull/320) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2292188147) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-3. 🗣 Commented on [#50](https://github.com/AceCentre/Echo/issues/50#issuecomment-2292183123) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🗣 Commented on [#62](https://github.com/AceCentre/Echo/issues/62#issuecomment-2290833939) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. ❗ Opened issue [#70](https://github.com/AceCentre/Echo/issues/70) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 💪 Opened PR [#322](https://github.com/nateshmbhat/pyttsx3/pull/322) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 💪 Opened PR [#321](https://github.com/nateshmbhat/pyttsx3/pull/321) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 💪 Opened PR [#320](https://github.com/nateshmbhat/pyttsx3/pull/320) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2292188147) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
+5. 🗣 Commented on [#50](https://github.com/AceCentre/Echo/issues/50#issuecomment-2292183123) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
