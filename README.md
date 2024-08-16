@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#322](https://github.com/nateshmbhat/pyttsx3/pull/322) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 💪 Opened PR [#321](https://github.com/nateshmbhat/pyttsx3/pull/321) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 💪 Opened PR [#320](https://github.com/nateshmbhat/pyttsx3/pull/320) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#6](https://github.com/thevickypedia/py3-tts/pull/6#issuecomment-2292188147) in [thevickypedia/py3-tts](https://github.com/thevickypedia/py3-tts)
-5. 🗣 Commented on [#50](https://github.com/AceCentre/Echo/issues/50#issuecomment-2292183123) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🎉 Merged PR [#71](https://github.com/AceCentre/Echo/pull/71) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 💪 Opened PR [#71](https://github.com/AceCentre/Echo/pull/71) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 💪 Opened PR [#322](https://github.com/nateshmbhat/pyttsx3/pull/322) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 💪 Opened PR [#321](https://github.com/nateshmbhat/pyttsx3/pull/321) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 💪 Opened PR [#320](https://github.com/nateshmbhat/pyttsx3/pull/320) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
