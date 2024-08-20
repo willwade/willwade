@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/AceCentre/Echo/pull/77) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. 💪 Opened PR [#77](https://github.com/AceCentre/Echo/pull/77) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 🎉 Merged PR [#76](https://github.com/AceCentre/Echo/pull/76) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 💪 Opened PR [#76](https://github.com/AceCentre/Echo/pull/76) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. 🎉 Merged PR [#75](https://github.com/AceCentre/Echo/pull/75) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🎉 Merged PR [#78](https://github.com/AceCentre/Echo/pull/78) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 💪 Opened PR [#78](https://github.com/AceCentre/Echo/pull/78) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🎉 Merged PR [#77](https://github.com/AceCentre/Echo/pull/77) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 💪 Opened PR [#77](https://github.com/AceCentre/Echo/pull/77) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🎉 Merged PR [#76](https://github.com/AceCentre/Echo/pull/76) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
