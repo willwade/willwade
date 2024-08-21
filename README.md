@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/AceCentre/FaceCommander/issues/37) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#14](https://github.com/AceCentre/FaceCommander/issues/14#issuecomment-2299045914) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🎉 Merged PR [#79](https://github.com/AceCentre/Echo/pull/79) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 💪 Opened PR [#79](https://github.com/AceCentre/Echo/pull/79) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. 🗣 Commented on [#4](https://github.com/AceCentre/Echo/issues/4#issuecomment-2297692071) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🗣 Commented on [#30](https://github.com/AceCentre/FaceCommander/issues/30#issuecomment-2301435764) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🔒 Closed issue [#30](https://github.com/AceCentre/FaceCommander/issues/30) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. ❗ Opened issue [#37](https://github.com/AceCentre/FaceCommander/issues/37) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#14](https://github.com/AceCentre/FaceCommander/issues/14#issuecomment-2299045914) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🎉 Merged PR [#79](https://github.com/AceCentre/Echo/pull/79) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
