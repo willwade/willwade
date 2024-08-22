@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/AceCentre/FaceCommander/issues/39) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. ❗ Opened issue [#38](https://github.com/AceCentre/FaceCommander/issues/38) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#30](https://github.com/AceCentre/FaceCommander/issues/30#issuecomment-2301435764) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🔒 Closed issue [#30](https://github.com/AceCentre/FaceCommander/issues/30) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. ❗ Opened issue [#37](https://github.com/AceCentre/FaceCommander/issues/37) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🔒 Closed issue [#50](https://github.com/AceCentre/Echo/issues/50) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 🔒 Closed issue [#42](https://github.com/AceCentre/Echo/issues/42) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🔒 Closed issue [#57](https://github.com/AceCentre/Echo/issues/57) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🔒 Closed issue [#62](https://github.com/AceCentre/Echo/issues/62) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. ❗ Opened issue [#39](https://github.com/AceCentre/FaceCommander/issues/39) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
