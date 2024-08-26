@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/AceCentre/IPAChat/issues/1) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-2. ❗ Opened issue [#10](https://github.com/AceCentre/IPAChat/issues/10) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-3. ❗ Opened issue [#9](https://github.com/AceCentre/IPAChat/issues/9) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-4. 🔒 Closed issue [#50](https://github.com/AceCentre/Echo/issues/50) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. 🔒 Closed issue [#42](https://github.com/AceCentre/Echo/issues/42) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🎉 Merged PR [#1](https://github.com/AceCentre/FaceDetectDemo/pull/1) in [AceCentre/FaceDetectDemo](https://github.com/AceCentre/FaceDetectDemo)
+2. 🔒 Closed issue [#1](https://github.com/AceCentre/IPAChat/issues/1) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
+3. ❗ Opened issue [#10](https://github.com/AceCentre/IPAChat/issues/10) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
+4. ❗ Opened issue [#9](https://github.com/AceCentre/IPAChat/issues/9) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
+5. 🔒 Closed issue [#50](https://github.com/AceCentre/Echo/issues/50) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
