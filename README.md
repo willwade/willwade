@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AceCentre/FaceDetectDemo/pull/1) in [AceCentre/FaceDetectDemo](https://github.com/AceCentre/FaceDetectDemo)
-2. 🔒 Closed issue [#1](https://github.com/AceCentre/IPAChat/issues/1) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-3. ❗ Opened issue [#10](https://github.com/AceCentre/IPAChat/issues/10) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-4. ❗ Opened issue [#9](https://github.com/AceCentre/IPAChat/issues/9) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
-5. 🔒 Closed issue [#50](https://github.com/AceCentre/Echo/issues/50) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🎉 Merged PR [#42](https://github.com/AceCentre/FaceCommander/pull/42) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🔒 Closed issue [#29](https://github.com/AceCentre/FaceCommander/issues/29) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🎉 Merged PR [#41](https://github.com/AceCentre/FaceCommander/pull/41) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🎉 Merged PR [#1](https://github.com/AceCentre/FaceDetectDemo/pull/1) in [AceCentre/FaceDetectDemo](https://github.com/AceCentre/FaceDetectDemo)
+5. 🔒 Closed issue [#1](https://github.com/AceCentre/IPAChat/issues/1) in [AceCentre/IPAChat](https://github.com/AceCentre/IPAChat)
 <!--END_SECTION:activity-->
