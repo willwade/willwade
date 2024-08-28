@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/AceCentre/AACSpeakHelper/issues/43#issuecomment-2315789844) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. ❗ Opened issue [#73](https://github.com/AceCentre/TextAloud/issues/73) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-3. ❗ Opened issue [#100](https://github.com/AceCentre/EyeCommander/issues/100) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. ❗ Opened issue [#99](https://github.com/AceCentre/EyeCommander/issues/99) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-5. ❗ Opened issue [#63](https://github.com/AceCentre/nhs-service-finder/issues/63) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. ❗ Opened issue [#58](https://github.com/AceCentre/AACSpeakHelper/issues/58) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#43](https://github.com/AceCentre/AACSpeakHelper/issues/43#issuecomment-2315789844) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. ❗ Opened issue [#73](https://github.com/AceCentre/TextAloud/issues/73) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+4. ❗ Opened issue [#100](https://github.com/AceCentre/EyeCommander/issues/100) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. ❗ Opened issue [#99](https://github.com/AceCentre/EyeCommander/issues/99) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
 <!--END_SECTION:activity-->
