@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/AceCentre/EyeCommander/issues/99) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-2. ❗ Opened issue [#63](https://github.com/AceCentre/nhs-service-finder/issues/63) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-3. ❗ Opened issue [#57](https://github.com/AceCentre/AACSpeakHelper/issues/57) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. ❗ Opened issue [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. ❗ Opened issue [#55](https://github.com/AceCentre/AACSpeakHelper/issues/55) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. ❗ Opened issue [#73](https://github.com/AceCentre/TextAloud/issues/73) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
+2. ❗ Opened issue [#100](https://github.com/AceCentre/EyeCommander/issues/100) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+3. ❗ Opened issue [#99](https://github.com/AceCentre/EyeCommander/issues/99) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+4. ❗ Opened issue [#63](https://github.com/AceCentre/nhs-service-finder/issues/63) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+5. ❗ Opened issue [#57](https://github.com/AceCentre/AACSpeakHelper/issues/57) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
