@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/AceCentre/AACSpeakHelper/issues/57#issuecomment-2316742479) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🗣 Commented on [#52](https://github.com/AceCentre/AACSpeakHelper/issues/52#issuecomment-2316222132) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🔒 Closed issue [#54](https://github.com/AceCentre/AACSpeakHelper/issues/54) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. ❗ Opened issue [#58](https://github.com/AceCentre/AACSpeakHelper/issues/58) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🗣 Commented on [#43](https://github.com/AceCentre/AACSpeakHelper/issues/43#issuecomment-2315789844) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🗣 Commented on [#53](https://github.com/AceCentre/AACSpeakHelper/issues/53#issuecomment-2316752673) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56#issuecomment-2316748966) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. 🗣 Commented on [#57](https://github.com/AceCentre/AACSpeakHelper/issues/57#issuecomment-2316742479) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#52](https://github.com/AceCentre/AACSpeakHelper/issues/52#issuecomment-2316222132) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🔒 Closed issue [#54](https://github.com/AceCentre/AACSpeakHelper/issues/54) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
