@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/AceCentre/Echo/issues/30#issuecomment-2321356084) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. ❗ Opened issue [#1](https://github.com/AceCentre/OWS/issues/1) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
-3. 🗣 Commented on [#18](https://github.com/AceCentre/FaceCommander/issues/18#issuecomment-2317375729) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🗣 Commented on [#43](https://github.com/AceCentre/FaceCommander/pull/43#issuecomment-2317301997) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. ❗ Opened issue [#783](https://github.com/KeyboardKit/KeyboardKit/issues/783) in [KeyboardKit/KeyboardKit](https://github.com/KeyboardKit/KeyboardKit)
+1. 🔒 Closed issue [#4](https://github.com/AceCentre/Echo/issues/4) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 💪 Opened PR [#2](https://github.com/AceCentre/OWS/pull/2) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
+3. 🗣 Commented on [#30](https://github.com/AceCentre/Echo/issues/30#issuecomment-2321356084) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. ❗ Opened issue [#1](https://github.com/AceCentre/OWS/issues/1) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
+5. 🗣 Commented on [#18](https://github.com/AceCentre/FaceCommander/issues/18#issuecomment-2317375729) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
