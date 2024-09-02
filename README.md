@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#80](https://github.com/AceCentre/Echo/issues/80) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. 🗣 Commented on [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56#issuecomment-2322958321) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🔒 Closed issue [#4](https://github.com/AceCentre/Echo/issues/4) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 💪 Opened PR [#2](https://github.com/AceCentre/OWS/pull/2) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
-5. 🗣 Commented on [#30](https://github.com/AceCentre/Echo/issues/30#issuecomment-2321356084) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🗣 Commented on [#67](https://github.com/AceCentre/Echo/issues/67#issuecomment-2324490300) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. ❗ Opened issue [#80](https://github.com/AceCentre/Echo/issues/80) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🗣 Commented on [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56#issuecomment-2322958321) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🔒 Closed issue [#4](https://github.com/AceCentre/Echo/issues/4) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 💪 Opened PR [#2](https://github.com/AceCentre/OWS/pull/2) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
 <!--END_SECTION:activity-->
