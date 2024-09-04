@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. 🗣 Commented on [#67](https://github.com/AceCentre/Echo/issues/67#issuecomment-2324490300) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. ❗ Opened issue [#80](https://github.com/AceCentre/Echo/issues/80) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🗣 Commented on [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56#issuecomment-2322958321) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🔒 Closed issue [#4](https://github.com/AceCentre/Echo/issues/4) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🗣 Commented on [#48](https://github.com/google/project-gameface/issues/48#issuecomment-2328034213) in [google/project-gameface](https://github.com/google/project-gameface)
+2. ❗ Opened issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+3. 🗣 Commented on [#67](https://github.com/AceCentre/Echo/issues/67#issuecomment-2324490300) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. ❗ Opened issue [#80](https://github.com/AceCentre/Echo/issues/80) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🗣 Commented on [#56](https://github.com/AceCentre/AACSpeakHelper/issues/56#issuecomment-2322958321) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
