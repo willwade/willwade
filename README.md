@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🎉 Merged PR [#43](https://github.com/AceCentre/FaceCommander/pull/43) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#48](https://github.com/google/project-gameface/issues/48#issuecomment-2328034213) in [google/project-gameface](https://github.com/google/project-gameface)
-4. ❗ Opened issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. 🗣 Commented on [#67](https://github.com/AceCentre/Echo/issues/67#issuecomment-2324490300) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2332865029) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. ❗ Opened issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🎉 Merged PR [#43](https://github.com/AceCentre/FaceCommander/pull/43) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#48](https://github.com/google/project-gameface/issues/48#issuecomment-2328034213) in [google/project-gameface](https://github.com/google/project-gameface)
+5. ❗ Opened issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
 <!--END_SECTION:activity-->
