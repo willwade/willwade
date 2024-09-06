@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/AceCentre/FaceCommander/pull/46) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2332865029) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. ❗ Opened issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🎉 Merged PR [#43](https://github.com/AceCentre/FaceCommander/pull/43) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#48](https://github.com/google/project-gameface/issues/48#issuecomment-2328034213) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#37](https://github.com/AceCentre/FaceCommander/issues/37#issuecomment-2333307583) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🗣 Commented on [#28](https://github.com/AceCentre/FaceCommander/issues/28#issuecomment-2333302242) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🎉 Merged PR [#46](https://github.com/AceCentre/FaceCommander/pull/46) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2332865029) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. ❗ Opened issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
