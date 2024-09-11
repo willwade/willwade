@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/willwade/tts-wrapper/pull/17) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🎉 Merged PR [#16](https://github.com/willwade/tts-wrapper/pull/16) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 💪 Opened PR [#16](https://github.com/willwade/tts-wrapper/pull/16) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. ❌ Closed PR [#29](https://github.com/mediatechlab/tts-wrapper/pull/29) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. 💪 Opened PR [#29](https://github.com/mediatechlab/tts-wrapper/pull/29) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. ❗ Opened issue [#50](https://github.com/AceCentre/FaceCommander/issues/50) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 💪 Opened PR [#17](https://github.com/willwade/tts-wrapper/pull/17) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🎉 Merged PR [#16](https://github.com/willwade/tts-wrapper/pull/16) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#16](https://github.com/willwade/tts-wrapper/pull/16) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. ❌ Closed PR [#29](https://github.com/mediatechlab/tts-wrapper/pull/29) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
