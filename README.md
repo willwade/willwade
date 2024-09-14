@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/nateshmbhat/pyttsx3/pull/295#issuecomment-2351033590) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🗣 Commented on [#320](https://github.com/nateshmbhat/pyttsx3/pull/320#issuecomment-2351025695) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. ❗ Opened issue [#2](https://github.com/AceCentre/SAPI-POC/issues/2) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
-4. ❗ Opened issue [#1](https://github.com/AceCentre/SAPI-POC/issues/1) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
-5. 🎉 Merged PR [#20](https://github.com/willwade/tts-wrapper/pull/20) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#2](https://github.com/AceCentre/SAPI-POC/issues/2#issuecomment-2351052065) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
+2. 🗣 Commented on [#295](https://github.com/nateshmbhat/pyttsx3/pull/295#issuecomment-2351033590) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🗣 Commented on [#320](https://github.com/nateshmbhat/pyttsx3/pull/320#issuecomment-2351025695) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. ❗ Opened issue [#2](https://github.com/AceCentre/SAPI-POC/issues/2) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
+5. ❗ Opened issue [#1](https://github.com/AceCentre/SAPI-POC/issues/1) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
 <!--END_SECTION:activity-->
