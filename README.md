@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/AceCentre/SAPI-POC/issues/1) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
-2. 🎉 Merged PR [#20](https://github.com/willwade/tts-wrapper/pull/20) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 💪 Opened PR [#20](https://github.com/willwade/tts-wrapper/pull/20) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 💪 Opened PR [#51](https://github.com/AceCentre/FaceCommander/pull/51) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🎉 Merged PR [#48](https://github.com/AceCentre/FaceCommander/pull/48) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. ❗ Opened issue [#2](https://github.com/AceCentre/SAPI-POC/issues/2) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
+2. ❗ Opened issue [#1](https://github.com/AceCentre/SAPI-POC/issues/1) in [AceCentre/SAPI-POC](https://github.com/AceCentre/SAPI-POC)
+3. 🎉 Merged PR [#20](https://github.com/willwade/tts-wrapper/pull/20) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#20](https://github.com/willwade/tts-wrapper/pull/20) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 💪 Opened PR [#51](https://github.com/AceCentre/FaceCommander/pull/51) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
