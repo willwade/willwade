@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/AceCentre/FaceCommander/pull/51) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 💪 Opened PR [#53](https://github.com/AceCentre/FaceCommander/pull/53) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#50](https://github.com/AceCentre/FaceCommander/issues/50#issuecomment-2363453817) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. ❗ Opened issue [#52](https://github.com/AceCentre/FaceCommander/issues/52) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#50](https://github.com/AceCentre/FaceCommander/issues/50#issuecomment-2363400131) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🎉 Merged PR [#59](https://github.com/AceCentre/AACSpeakHelper/pull/59) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. ❌ Closed PR [#51](https://github.com/AceCentre/FaceCommander/pull/51) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 💪 Opened PR [#53](https://github.com/AceCentre/FaceCommander/pull/53) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#50](https://github.com/AceCentre/FaceCommander/issues/50#issuecomment-2363453817) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. ❗ Opened issue [#52](https://github.com/AceCentre/FaceCommander/issues/52) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
