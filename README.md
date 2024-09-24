@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MMS and Reworked GUI](https://github.com/AceCentre/AACSpeakHelper/releases/tag/vv2.2.1) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🚀 Published release [v2.2 - MMS and Baked-In Release](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🎉 Merged PR [#59](https://github.com/AceCentre/AACSpeakHelper/pull/59) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. ❌ Closed PR [#51](https://github.com/AceCentre/FaceCommander/pull/51) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 💪 Opened PR [#53](https://github.com/AceCentre/FaceCommander/pull/53) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🔒 Closed issue [#50](https://github.com/AceCentre/FaceCommander/issues/50) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🔒 Closed issue [#22](https://github.com/AceCentre/FaceCommander/issues/22) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🔒 Closed issue [#18](https://github.com/AceCentre/FaceCommander/issues/18) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🔒 Closed issue [#14](https://github.com/AceCentre/FaceCommander/issues/14) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🔒 Closed issue [#6](https://github.com/AceCentre/FaceCommander/issues/6) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
