@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#50](https://github.com/AceCentre/FaceCommander/issues/50) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🔒 Closed issue [#22](https://github.com/AceCentre/FaceCommander/issues/22) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🔒 Closed issue [#18](https://github.com/AceCentre/FaceCommander/issues/18) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🔒 Closed issue [#14](https://github.com/AceCentre/FaceCommander/issues/14) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🔒 Closed issue [#6](https://github.com/AceCentre/FaceCommander/issues/6) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 💪 Opened PR [#21](https://github.com/willwade/tts-wrapper/pull/21) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🔒 Closed issue [#50](https://github.com/AceCentre/FaceCommander/issues/50) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🔒 Closed issue [#22](https://github.com/AceCentre/FaceCommander/issues/22) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🔒 Closed issue [#18](https://github.com/AceCentre/FaceCommander/issues/18) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🔒 Closed issue [#14](https://github.com/AceCentre/FaceCommander/issues/14) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
