@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#49](https://github.com/AceCentre/Echo/issues/49) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. ❗ Opened issue [#81](https://github.com/AceCentre/Echo/issues/81) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 🔒 Closed issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-4. 🔒 Closed issue [#63](https://github.com/AceCentre/nhs-service-finder/issues/63) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. 🎉 Merged PR [#57](https://github.com/AceCentre/FaceCommander/pull/57) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🎉 Merged PR [#60](https://github.com/AceCentre/AACSpeakHelper/pull/60) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🔒 Closed issue [#49](https://github.com/AceCentre/Echo/issues/49) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. ❗ Opened issue [#81](https://github.com/AceCentre/Echo/issues/81) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 🔒 Closed issue [#64](https://github.com/AceCentre/nhs-service-finder/issues/64) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+5. 🔒 Closed issue [#63](https://github.com/AceCentre/nhs-service-finder/issues/63) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
 <!--END_SECTION:activity-->
