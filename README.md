@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/willwade/tts-wrapper/issues/18#issuecomment-2376038586) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🗣 Commented on [#58](https://github.com/AceCentre/FaceCommander/issues/58#issuecomment-2375986491) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🚀 Published release [Working but needs restarting](https://github.com/AceCentre/AACSpeakHelper/releases/tag/2.2.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🔒 Closed issue [#57](https://github.com/AceCentre/nhs-service-finder/issues/57) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. 🔒 Closed issue [#59](https://github.com/AceCentre/nhs-service-finder/issues/59) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. 🗣 Commented on [#327](https://github.com/nateshmbhat/pyttsx3/issues/327#issuecomment-2376935090) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. ❗ Opened issue [#328](https://github.com/nateshmbhat/pyttsx3/issues/328) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🗣 Commented on [#324](https://github.com/nateshmbhat/pyttsx3/issues/324#issuecomment-2376882571) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#18](https://github.com/willwade/tts-wrapper/issues/18#issuecomment-2376038586) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#58](https://github.com/AceCentre/FaceCommander/issues/58#issuecomment-2375986491) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
