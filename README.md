@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377546673) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-2. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377543139) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-3. 🔒 Closed issue [#52](https://github.com/AceCentre/FaceCommander/issues/52) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🔒 Closed issue [#37](https://github.com/AceCentre/FaceCommander/issues/37) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🎉 Merged PR [#62](https://github.com/AceCentre/FaceCommander/pull/62) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🔒 Closed issue [#21](https://github.com/AceCentre/FaceCommander/issues/21) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377546673) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
+3. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377543139) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
+4. 🔒 Closed issue [#52](https://github.com/AceCentre/FaceCommander/issues/52) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🔒 Closed issue [#37](https://github.com/AceCentre/FaceCommander/issues/37) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
