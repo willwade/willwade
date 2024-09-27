@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/nateshmbhat/pyttsx3/pull/96#issuecomment-2379245086) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🔒 Closed issue [#21](https://github.com/AceCentre/FaceCommander/issues/21) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377546673) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-4. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377543139) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
-5. 🔒 Closed issue [#52](https://github.com/AceCentre/FaceCommander/issues/52) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🗣 Commented on [#58](https://github.com/google/project-gameface/issues/58#issuecomment-2379403662) in [google/project-gameface](https://github.com/google/project-gameface)
+2. 🗣 Commented on [#58](https://github.com/google/project-gameface/issues/58#issuecomment-2379356904) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🗣 Commented on [#96](https://github.com/nateshmbhat/pyttsx3/pull/96#issuecomment-2379245086) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🔒 Closed issue [#21](https://github.com/AceCentre/FaceCommander/issues/21) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🗣 Commented on [#5025](https://github.com/google-ai-edge/mediapipe/issues/5025#issuecomment-2377546673) in [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe)
 <!--END_SECTION:activity-->
