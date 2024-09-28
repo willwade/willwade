@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/AceCentre/FaceCommander/pull/65#issuecomment-2380415374) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380247202) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 💪 Opened PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. ❗ Opened issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🔒 Closed issue [#49](https://github.com/AceCentre/FaceCommander/issues/49) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🎉 Merged PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380420471) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380416589) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#65](https://github.com/AceCentre/FaceCommander/pull/65#issuecomment-2380415374) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380247202) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
