@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. ❗ Opened issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🔒 Closed issue [#49](https://github.com/AceCentre/FaceCommander/issues/49) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🎉 Merged PR [#64](https://github.com/AceCentre/FaceCommander/pull/64) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#58](https://github.com/google/project-gameface/issues/58#issuecomment-2379403662) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380247202) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 💪 Opened PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. ❗ Opened issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🔒 Closed issue [#49](https://github.com/AceCentre/FaceCommander/issues/49) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🎉 Merged PR [#64](https://github.com/AceCentre/FaceCommander/pull/64) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
