@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ck-zhang/EyePy/issues/6#issuecomment-2381316245) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-2. ❗ Opened issue [#6](https://github.com/ck-zhang/EyePy/issues/6) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-3. 🗣 Commented on [#5](https://github.com/ck-zhang/EyePy/pull/5#issuecomment-2381302770) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-4. 💪 Opened PR [#5](https://github.com/ck-zhang/EyePy/pull/5) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-5. 🎉 Merged PR [#1](https://github.com/willwade/EyePy/pull/1) in [willwade/EyePy](https://github.com/willwade/EyePy)
+1. 🎉 Merged PR [#23](https://github.com/willwade/tts-wrapper/pull/23) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🗣 Commented on [#6](https://github.com/ck-zhang/EyePy/issues/6#issuecomment-2381316245) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+3. ❗ Opened issue [#6](https://github.com/ck-zhang/EyePy/issues/6) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+4. 🗣 Commented on [#5](https://github.com/ck-zhang/EyePy/pull/5#issuecomment-2381302770) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+5. 💪 Opened PR [#5](https://github.com/ck-zhang/EyePy/pull/5) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
 <!--END_SECTION:activity-->
