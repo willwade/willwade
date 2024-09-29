@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/ck-zhang/EyePy/issues/3) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-2. ❗ Opened issue [#2](https://github.com/ck-zhang/EyePy/issues/2) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
-3. 🎉 Merged PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380420471) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380416589) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 💪 Opened PR [#4](https://github.com/ck-zhang/EyePy/pull/4) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+2. ❗ Opened issue [#3](https://github.com/ck-zhang/EyePy/issues/3) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+3. ❗ Opened issue [#2](https://github.com/ck-zhang/EyePy/issues/2) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+4. 🎉 Merged PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380420471) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
