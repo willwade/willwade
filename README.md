@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380420471) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380416589) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🗣 Commented on [#65](https://github.com/AceCentre/FaceCommander/pull/65#issuecomment-2380415374) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380247202) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. ❗ Opened issue [#3](https://github.com/ck-zhang/EyePy/issues/3) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+2. ❗ Opened issue [#2](https://github.com/ck-zhang/EyePy/issues/2) in [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy)
+3. 🎉 Merged PR [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380420471) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🗣 Commented on [#61](https://github.com/AceCentre/AACSpeakHelper/pull/61#issuecomment-2380416589) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
