@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.6](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.2.6) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🎉 Merged PR [#62](https://github.com/AceCentre/AACSpeakHelper/pull/62) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#96](https://github.com/nateshmbhat/pyttsx3/pull/96#issuecomment-2383154844) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#22](https://github.com/willwade/tts-wrapper/pull/22#issuecomment-2381792010) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🗣 Commented on [#1357](https://github.com/k2-fsa/sherpa-onnx/issues/1357#issuecomment-2381759884) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🔒 Closed issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🔒 Closed issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🔒 Closed issue [#18](https://github.com/willwade/tts-wrapper/issues/18) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🚀 Published release [v2.2.6](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.2.6) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🎉 Merged PR [#62](https://github.com/AceCentre/AACSpeakHelper/pull/62) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
