@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/AceCentre/FaceCommander/pull/67) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🔒 Closed issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🔒 Closed issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🔒 Closed issue [#18](https://github.com/willwade/tts-wrapper/issues/18) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🚀 Published release [v2.2.6](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.2.6) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🎉 Merged PR [#68](https://github.com/AceCentre/FaceCommander/pull/68) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🎉 Merged PR [#67](https://github.com/AceCentre/FaceCommander/pull/67) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🔒 Closed issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🔒 Closed issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🔒 Closed issue [#18](https://github.com/willwade/tts-wrapper/issues/18) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
