@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/google/project-gameface/issues/59#issuecomment-2390590982) in [google/project-gameface](https://github.com/google/project-gameface)
-2. 🎉 Merged PR [#68](https://github.com/AceCentre/FaceCommander/pull/68) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🎉 Merged PR [#67](https://github.com/AceCentre/FaceCommander/pull/67) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🔒 Closed issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🔒 Closed issue [#15](https://github.com/willwade/tts-wrapper/issues/15) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#307](https://github.com/nateshmbhat/pyttsx3/issues/307#issuecomment-2390661999) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#59](https://github.com/google/project-gameface/issues/59#issuecomment-2390590982) in [google/project-gameface](https://github.com/google/project-gameface)
+3. 🎉 Merged PR [#68](https://github.com/AceCentre/FaceCommander/pull/68) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🎉 Merged PR [#67](https://github.com/AceCentre/FaceCommander/pull/67) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🔒 Closed issue [#14](https://github.com/willwade/tts-wrapper/issues/14) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
