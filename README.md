@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#71](https://github.com/AceCentre/FaceCommander/issues/71) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🎉 Merged PR [#70](https://github.com/AceCentre/FaceCommander/pull/70) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🎉 Merged PR [#69](https://github.com/AceCentre/FaceCommander/pull/69) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🗣 Commented on [#307](https://github.com/nateshmbhat/pyttsx3/issues/307#issuecomment-2390661999) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#59](https://github.com/google/project-gameface/issues/59#issuecomment-2390590982) in [google/project-gameface](https://github.com/google/project-gameface)
+1. 🗣 Commented on [#96](https://github.com/nateshmbhat/pyttsx3/pull/96#issuecomment-2394286161) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. ❗ Opened issue [#71](https://github.com/AceCentre/FaceCommander/issues/71) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🎉 Merged PR [#70](https://github.com/AceCentre/FaceCommander/pull/70) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🎉 Merged PR [#69](https://github.com/AceCentre/FaceCommander/pull/69) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🗣 Commented on [#307](https://github.com/nateshmbhat/pyttsx3/issues/307#issuecomment-2390661999) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
