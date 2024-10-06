@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#74](https://github.com/AceCentre/FaceCommander/issues/74) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🔒 Closed issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🔒 Closed issue [#58](https://github.com/AceCentre/FaceCommander/issues/58) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. ❗ Opened issue [#73](https://github.com/AceCentre/FaceCommander/issues/73) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. ❗ Opened issue [#72](https://github.com/AceCentre/FaceCommander/issues/72) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🔒 Closed issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2395312162) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. ❗ Opened issue [#74](https://github.com/AceCentre/FaceCommander/issues/74) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🔒 Closed issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. 🔒 Closed issue [#58](https://github.com/AceCentre/FaceCommander/issues/58) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
