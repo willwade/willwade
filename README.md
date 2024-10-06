@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2395312162) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. ❗ Opened issue [#74](https://github.com/AceCentre/FaceCommander/issues/74) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🔒 Closed issue [#66](https://github.com/AceCentre/FaceCommander/issues/66) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. 🔒 Closed issue [#58](https://github.com/AceCentre/FaceCommander/issues/58) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. ❗ Opened issue [#35](https://github.com/AceCentre/aac-launchpad/issues/35) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
+2. ❗ Opened issue [#34](https://github.com/AceCentre/aac-launchpad/issues/34) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
+3. 🔒 Closed issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🗣 Commented on [#47](https://github.com/AceCentre/FaceCommander/issues/47#issuecomment-2395312162) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. ❗ Opened issue [#74](https://github.com/AceCentre/FaceCommander/issues/74) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
