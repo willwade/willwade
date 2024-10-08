@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2397327058) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2396773697) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. ❗ Opened issue [#35](https://github.com/AceCentre/aac-launchpad/issues/35) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
-4. ❗ Opened issue [#34](https://github.com/AceCentre/aac-launchpad/issues/34) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
-5. 🔒 Closed issue [#47](https://github.com/AceCentre/FaceCommander/issues/47) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. ❗ Opened issue [#15](https://github.com/jing332/SherpaOnnxTtsEngineAndroid/issues/15) in [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid)
+2. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2397327058) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2396773697) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. ❗ Opened issue [#35](https://github.com/AceCentre/aac-launchpad/issues/35) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
+5. ❗ Opened issue [#34](https://github.com/AceCentre/aac-launchpad/issues/34) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
 <!--END_SECTION:activity-->
