@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/willwade/tts-wrapper/issues/27#issuecomment-2403071927) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🗣 Commented on [#26](https://github.com/willwade/tts-wrapper/issues/26#issuecomment-2403045371) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#25](https://github.com/willwade/tts-wrapper/issues/25#issuecomment-2403002549) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2402862228) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-5. ❗ Opened issue [#78](https://github.com/AceCentre/FaceCommander/issues/78) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🗣 Commented on [#26](https://github.com/willwade/tts-wrapper/issues/26#issuecomment-2403233091) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🗣 Commented on [#27](https://github.com/willwade/tts-wrapper/issues/27#issuecomment-2403071927) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🗣 Commented on [#26](https://github.com/willwade/tts-wrapper/issues/26#issuecomment-2403045371) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🗣 Commented on [#25](https://github.com/willwade/tts-wrapper/issues/25#issuecomment-2403002549) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2402862228) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
