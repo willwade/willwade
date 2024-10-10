@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#78](https://github.com/AceCentre/FaceCommander/issues/78) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-2. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2401348584) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-3. 🎉 Merged PR [#76](https://github.com/AceCentre/FaceCommander/pull/76) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. ❗ Opened issue [#15](https://github.com/jing332/SherpaOnnxTtsEngineAndroid/issues/15) in [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid)
-5. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2397327058) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+1. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2402862228) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+2. ❗ Opened issue [#78](https://github.com/AceCentre/FaceCommander/issues/78) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+3. 🗣 Commented on [#75](https://github.com/AceCentre/FaceCommander/issues/75#issuecomment-2401348584) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+4. 🎉 Merged PR [#76](https://github.com/AceCentre/FaceCommander/pull/76) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
+5. ❗ Opened issue [#15](https://github.com/jing332/SherpaOnnxTtsEngineAndroid/issues/15) in [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid)
 <!--END_SECTION:activity-->
