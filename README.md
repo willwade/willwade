@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nateshmbhat/pyttsx3/issues/3#issuecomment-2418988066) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🗣 Commented on [#99](https://github.com/nateshmbhat/pyttsx3/issues/99#issuecomment-2418977251) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🔒 Closed issue [#99](https://github.com/nateshmbhat/pyttsx3/issues/99) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#106](https://github.com/nateshmbhat/pyttsx3/issues/106#issuecomment-2418974143) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#111](https://github.com/nateshmbhat/pyttsx3/issues/111#issuecomment-2418971664) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🗣 Commented on [#287](https://github.com/nateshmbhat/pyttsx3/issues/287#issuecomment-2419030749) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#3](https://github.com/nateshmbhat/pyttsx3/issues/3#issuecomment-2418988066) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🗣 Commented on [#99](https://github.com/nateshmbhat/pyttsx3/issues/99#issuecomment-2418977251) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🔒 Closed issue [#99](https://github.com/nateshmbhat/pyttsx3/issues/99) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#106](https://github.com/nateshmbhat/pyttsx3/issues/106#issuecomment-2418974143) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
