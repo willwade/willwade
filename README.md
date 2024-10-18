@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#253](https://github.com/nateshmbhat/pyttsx3/issues/253) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🔒 Closed issue [#266](https://github.com/nateshmbhat/pyttsx3/issues/266) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#266](https://github.com/nateshmbhat/pyttsx3/issues/266#issuecomment-2421178029) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🔒 Closed issue [#283](https://github.com/nateshmbhat/pyttsx3/issues/283) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#283](https://github.com/nateshmbhat/pyttsx3/issues/283#issuecomment-2421173360) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🔒 Closed issue [#175](https://github.com/nateshmbhat/pyttsx3/issues/175) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🔒 Closed issue [#202](https://github.com/nateshmbhat/pyttsx3/issues/202) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🔒 Closed issue [#216](https://github.com/nateshmbhat/pyttsx3/issues/216) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. ❗ Opened issue [#30](https://github.com/willwade/tts-wrapper/issues/30) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#216](https://github.com/nateshmbhat/pyttsx3/issues/216#issuecomment-2421369897) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
