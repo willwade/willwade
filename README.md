@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [One to One ](https://github.com/AceCentre/OWD/releases/tag/v1.0.0) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-2. 💪 Opened PR [#350](https://github.com/nateshmbhat/pyttsx3/pull/350) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#217](https://github.com/nateshmbhat/pyttsx3/issues/217#issuecomment-2439662919) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🔒 Closed issue [#131](https://github.com/nateshmbhat/pyttsx3/issues/131) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🔒 Closed issue [#262](https://github.com/nateshmbhat/pyttsx3/issues/262) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🗣 Commented on [#341](https://github.com/nateshmbhat/pyttsx3/pull/341#issuecomment-2439921768) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🚀 Published release [One to One ](https://github.com/AceCentre/OWD/releases/tag/v1.0.0) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+3. 💪 Opened PR [#350](https://github.com/nateshmbhat/pyttsx3/pull/350) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#217](https://github.com/nateshmbhat/pyttsx3/issues/217#issuecomment-2439662919) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🔒 Closed issue [#131](https://github.com/nateshmbhat/pyttsx3/issues/131) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
