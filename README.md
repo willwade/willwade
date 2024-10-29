@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AceCentre/OWD-Utils/pull/1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-2. 💪 Opened PR [#1](https://github.com/AceCentre/OWD-Utils/pull/1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-3. 🗣 Commented on [#348](https://github.com/nateshmbhat/pyttsx3/pull/348#issuecomment-2440628838) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#348](https://github.com/nateshmbhat/pyttsx3/pull/348#issuecomment-2440621914) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#178](https://github.com/nateshmbhat/pyttsx3/issues/178#issuecomment-2440273457) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🎉 Merged PR [#33](https://github.com/willwade/tts-wrapper/pull/33) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🎉 Merged PR [#1](https://github.com/AceCentre/OWD-Utils/pull/1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+3. 💪 Opened PR [#1](https://github.com/AceCentre/OWD-Utils/pull/1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+4. 🗣 Commented on [#348](https://github.com/nateshmbhat/pyttsx3/pull/348#issuecomment-2440628838) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#348](https://github.com/nateshmbhat/pyttsx3/pull/348#issuecomment-2440621914) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
