@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1895](https://github.com/AceCentre/acecentre.org.uk/pull/1895) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-2. 💪 Opened PR [#1895](https://github.com/AceCentre/acecentre.org.uk/pull/1895) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-3. 🚀 Published release [Working with Copy/pasteboard & QR code](https://github.com/AceCentre/OWD-Utils/releases/tag/v1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-4. 🎉 Merged PR [#33](https://github.com/willwade/tts-wrapper/pull/33) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🎉 Merged PR [#1](https://github.com/AceCentre/OWD-Utils/pull/1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+1. ❗ Opened issue [#3](https://github.com/AceCentre/OWD/issues/3) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+2. ❗ Opened issue [#2](https://github.com/AceCentre/OWD/issues/2) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+3. 🎉 Merged PR [#1895](https://github.com/AceCentre/acecentre.org.uk/pull/1895) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+4. 💪 Opened PR [#1895](https://github.com/AceCentre/acecentre.org.uk/pull/1895) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+5. 🚀 Published release [Working with Copy/pasteboard & QR code](https://github.com/AceCentre/OWD-Utils/releases/tag/v1) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
 <!--END_SECTION:activity-->
