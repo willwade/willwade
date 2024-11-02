@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Sending app](https://github.com/AceCentre/OWD-Utils/releases/tag/sender-monitor-windows) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-2. 🎉 Merged PR [#1896](https://github.com/AceCentre/acecentre.org.uk/pull/1896) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-3. 💪 Opened PR [#1896](https://github.com/AceCentre/acecentre.org.uk/pull/1896) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
-4. ❗ Opened issue [#3](https://github.com/AceCentre/OWD/issues/3) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-5. ❗ Opened issue [#2](https://github.com/AceCentre/OWD/issues/2) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+1. 🗣 Commented on [#336](https://github.com/nateshmbhat/pyttsx3/issues/336#issuecomment-2452949546) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🚀 Published release [Sending app](https://github.com/AceCentre/OWD-Utils/releases/tag/sender-monitor-windows) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+3. 🎉 Merged PR [#1896](https://github.com/AceCentre/acecentre.org.uk/pull/1896) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+4. 💪 Opened PR [#1896](https://github.com/AceCentre/acecentre.org.uk/pull/1896) in [AceCentre/acecentre.org.uk](https://github.com/AceCentre/acecentre.org.uk)
+5. ❗ Opened issue [#3](https://github.com/AceCentre/OWD/issues/3) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
 <!--END_SECTION:activity-->
