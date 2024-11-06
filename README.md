@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#69](https://github.com/AceCentre/nhs-service-finder/issues/69) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. 🎉 Merged PR [#371](https://github.com/nateshmbhat/pyttsx3/pull/371) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🎉 Merged PR [#369](https://github.com/nateshmbhat/pyttsx3/pull/369) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. ❗ Opened issue [#63](https://github.com/AceCentre/AACSpeakHelper/issues/63) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🗣 Commented on [#34](https://github.com/willwade/tts-wrapper/pull/34#issuecomment-2455019515) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 💪 Opened PR [#375](https://github.com/nateshmbhat/pyttsx3/pull/375) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🔒 Closed issue [#69](https://github.com/AceCentre/nhs-service-finder/issues/69) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+3. 🎉 Merged PR [#371](https://github.com/nateshmbhat/pyttsx3/pull/371) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🎉 Merged PR [#369](https://github.com/nateshmbhat/pyttsx3/pull/369) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. ❗ Opened issue [#63](https://github.com/AceCentre/AACSpeakHelper/issues/63) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
