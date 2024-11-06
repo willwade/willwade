@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#369](https://github.com/nateshmbhat/pyttsx3/pull/369) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. ❗ Opened issue [#63](https://github.com/AceCentre/AACSpeakHelper/issues/63) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#34](https://github.com/willwade/tts-wrapper/pull/34#issuecomment-2455019515) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2454963914) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#350](https://github.com/nateshmbhat/pyttsx3/pull/350#issuecomment-2454844356) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🎉 Merged PR [#371](https://github.com/nateshmbhat/pyttsx3/pull/371) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🎉 Merged PR [#369](https://github.com/nateshmbhat/pyttsx3/pull/369) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. ❗ Opened issue [#63](https://github.com/AceCentre/AACSpeakHelper/issues/63) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#34](https://github.com/willwade/tts-wrapper/pull/34#issuecomment-2455019515) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2454963914) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
