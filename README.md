@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#374](https://github.com/nateshmbhat/pyttsx3/pull/374) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 💪 Opened PR [#375](https://github.com/nateshmbhat/pyttsx3/pull/375) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🔒 Closed issue [#69](https://github.com/AceCentre/nhs-service-finder/issues/69) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-4. 🎉 Merged PR [#371](https://github.com/nateshmbhat/pyttsx3/pull/371) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🎉 Merged PR [#369](https://github.com/nateshmbhat/pyttsx3/pull/369) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🗣 Commented on [#263](https://github.com/nateshmbhat/pyttsx3/issues/263#issuecomment-2460993274) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🎉 Merged PR [#374](https://github.com/nateshmbhat/pyttsx3/pull/374) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 💪 Opened PR [#375](https://github.com/nateshmbhat/pyttsx3/pull/375) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🔒 Closed issue [#69](https://github.com/AceCentre/nhs-service-finder/issues/69) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+5. 🎉 Merged PR [#371](https://github.com/nateshmbhat/pyttsx3/pull/371) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
