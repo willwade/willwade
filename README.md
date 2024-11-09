@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-2. 💪 Opened PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-3. 🎉 Merged PR [#4](https://github.com/AceCentre/OWD/pull/4) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-4. 💪 Opened PR [#4](https://github.com/AceCentre/OWD/pull/4) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-5. 🎉 Merged PR [#377](https://github.com/nateshmbhat/pyttsx3/pull/377) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🎉 Merged PR [#379](https://github.com/nateshmbhat/pyttsx3/pull/379) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🎉 Merged PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+3. 💪 Opened PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+4. 🎉 Merged PR [#4](https://github.com/AceCentre/OWD/pull/4) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+5. 💪 Opened PR [#4](https://github.com/AceCentre/OWD/pull/4) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
 <!--END_SECTION:activity-->
