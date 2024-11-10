@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3172](https://github.com/Nuitka/Nuitka/issues/3172#issuecomment-2466181684) in [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
-2. 🎉 Merged PR [#379](https://github.com/nateshmbhat/pyttsx3/pull/379) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🎉 Merged PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-4. 💪 Opened PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
-5. 🎉 Merged PR [#4](https://github.com/AceCentre/OWD/pull/4) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+1. 🗣 Commented on [#36](https://github.com/willwade/tts-wrapper/pull/36#issuecomment-2466950711) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🗣 Commented on [#3172](https://github.com/Nuitka/Nuitka/issues/3172#issuecomment-2466181684) in [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
+3. 🎉 Merged PR [#379](https://github.com/nateshmbhat/pyttsx3/pull/379) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🎉 Merged PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
+5. 💪 Opened PR [#3](https://github.com/AceCentre/OWD-Utils/pull/3) in [AceCentre/OWD-Utils](https://github.com/AceCentre/OWD-Utils)
 <!--END_SECTION:activity-->
