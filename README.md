@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/willwade/tts-wrapper/pull/22#issuecomment-2468193475) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 💪 Opened PR [#37](https://github.com/willwade/tts-wrapper/pull/37) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#36](https://github.com/willwade/tts-wrapper/pull/36#issuecomment-2466961881) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🗣 Commented on [#36](https://github.com/willwade/tts-wrapper/pull/36#issuecomment-2466950711) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🗣 Commented on [#3172](https://github.com/Nuitka/Nuitka/issues/3172#issuecomment-2466181684) in [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
+1. 🗣 Commented on [#22](https://github.com/willwade/tts-wrapper/pull/22#issuecomment-2469340182) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. ❌ Closed PR [#22](https://github.com/willwade/tts-wrapper/pull/22) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🗣 Commented on [#22](https://github.com/willwade/tts-wrapper/pull/22#issuecomment-2468193475) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#37](https://github.com/willwade/tts-wrapper/pull/37) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#36](https://github.com/willwade/tts-wrapper/pull/36#issuecomment-2466961881) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
