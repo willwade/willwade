@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#350](https://github.com/nateshmbhat/pyttsx3/pull/350#issuecomment-2473436731) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🎉 Merged PR [#380](https://github.com/nateshmbhat/pyttsx3/pull/380) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. ❗ Opened issue [#74](https://github.com/AceCentre/TextAloud/issues/74) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
-4. 🗣 Commented on [#37](https://github.com/willwade/tts-wrapper/pull/37#issuecomment-2471116337) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🗣 Commented on [#37](https://github.com/willwade/tts-wrapper/pull/37#issuecomment-2470826135) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🎉 Merged PR [#381](https://github.com/nateshmbhat/pyttsx3/pull/381) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🎉 Merged PR [#37](https://github.com/willwade/tts-wrapper/pull/37) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🗣 Commented on [#350](https://github.com/nateshmbhat/pyttsx3/pull/350#issuecomment-2473436731) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🎉 Merged PR [#380](https://github.com/nateshmbhat/pyttsx3/pull/380) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. ❗ Opened issue [#74](https://github.com/AceCentre/TextAloud/issues/74) in [AceCentre/TextAloud](https://github.com/AceCentre/TextAloud)
 <!--END_SECTION:activity-->
