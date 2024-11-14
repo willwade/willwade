@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/willwade/pyttsx3/pull/4) in [willwade/pyttsx3](https://github.com/willwade/pyttsx3)
-2. 💪 Opened PR [#4](https://github.com/willwade/pyttsx3/pull/4) in [willwade/pyttsx3](https://github.com/willwade/pyttsx3)
-3. 🗣 Commented on [#384](https://github.com/nateshmbhat/pyttsx3/issues/384#issuecomment-2475497425) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🎉 Merged PR [#350](https://github.com/nateshmbhat/pyttsx3/pull/350) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🎉 Merged PR [#382](https://github.com/nateshmbhat/pyttsx3/pull/382) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🗣 Commented on [#385](https://github.com/nateshmbhat/pyttsx3/pull/385#issuecomment-2475598475) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#385](https://github.com/nateshmbhat/pyttsx3/pull/385#issuecomment-2475593948) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 💪 Opened PR [#385](https://github.com/nateshmbhat/pyttsx3/pull/385) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🎉 Merged PR [#4](https://github.com/willwade/pyttsx3/pull/4) in [willwade/pyttsx3](https://github.com/willwade/pyttsx3)
+5. 💪 Opened PR [#4](https://github.com/willwade/pyttsx3/pull/4) in [willwade/pyttsx3](https://github.com/willwade/pyttsx3)
 <!--END_SECTION:activity-->
