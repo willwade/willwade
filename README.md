@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#378](https://github.com/nateshmbhat/pyttsx3/pull/378#issuecomment-2481580602) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. 🗣 Commented on [#378](https://github.com/nateshmbhat/pyttsx3/pull/378#issuecomment-2481578228) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#315](https://github.com/nateshmbhat/pyttsx3/issues/315#issuecomment-2479830711) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#363](https://github.com/nateshmbhat/pyttsx3/pull/363#issuecomment-2479354325) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🎉 Merged PR [#385](https://github.com/nateshmbhat/pyttsx3/pull/385) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🎉 Merged PR [#378](https://github.com/nateshmbhat/pyttsx3/pull/378) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#378](https://github.com/nateshmbhat/pyttsx3/pull/378#issuecomment-2481580602) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+3. 🗣 Commented on [#378](https://github.com/nateshmbhat/pyttsx3/pull/378#issuecomment-2481578228) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#315](https://github.com/nateshmbhat/pyttsx3/issues/315#issuecomment-2479830711) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#363](https://github.com/nateshmbhat/pyttsx3/pull/363#issuecomment-2479354325) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
