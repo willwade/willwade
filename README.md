@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#389](https://github.com/nateshmbhat/pyttsx3/pull/389) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-2. ❗ Opened issue [#6](https://github.com/AceCentre/OWD/issues/6) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-3. ❗ Opened issue [#5](https://github.com/AceCentre/OWD/issues/5) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
-4. 🎉 Merged PR [#378](https://github.com/nateshmbhat/pyttsx3/pull/378) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#378](https://github.com/nateshmbhat/pyttsx3/pull/378#issuecomment-2481580602) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. ❌ Closed PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+2. 🗣 Commented on [#31](https://github.com/mediatechlab/tts-wrapper/pull/31#issuecomment-2489890817) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 💪 Opened PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 🎉 Merged PR [#389](https://github.com/nateshmbhat/pyttsx3/pull/389) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. ❗ Opened issue [#6](https://github.com/AceCentre/OWD/issues/6) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
 <!--END_SECTION:activity-->
