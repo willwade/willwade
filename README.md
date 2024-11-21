@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-2. 🗣 Commented on [#31](https://github.com/mediatechlab/tts-wrapper/pull/31#issuecomment-2489890817) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-3. 💪 Opened PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-4. 🎉 Merged PR [#389](https://github.com/nateshmbhat/pyttsx3/pull/389) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. ❗ Opened issue [#6](https://github.com/AceCentre/OWD/issues/6) in [AceCentre/OWD](https://github.com/AceCentre/OWD)
+1. 🎉 Merged PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. ❌ Closed PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 🗣 Commented on [#31](https://github.com/mediatechlab/tts-wrapper/pull/31#issuecomment-2489890817) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+5. 💪 Opened PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
