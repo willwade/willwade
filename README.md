@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/willwade/tts-wrapper/pull/41) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🎉 Merged PR [#40](https://github.com/willwade/tts-wrapper/pull/40) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🎉 Merged PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 💪 Opened PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. ❌ Closed PR [#31](https://github.com/mediatechlab/tts-wrapper/pull/31) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. 🎉 Merged PR [#41](https://github.com/willwade/tts-wrapper/pull/41) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#41](https://github.com/willwade/tts-wrapper/pull/41) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🎉 Merged PR [#40](https://github.com/willwade/tts-wrapper/pull/40) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🎉 Merged PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 💪 Opened PR [#39](https://github.com/willwade/tts-wrapper/pull/39) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
