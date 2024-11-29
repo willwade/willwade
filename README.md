@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🔒 Closed issue [#31](https://github.com/willwade/tts-wrapper/issues/31) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#81](https://github.com/AceCentre/FaceCommander/pull/81#issuecomment-2505473639) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
-4. 🎉 Merged PR [#38](https://github.com/willwade/tts-wrapper/pull/38) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🎉 Merged PR [#2](https://github.com/AceCentre/OWS/pull/2) in [AceCentre/OWS](https://github.com/AceCentre/OWS)
+1. 🔒 Closed issue [#27](https://github.com/willwade/tts-wrapper/issues/27) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🗣 Commented on [#42](https://github.com/willwade/tts-wrapper/issues/42#issuecomment-2507189225) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. ❗ Opened issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🔒 Closed issue [#31](https://github.com/willwade/tts-wrapper/issues/31) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🗣 Commented on [#81](https://github.com/AceCentre/FaceCommander/pull/81#issuecomment-2505473639) in [AceCentre/FaceCommander](https://github.com/AceCentre/FaceCommander)
 <!--END_SECTION:activity-->
