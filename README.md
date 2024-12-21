@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460#issuecomment-2557152089) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. ❗ Opened issue [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. ❗ Opened issue [#1624](https://github.com/k2-fsa/sherpa-onnx/issues/1624) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2543910917) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. 🎉 Merged PR [#43](https://github.com/willwade/tts-wrapper/pull/43) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2558052616) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+2. 🗣 Commented on [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460#issuecomment-2557152089) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. ❗ Opened issue [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. ❗ Opened issue [#1624](https://github.com/k2-fsa/sherpa-onnx/issues/1624) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🗣 Commented on [#1088](https://github.com/k2-fsa/sherpa-onnx/issues/1088#issuecomment-2543910917) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
