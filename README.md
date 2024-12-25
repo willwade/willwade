@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/limistah/react-video-trimmer/issues/14#issuecomment-2558990931) in [limistah/react-video-trimmer](https://github.com/limistah/react-video-trimmer)
-2. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2558084145) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2558052616) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460#issuecomment-2557152089) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. ❗ Opened issue [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🚀 Published release [First release](https://github.com/willwade/crickExtract/releases/tag/v1) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+2. 🗣 Commented on [#14](https://github.com/limistah/react-video-trimmer/issues/14#issuecomment-2558990931) in [limistah/react-video-trimmer](https://github.com/limistah/react-video-trimmer)
+3. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2558084145) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2558052616) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#460](https://github.com/asterics/AsTeRICS-Grid/issues/460#issuecomment-2557152089) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
