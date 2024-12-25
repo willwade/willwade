@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v5.4.0](https://github.com/willwade/crickExtract/releases/tag/v5.4.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-2. 🚀 Published release [Release v5.3.0](https://github.com/willwade/crickExtract/releases/tag/v5.3.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-3. 🚀 Published release [Release v5.2.0](https://github.com/willwade/crickExtract/releases/tag/v5.2.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-4. 🚀 Published release [Release v5.1.0](https://github.com/willwade/crickExtract/releases/tag/v5.1.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-5. 🚀 Published release [Release main](https://github.com/willwade/crickExtract/releases/tag/main) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+1. 🚀 Published release [Release v5.5.0](https://github.com/willwade/crickExtract/releases/tag/v5.5.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+2. 🚀 Published release [Release v5.4.0](https://github.com/willwade/crickExtract/releases/tag/v5.4.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+3. 🚀 Published release [Release v5.3.0](https://github.com/willwade/crickExtract/releases/tag/v5.3.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+4. 🚀 Published release [Release v5.2.0](https://github.com/willwade/crickExtract/releases/tag/v5.2.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+5. 🚀 Published release [Release v5.1.0](https://github.com/willwade/crickExtract/releases/tag/v5.1.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
 <!--END_SECTION:activity-->
