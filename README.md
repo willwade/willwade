@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/willwade/tts-wrapper/pull/46) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🚀 Published release [Release v5.6.0](https://github.com/willwade/crickExtract/releases/tag/v5.6.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-3. 🚀 Published release [Release v5.5.0](https://github.com/willwade/crickExtract/releases/tag/v5.5.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-4. 🚀 Published release [Release v5.4.0](https://github.com/willwade/crickExtract/releases/tag/v5.4.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
-5. 🚀 Published release [Release v5.3.0](https://github.com/willwade/crickExtract/releases/tag/v5.3.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+1. 🎉 Merged PR [#46](https://github.com/willwade/tts-wrapper/pull/46) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#46](https://github.com/willwade/tts-wrapper/pull/46) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🚀 Published release [Release v5.6.0](https://github.com/willwade/crickExtract/releases/tag/v5.6.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+4. 🚀 Published release [Release v5.5.0](https://github.com/willwade/crickExtract/releases/tag/v5.5.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
+5. 🚀 Published release [Release v5.4.0](https://github.com/willwade/crickExtract/releases/tag/v5.4.0) in [willwade/crickExtract](https://github.com/willwade/crickExtract)
 <!--END_SECTION:activity-->
