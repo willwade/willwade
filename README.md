@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.0](https://github.com/willwade/AACProcessors/releases/tag/0.1.0) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-2. 🔒 Closed issue [#391](https://github.com/nateshmbhat/pyttsx3/issues/391) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🎉 Merged PR [#392](https://github.com/nateshmbhat/pyttsx3/pull/392) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🗣 Commented on [#392](https://github.com/nateshmbhat/pyttsx3/pull/392#issuecomment-2571576856) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2568029239) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🚀 Published release [Fixed conversion](https://github.com/willwade/AACProcessors/releases/tag/0.1.1) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+2. 🚀 Published release [0.1.0](https://github.com/willwade/AACProcessors/releases/tag/0.1.0) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+3. 🔒 Closed issue [#391](https://github.com/nateshmbhat/pyttsx3/issues/391) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🎉 Merged PR [#392](https://github.com/nateshmbhat/pyttsx3/pull/392) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🗣 Commented on [#392](https://github.com/nateshmbhat/pyttsx3/pull/392#issuecomment-2571576856) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
 <!--END_SECTION:activity-->
