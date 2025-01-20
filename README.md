@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [make valid off](https://github.com/willwade/AACProcessors/releases/tag/0.1.3) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-2. 🚀 Published release [Valid OBF](https://github.com/willwade/AACProcessors/releases/tag/0.1.2) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-3. 🚀 Published release [Fixed conversion](https://github.com/willwade/AACProcessors/releases/tag/0.1.1) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-4. 🚀 Published release [0.1.0](https://github.com/willwade/AACProcessors/releases/tag/0.1.0) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-5. 🔒 Closed issue [#391](https://github.com/nateshmbhat/pyttsx3/issues/391) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🚀 Published release [add optional screenshot processor](https://github.com/willwade/AACProcessors/releases/tag/0.1.4) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+2. 🚀 Published release [make valid off](https://github.com/willwade/AACProcessors/releases/tag/0.1.3) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+3. 🚀 Published release [Valid OBF](https://github.com/willwade/AACProcessors/releases/tag/0.1.2) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+4. 🚀 Published release [Fixed conversion](https://github.com/willwade/AACProcessors/releases/tag/0.1.1) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+5. 🚀 Published release [0.1.0](https://github.com/willwade/AACProcessors/releases/tag/0.1.0) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
 <!--END_SECTION:activity-->
