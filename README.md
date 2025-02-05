@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [First release](https://github.com/willwade/scicalccli/releases/tag/v1.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
-2. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610579023) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-3. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610576806) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-4. 🚀 Published release [add optional screenshot processor](https://github.com/willwade/AACProcessors/releases/tag/0.1.4) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-5. 🚀 Published release [make valid off](https://github.com/willwade/AACProcessors/releases/tag/0.1.3) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+1. ❗ Opened issue [#3](https://github.com/amanvirparhar/chaplin/issues/3) in [amanvirparhar/chaplin](https://github.com/amanvirparhar/chaplin)
+2. 🚀 Published release [First release](https://github.com/willwade/scicalccli/releases/tag/v1.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
+3. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610579023) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+4. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610576806) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+5. 🚀 Published release [add optional screenshot processor](https://github.com/willwade/AACProcessors/releases/tag/0.1.4) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
 <!--END_SECTION:activity-->
