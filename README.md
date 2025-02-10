@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Second Release - Offline webapp only](https://github.com/willwade/scicalccli/releases/tag/v2.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
-2. ❗ Opened issue [#3](https://github.com/amanvirparhar/chaplin/issues/3) in [amanvirparhar/chaplin](https://github.com/amanvirparhar/chaplin)
-3. 🚀 Published release [First release](https://github.com/willwade/scicalccli/releases/tag/v1.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
-4. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610579023) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-5. 🗣 Commented on [#361](https://github.com/nateshmbhat/pyttsx3/issues/361#issuecomment-2610576806) in [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+1. 🔒 Closed issue [#13](https://github.com/willwade/tts-wrapper/issues/13) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🔒 Closed issue [#30](https://github.com/willwade/tts-wrapper/issues/30) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🔒 Closed issue [#26](https://github.com/willwade/tts-wrapper/issues/26) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🔒 Closed issue [#29](https://github.com/willwade/tts-wrapper/issues/29) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🚀 Published release [Second Release - Offline webapp only](https://github.com/willwade/scicalccli/releases/tag/v2.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
 <!--END_SECTION:activity-->
