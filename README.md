@@ -24,9 +24,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/willwade/tts-wrapper/issues/13) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🔒 Closed issue [#30](https://github.com/willwade/tts-wrapper/issues/30) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🔒 Closed issue [#26](https://github.com/willwade/tts-wrapper/issues/26) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🔒 Closed issue [#29](https://github.com/willwade/tts-wrapper/issues/29) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🚀 Published release [Second Release - Offline webapp only](https://github.com/willwade/scicalccli/releases/tag/v2.0.0) in [willwade/scicalccli](https://github.com/willwade/scicalccli)
+1. 💪 Opened PR [#47](https://github.com/willwade/tts-wrapper/pull/47) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. ❌ Closed PR [#33](https://github.com/mediatechlab/tts-wrapper/pull/33) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+3. 💪 Opened PR [#33](https://github.com/mediatechlab/tts-wrapper/pull/33) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+4. 🔒 Closed issue [#13](https://github.com/willwade/tts-wrapper/issues/13) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🔒 Closed issue [#30](https://github.com/willwade/tts-wrapper/issues/30) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
