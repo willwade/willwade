@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.5 - Add in gridset specific replace_cell_with_xml](https://github.com/willwade/AACProcessors/releases/tag/0.1.5) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-2. 🎉 Merged PR [#47](https://github.com/willwade/tts-wrapper/pull/47) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 💪 Opened PR [#47](https://github.com/willwade/tts-wrapper/pull/47) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. ❌ Closed PR [#33](https://github.com/mediatechlab/tts-wrapper/pull/33) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
-5. 💪 Opened PR [#33](https://github.com/mediatechlab/tts-wrapper/pull/33) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
+1. 🚀 Published release [Add in replace_cell_with_xml for gridset](https://github.com/willwade/AACProcessors/releases/tag/0.1.6) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+2. 🚀 Published release [0.1.5 - Add in gridset specific replace_cell_with_xml](https://github.com/willwade/AACProcessors/releases/tag/0.1.5) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+3. 🎉 Merged PR [#47](https://github.com/willwade/tts-wrapper/pull/47) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#47](https://github.com/willwade/tts-wrapper/pull/47) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. ❌ Closed PR [#33](https://github.com/mediatechlab/tts-wrapper/pull/33) in [mediatechlab/tts-wrapper](https://github.com/mediatechlab/tts-wrapper)
 <!--END_SECTION:activity-->
