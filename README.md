@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.5](https://github.com/willwade/envloader/releases/tag/v0.1.5) in [willwade/envloader](https://github.com/willwade/envloader)
-2. 🚀 Published release [v0.1.4](https://github.com/willwade/envloader/releases/tag/v0.1.4) in [willwade/envloader](https://github.com/willwade/envloader)
-3. 🚀 Published release [v0.1.3](https://github.com/willwade/envloader/releases/tag/v0.1.3) in [willwade/envloader](https://github.com/willwade/envloader)
-4. 🚀 Published release [v0.1.1](https://github.com/willwade/envloader/releases/tag/v0.1.1) in [willwade/envloader](https://github.com/willwade/envloader)
-5. 🚀 Published release [v0.1.0](https://github.com/willwade/envloader/releases/tag/v0.1.0) in [willwade/envloader](https://github.com/willwade/envloader)
+1. 🚀 Published release [v0.1.6](https://github.com/willwade/envloader/releases/tag/v0.1.6) in [willwade/envloader](https://github.com/willwade/envloader)
+2. 🚀 Published release [v0.1.5](https://github.com/willwade/envloader/releases/tag/v0.1.5) in [willwade/envloader](https://github.com/willwade/envloader)
+3. 🚀 Published release [v0.1.4](https://github.com/willwade/envloader/releases/tag/v0.1.4) in [willwade/envloader](https://github.com/willwade/envloader)
+4. 🚀 Published release [v0.1.3](https://github.com/willwade/envloader/releases/tag/v0.1.3) in [willwade/envloader](https://github.com/willwade/envloader)
+5. 🚀 Published release [v0.1.1](https://github.com/willwade/envloader/releases/tag/v0.1.1) in [willwade/envloader](https://github.com/willwade/envloader)
 <!--END_SECTION:activity-->
