@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.10](https://github.com/willwade/envloader/releases/tag/v0.1.10) in [willwade/envloader](https://github.com/willwade/envloader)
-2. 🚀 Published release [v0.1.9](https://github.com/willwade/envloader/releases/tag/v0.1.9) in [willwade/envloader](https://github.com/willwade/envloader)
-3. 🚀 Published release [v0.1.8](https://github.com/willwade/envloader/releases/tag/v0.1.8) in [willwade/envloader](https://github.com/willwade/envloader)
-4. 🚀 Published release [v0.1.6](https://github.com/willwade/envloader/releases/tag/v0.1.6) in [willwade/envloader](https://github.com/willwade/envloader)
-5. 🚀 Published release [v0.1.5](https://github.com/willwade/envloader/releases/tag/v0.1.5) in [willwade/envloader](https://github.com/willwade/envloader)
+1. ❗ Opened issue [#1](https://github.com/willwade/SherpaOnnxSAPI-installer/issues/1) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
+2. 🚀 Published release [v0.1.10](https://github.com/willwade/envloader/releases/tag/v0.1.10) in [willwade/envloader](https://github.com/willwade/envloader)
+3. 🚀 Published release [v0.1.9](https://github.com/willwade/envloader/releases/tag/v0.1.9) in [willwade/envloader](https://github.com/willwade/envloader)
+4. 🚀 Published release [v0.1.8](https://github.com/willwade/envloader/releases/tag/v0.1.8) in [willwade/envloader](https://github.com/willwade/envloader)
+5. 🚀 Published release [v0.1.6](https://github.com/willwade/envloader/releases/tag/v0.1.6) in [willwade/envloader](https://github.com/willwade/envloader)
 <!--END_SECTION:activity-->
