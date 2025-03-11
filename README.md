@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-2. 💪 Opened PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-3. 🎉 Merged PR [#2](https://github.com/willwade/SherpaOnnxSAPI-installer/pull/2) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
-4. 💪 Opened PR [#2](https://github.com/willwade/SherpaOnnxSAPI-installer/pull/2) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
-5. ❗ Opened issue [#1](https://github.com/willwade/SherpaOnnxSAPI-installer/issues/1) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
+1. ❗ Opened issue [#72](https://github.com/AceCentre/nhs-service-finder/issues/72) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+2. 🎉 Merged PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+3. 💪 Opened PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+4. 🎉 Merged PR [#2](https://github.com/willwade/SherpaOnnxSAPI-installer/pull/2) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
+5. 💪 Opened PR [#2](https://github.com/willwade/SherpaOnnxSAPI-installer/pull/2) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
 <!--END_SECTION:activity-->
