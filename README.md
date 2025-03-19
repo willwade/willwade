@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/issues/4) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-2. ❗ Opened issue [#72](https://github.com/AceCentre/nhs-service-finder/issues/72) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-3. 🎉 Merged PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-4. 💪 Opened PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-5. 🎉 Merged PR [#2](https://github.com/willwade/SherpaOnnxSAPI-installer/pull/2) in [willwade/SherpaOnnxSAPI-installer](https://github.com/willwade/SherpaOnnxSAPI-installer)
+1. 💪 Opened PR [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+2. ❗ Opened issue [#4](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/issues/4) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+3. ❗ Opened issue [#72](https://github.com/AceCentre/nhs-service-finder/issues/72) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+4. 🎉 Merged PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+5. 💪 Opened PR [#3](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/pull/3) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
 <!--END_SECTION:activity-->
