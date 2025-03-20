@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/willwade/AACProcessors/issues/2) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-2. ❗ Opened issue [#1](https://github.com/willwade/AACProcessors/issues/1) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-3. 💪 Opened PR [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-4. ❗ Opened issue [#4](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/issues/4) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-5. ❗ Opened issue [#72](https://github.com/AceCentre/nhs-service-finder/issues/72) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2739560675) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+2. ❗ Opened issue [#2](https://github.com/willwade/AACProcessors/issues/2) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+3. ❗ Opened issue [#1](https://github.com/willwade/AACProcessors/issues/1) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+4. 💪 Opened PR [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+5. ❗ Opened issue [#4](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/issues/4) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
 <!--END_SECTION:activity-->
