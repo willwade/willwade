@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2745952060) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-2. 🗣 Commented on [#2](https://github.com/dasher-project/dasher-MIT/issues/2#issuecomment-2745233865) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
-3. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2744886274) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-4. ❗ Opened issue [#55](https://github.com/willwade/tts-wrapper/issues/55) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🔒 Closed issue [#50](https://github.com/willwade/tts-wrapper/issues/50) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2748684324) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+2. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2748657965) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+3. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2745952060) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+4. 🗣 Commented on [#2](https://github.com/dasher-project/dasher-MIT/issues/2#issuecomment-2745233865) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+5. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2744886274) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
 <!--END_SECTION:activity-->
