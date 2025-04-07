@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2774902096) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-2. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2772611409) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-3. 🚀 Published release [0.1.8 - Support for more non-AAC formats (eg Dot) and fixes for Touchchat](https://github.com/willwade/AACProcessors/releases/tag/0.1.8) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
-4. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2748684324) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-5. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2748657965) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+1. ❗ Opened issue [#65](https://github.com/navilg/media-stack/issues/65) in [navilg/media-stack](https://github.com/navilg/media-stack)
+2. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2774902096) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+3. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2772611409) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+4. 🚀 Published release [0.1.8 - Support for more non-AAC formats (eg Dot) and fixes for Touchchat](https://github.com/willwade/AACProcessors/releases/tag/0.1.8) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+5. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2748684324) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
 <!--END_SECTION:activity-->
