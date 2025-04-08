@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 🔒 Closed issue [#54](https://github.com/willwade/tts-wrapper/issues/54) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🔒 Closed issue [#49](https://github.com/willwade/tts-wrapper/issues/49) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🔒 Closed issue [#32](https://github.com/willwade/tts-wrapper/issues/32) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🔒 Closed issue [#24](https://github.com/willwade/tts-wrapper/issues/24) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🔒 Closed issue [#55](https://github.com/willwade/tts-wrapper/issues/55) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🔒 Closed issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🔒 Closed issue [#54](https://github.com/willwade/tts-wrapper/issues/54) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🔒 Closed issue [#49](https://github.com/willwade/tts-wrapper/issues/49) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🔒 Closed issue [#32](https://github.com/willwade/tts-wrapper/issues/32) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
