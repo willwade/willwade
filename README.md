@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#66](https://github.com/navilg/media-stack/issues/66) in [navilg/media-stack](https://github.com/navilg/media-stack)
-2. ❗ Opened issue [#65](https://github.com/navilg/media-stack/issues/65) in [navilg/media-stack](https://github.com/navilg/media-stack)
-3. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2774902096) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-4. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2772611409) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-5. 🚀 Published release [0.1.8 - Support for more non-AAC formats (eg Dot) and fixes for Touchchat](https://github.com/willwade/AACProcessors/releases/tag/0.1.8) in [willwade/AACProcessors](https://github.com/willwade/AACProcessors)
+1. 🔒 Closed issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 🔒 Closed issue [#54](https://github.com/willwade/tts-wrapper/issues/54) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🔒 Closed issue [#49](https://github.com/willwade/tts-wrapper/issues/49) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🔒 Closed issue [#32](https://github.com/willwade/tts-wrapper/issues/32) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🔒 Closed issue [#24](https://github.com/willwade/tts-wrapper/issues/24) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
