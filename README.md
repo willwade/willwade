@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2784693693) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-2. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2784678897) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
-3. 🔒 Closed issue [#55](https://github.com/willwade/tts-wrapper/issues/55) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🔒 Closed issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🔒 Closed issue [#54](https://github.com/willwade/tts-wrapper/issues/54) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🚀 Published release [First release](https://github.com/willwade/js-tts-wrapper/releases/tag/0.0.1) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2784693693) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+3. 🗣 Commented on [#2](https://github.com/asterics/AsTeRICS-Grid-Helper/pull/2#issuecomment-2784678897) in [asterics/AsTeRICS-Grid-Helper](https://github.com/asterics/AsTeRICS-Grid-Helper)
+4. 🔒 Closed issue [#55](https://github.com/willwade/tts-wrapper/issues/55) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🔒 Closed issue [#42](https://github.com/willwade/tts-wrapper/issues/42) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
