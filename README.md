@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix of Fetch bug](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.3) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [First release with new packaging details](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.2) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.1.1 Release for test](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.1) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [Full release - to test](https://github.com/willwade/js-tts-wrapper/releases/tag/0.0.3) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [Full release](https://github.com/willwade/js-tts-wrapper/releases/tag/0.0.2) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [v0.1.6 Release](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.6) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [Fix of Fetch bug](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.3) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [First release with new packaging details](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.2) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [v0.1.1 Release for test](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.1) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [Full release - to test](https://github.com/willwade/js-tts-wrapper/releases/tag/0.0.3) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
