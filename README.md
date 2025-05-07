@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#316](https://github.com/typst/hayagriva/issues/316) in [typst/hayagriva](https://github.com/typst/hayagriva)
-2. 🚀 Published release [0.1.13 checkCredentialsDetailed release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.13) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.1.12 Fix circular import](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.12) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.11 release - stop of circular imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.11) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.1.10](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.10) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [Polly fixes, node-audio addition and a lot more fixes..](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.14) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. ❗ Opened issue [#316](https://github.com/typst/hayagriva/issues/316) in [typst/hayagriva](https://github.com/typst/hayagriva)
+3. 🚀 Published release [0.1.13 checkCredentialsDetailed release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.13) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [v0.1.12 Fix circular import](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.12) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [v0.1.11 release - stop of circular imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.11) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
