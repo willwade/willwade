@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fix witai and Polly playback speed](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.15) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [Polly fixes, node-audio addition and a lot more fixes..](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.14) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. ❗ Opened issue [#316](https://github.com/typst/hayagriva/issues/316) in [typst/hayagriva](https://github.com/typst/hayagriva)
-4. 🚀 Published release [0.1.13 checkCredentialsDetailed release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.13) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.1.12 Fix circular import](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.12) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#66](https://github.com/navilg/media-stack/issues/66#issuecomment-2870258996) in [navilg/media-stack](https://github.com/navilg/media-stack)
+2. 🔒 Closed issue [#66](https://github.com/navilg/media-stack/issues/66) in [navilg/media-stack](https://github.com/navilg/media-stack)
+3. 🚀 Published release [Fix witai and Polly playback speed](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.15) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [Polly fixes, node-audio addition and a lot more fixes..](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.14) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. ❗ Opened issue [#316](https://github.com/typst/hayagriva/issues/316) in [typst/hayagriva](https://github.com/typst/hayagriva)
 <!--END_SECTION:activity-->
