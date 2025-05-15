@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2873434991) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#66](https://github.com/navilg/media-stack/issues/66#issuecomment-2870258996) in [navilg/media-stack](https://github.com/navilg/media-stack)
-3. 🔒 Closed issue [#66](https://github.com/navilg/media-stack/issues/66) in [navilg/media-stack](https://github.com/navilg/media-stack)
-4. 🚀 Published release [Fix witai and Polly playback speed](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.15) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [Polly fixes, node-audio addition and a lot more fixes..](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.14) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. ❗ Opened issue [#73](https://github.com/AceCentre/nhs-service-finder/issues/73) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+2. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2873434991) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#66](https://github.com/navilg/media-stack/issues/66#issuecomment-2870258996) in [navilg/media-stack](https://github.com/navilg/media-stack)
+4. 🔒 Closed issue [#66](https://github.com/navilg/media-stack/issues/66) in [navilg/media-stack](https://github.com/navilg/media-stack)
+5. 🚀 Published release [Fix witai and Polly playback speed](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.15) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
