@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/willwade/js-tts-wrapper/issues/1#issuecomment-2910569255) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🎉 Merged PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
-3. 💪 Opened PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
-4. 🎉 Merged PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. 💪 Opened PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. 🚀 Published release [Fixing witai and lint issues and sherpaonnx](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.16) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🗣 Commented on [#1](https://github.com/willwade/js-tts-wrapper/issues/1#issuecomment-2910569255) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🎉 Merged PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
+4. 💪 Opened PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
+5. 🎉 Merged PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
