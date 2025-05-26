@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
-2. 💪 Opened PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
-3. 🎉 Merged PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. 💪 Opened PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. ❗ Opened issue [#73](https://github.com/AceCentre/nhs-service-finder/issues/73) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. 🗣 Commented on [#1](https://github.com/willwade/js-tts-wrapper/issues/1#issuecomment-2910569255) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🎉 Merged PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
+3. 💪 Opened PR [#1](https://github.com/willwade/genietalk2/pull/1) in [willwade/genietalk2](https://github.com/willwade/genietalk2)
+4. 🎉 Merged PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+5. 💪 Opened PR [#50](https://github.com/AceCentre/morse-learn/pull/50) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
