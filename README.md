@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.20 - FIx issue with dodgy package.json having local dir](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.20) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.19 - upgrade ElevenLabs, refactor prepareSSML (now asynchronous)](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.19) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [Bumped version - deprecated speaker](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.17) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [Fixing witai and lint issues and sherpaonnx](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.16) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#1](https://github.com/willwade/js-tts-wrapper/issues/1#issuecomment-2910569255) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [v0.1.21 - Small fix for package.json](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.21) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.1.20 - FIx issue with dodgy package.json having local dir](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.20) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.1.19 - upgrade ElevenLabs, refactor prepareSSML (now asynchronous)](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.19) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [Bumped version - deprecated speaker](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.17) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [Fixing witai and lint issues and sherpaonnx](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.16) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
