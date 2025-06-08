@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.30 - sherpaonnx-wasm with all model supporters ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.30) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.29 - SherpaOnnx Kokoro and Matcha](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.29) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🔒 Closed issue [#56](https://github.com/willwade/tts-wrapper/issues/56) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 🗣 Commented on [#3](https://github.com/willwade/js-tts-wrapper/issues/3#issuecomment-2938955540) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🔒 Closed issue [#3](https://github.com/willwade/js-tts-wrapper/issues/3) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🔒 Closed issue [#155](https://github.com/AceCentre/RelayKeys/issues/155) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2954180652) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🚀 Published release [2.02 - Device polling and documentation updates](https://github.com/AceCentre/RelayKeys/releases/tag/2.02) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. ❌ Closed PR [#111](https://github.com/AceCentre/RelayKeys/pull/111) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🚀 Published release [v0.1.30 - sherpaonnx-wasm with all model supporters ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.30) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
