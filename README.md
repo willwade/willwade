@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/AceCentre/RelayKeys/issues/104#issuecomment-2954852464) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-2954832149) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🔒 Closed issue [#155](https://github.com/AceCentre/RelayKeys/issues/155) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2954180652) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🚀 Published release [2.02 - Device polling and documentation updates](https://github.com/AceCentre/RelayKeys/releases/tag/2.02) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🚀 Published release [v2.3.1 bring back googleTrans](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.1) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#104](https://github.com/AceCentre/RelayKeys/issues/104#issuecomment-2954852464) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-2954832149) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🔒 Closed issue [#155](https://github.com/AceCentre/RelayKeys/issues/155) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2954180652) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
