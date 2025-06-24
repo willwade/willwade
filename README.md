@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#58](https://github.com/willwade/tts-wrapper/pull/58) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 💪 Opened PR [#58](https://github.com/willwade/tts-wrapper/pull/58) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. ❌ Closed PR [#57](https://github.com/willwade/tts-wrapper/pull/57) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 💪 Opened PR [#57](https://github.com/willwade/tts-wrapper/pull/57) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2996764043) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🎉 Merged PR [#61](https://github.com/willwade/tts-wrapper/pull/61) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#61](https://github.com/willwade/tts-wrapper/pull/61) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. ❌ Closed PR [#60](https://github.com/willwade/tts-wrapper/pull/60) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#60](https://github.com/willwade/tts-wrapper/pull/60) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🎉 Merged PR [#59](https://github.com/willwade/tts-wrapper/pull/59) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
