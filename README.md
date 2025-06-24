@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2996764043) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-2996734103) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🔒 Closed issue [#149](https://github.com/AceCentre/RelayKeys/issues/149) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🚀 Published release [2.03 - Rework arduino sketch ](https://github.com/AceCentre/RelayKeys/releases/tag/2.03) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2993597625) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. ❌ Closed PR [#57](https://github.com/willwade/tts-wrapper/pull/57) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#57](https://github.com/willwade/tts-wrapper/pull/57) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-2996764043) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#149](https://github.com/AceCentre/RelayKeys/issues/149#issuecomment-2996734103) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🔒 Closed issue [#149](https://github.com/AceCentre/RelayKeys/issues/149) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
