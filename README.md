@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026939866) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026922968) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026602094) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [0.1.34 ](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.34) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#5](https://github.com/willwade/js-tts-wrapper/issues/5#issuecomment-3023698339) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026973698) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026939866) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026922968) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026602094) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [0.1.34 ](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.34) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
