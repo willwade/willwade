@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/willwade/js-tts-wrapper/issues/5#issuecomment-3023698339) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🔒 Closed issue [#5](https://github.com/willwade/js-tts-wrapper/issues/5) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.1.33 ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.33) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.32 - Fix .speak and tests always passing](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.32) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.1.32 - Fix .speak and tests always passing](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.32) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026602094) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [0.1.34 ](https://github.com/willwade/js-tts-wrapper/releases/tag/0.1.34) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#5](https://github.com/willwade/js-tts-wrapper/issues/5#issuecomment-3023698339) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🔒 Closed issue [#5](https://github.com/willwade/js-tts-wrapper/issues/5) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [v0.1.33 ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.33) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
