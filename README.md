@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3027375367) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026973698) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026939866) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026922968) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3026602094) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🔒 Closed issue [#6](https://github.com/willwade/js-tts-wrapper/issues/6) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3027520029) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [Audio conversion fixing](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.35) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🎉 Merged PR [#7](https://github.com/willwade/js-tts-wrapper/pull/7) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 💪 Opened PR [#7](https://github.com/willwade/js-tts-wrapper/pull/7) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
