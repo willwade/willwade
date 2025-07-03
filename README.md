@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Fixing SAPI SSML and eSpeak dependencies](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.36) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🔒 Closed issue [#6](https://github.com/willwade/js-tts-wrapper/issues/6) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#6](https://github.com/willwade/js-tts-wrapper/issues/6#issuecomment-3027520029) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [Audio conversion fixing](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.35) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🎉 Merged PR [#7](https://github.com/willwade/js-tts-wrapper/pull/7) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#8](https://github.com/willwade/js-tts-wrapper/issues/8#issuecomment-3028076613) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🔒 Closed issue [#8](https://github.com/willwade/js-tts-wrapper/issues/8) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#9](https://github.com/willwade/js-tts-wrapper/issues/9#issuecomment-3028075188) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🔒 Closed issue [#9](https://github.com/willwade/js-tts-wrapper/issues/9) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [Fixing SAPI SSML and eSpeak dependencies](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.36) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
