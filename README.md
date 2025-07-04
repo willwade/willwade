@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/willwade/js-tts-wrapper/issues/9#issuecomment-3028330238) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.36](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.36) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#8](https://github.com/willwade/js-tts-wrapper/issues/8#issuecomment-3028076613) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🔒 Closed issue [#8](https://github.com/willwade/js-tts-wrapper/issues/8) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#9](https://github.com/willwade/js-tts-wrapper/issues/9#issuecomment-3028075188) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🎉 Merged PR [#82](https://github.com/AceCentre/Echo/pull/82) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 💪 Opened PR [#82](https://github.com/AceCentre/Echo/pull/82) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🗣 Commented on [#9](https://github.com/willwade/js-tts-wrapper/issues/9#issuecomment-3028330238) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [v0.1.36](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.36) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🗣 Commented on [#8](https://github.com/willwade/js-tts-wrapper/issues/8#issuecomment-3028076613) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
