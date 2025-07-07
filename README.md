@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-2. 💪 Opened PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 🎉 Merged PR [#82](https://github.com/AceCentre/Echo/pull/82) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 💪 Opened PR [#82](https://github.com/AceCentre/Echo/pull/82) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. 🗣 Commented on [#9](https://github.com/willwade/js-tts-wrapper/issues/9#issuecomment-3028330238) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🎉 Merged PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+2. 💪 Opened PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+3. 🎉 Merged PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 💪 Opened PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🎉 Merged PR [#82](https://github.com/AceCentre/Echo/pull/82) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
