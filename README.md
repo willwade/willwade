@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3143666318) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🎉 Merged PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-3. 💪 Opened PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-4. 🎉 Merged PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
-5. 💪 Opened PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🚀 Published release [v2.3.2 - SherpaOnnx fix and GUI Preview app](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3143666318) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🎉 Merged PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+4. 💪 Opened PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+5. 🎉 Merged PR [#83](https://github.com/AceCentre/Echo/pull/83) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
