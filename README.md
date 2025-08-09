@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/NARBEHOUSE/Ben-s-Software-/pull/4) in [NARBEHOUSE/Ben-s-Software-](https://github.com/NARBEHOUSE/Ben-s-Software-)
-2. 🚀 Published release [v2.3.2 - SherpaOnnx fix and GUI Preview app](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3143666318) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🎉 Merged PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
+1. 🚀 Published release [v0.1.37](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.37) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 💪 Opened PR [#4](https://github.com/NARBEHOUSE/Ben-s-Software-/pull/4) in [NARBEHOUSE/Ben-s-Software-](https://github.com/NARBEHOUSE/Ben-s-Software-)
+3. 🚀 Published release [v2.3.2 - SherpaOnnx fix and GUI Preview app](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3143666318) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 5. 💪 Opened PR [#84](https://github.com/AceCentre/Echo/pull/84) in [AceCentre/Echo](https://github.com/AceCentre/Echo)
 <!--END_SECTION:activity-->
