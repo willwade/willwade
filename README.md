@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#565](https://github.com/asterics/AsTeRICS-Grid/pull/565) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🚀 Published release [v0.1.37](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.37) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 💪 Opened PR [#4](https://github.com/NARBEHOUSE/Ben-s-Software-/pull/4) in [NARBEHOUSE/Ben-s-Software-](https://github.com/NARBEHOUSE/Ben-s-Software-)
-4. 🚀 Published release [v2.3.2 - SherpaOnnx fix and GUI Preview app](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3143666318) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 🗣 Commented on [#565](https://github.com/asterics/AsTeRICS-Grid/pull/565#issuecomment-3175013985) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 💪 Opened PR [#565](https://github.com/asterics/AsTeRICS-Grid/pull/565) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 🚀 Published release [v0.1.37](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.37) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 💪 Opened PR [#4](https://github.com/NARBEHOUSE/Ben-s-Software-/pull/4) in [NARBEHOUSE/Ben-s-Software-](https://github.com/NARBEHOUSE/Ben-s-Software-)
+5. 🚀 Published release [v2.3.2 - SherpaOnnx fix and GUI Preview app](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.3.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
