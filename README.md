@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#571](https://github.com/asterics/AsTeRICS-Grid/issues/571) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 💪 Opened PR [#570](https://github.com/asterics/AsTeRICS-Grid/pull/570) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#569](https://github.com/asterics/AsTeRICS-Grid/pull/569#issuecomment-3183017057) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 🎉 Merged PR [#2](https://github.com/willwade/AsTeRICS-Grid/pull/2) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
-5. 💪 Opened PR [#2](https://github.com/willwade/AsTeRICS-Grid/pull/2) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
+1. 💪 Opened PR [#572](https://github.com/asterics/AsTeRICS-Grid/pull/572) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🎉 Merged PR [#3](https://github.com/willwade/AsTeRICS-Grid/pull/3) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
+3. 💪 Opened PR [#3](https://github.com/willwade/AsTeRICS-Grid/pull/3) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
+4. ❗ Opened issue [#571](https://github.com/asterics/AsTeRICS-Grid/issues/571) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 💪 Opened PR [#570](https://github.com/asterics/AsTeRICS-Grid/pull/570) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
