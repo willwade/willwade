@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/willwade/js-tts-wrapper/issues/10#issuecomment-3194725944) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🔒 Closed issue [#10](https://github.com/willwade/js-tts-wrapper/issues/10) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#11](https://github.com/willwade/js-tts-wrapper/issues/11#issuecomment-3194724967) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🔒 Closed issue [#11](https://github.com/willwade/js-tts-wrapper/issues/11) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#12](https://github.com/willwade/js-tts-wrapper/issues/12#issuecomment-3194723576) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [v0.1.38 Fixes](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.38) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.1.38 - SMD and SSML fixes and SAPI fixes for voiceId ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.38) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#10](https://github.com/willwade/js-tts-wrapper/issues/10#issuecomment-3194725944) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🔒 Closed issue [#10](https://github.com/willwade/js-tts-wrapper/issues/10) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🗣 Commented on [#11](https://github.com/willwade/js-tts-wrapper/issues/11#issuecomment-3194724967) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
