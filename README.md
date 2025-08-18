@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577#issuecomment-3196032750) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🗣 Commented on [#566](https://github.com/asterics/AsTeRICS-Grid/pull/566#issuecomment-3195872289) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. ❌ Closed PR [#566](https://github.com/asterics/AsTeRICS-Grid/pull/566) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🚀 Published release [v0.1.38 Fixes](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.38) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577#issuecomment-3196091333) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🗣 Commented on [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577#issuecomment-3196032750) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 🗣 Commented on [#566](https://github.com/asterics/AsTeRICS-Grid/pull/566#issuecomment-3195872289) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. ❌ Closed PR [#566](https://github.com/asterics/AsTeRICS-Grid/pull/566) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 💪 Opened PR [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
