@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#76](https://github.com/AceCentre/nhs-service-finder/issues/76) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. ❗ Opened issue [#3](https://github.com/willwade/morpho-wasm/issues/3) in [willwade/morpho-wasm](https://github.com/willwade/morpho-wasm)
-3. ❗ Opened issue [#2](https://github.com/willwade/morpho-wasm/issues/2) in [willwade/morpho-wasm](https://github.com/willwade/morpho-wasm)
-4. 🗣 Commented on [#488](https://github.com/asterics/AsTeRICS-Grid/issues/488#issuecomment-3201211151) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#579](https://github.com/asterics/AsTeRICS-Grid/pull/579#issuecomment-3198558627) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🚀 Published release [Adding UpLiftAI ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.39) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. ❗ Opened issue [#76](https://github.com/AceCentre/nhs-service-finder/issues/76) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+3. ❗ Opened issue [#3](https://github.com/willwade/morpho-wasm/issues/3) in [willwade/morpho-wasm](https://github.com/willwade/morpho-wasm)
+4. ❗ Opened issue [#2](https://github.com/willwade/morpho-wasm/issues/2) in [willwade/morpho-wasm](https://github.com/willwade/morpho-wasm)
+5. 🗣 Commented on [#488](https://github.com/asterics/AsTeRICS-Grid/issues/488#issuecomment-3201211151) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
