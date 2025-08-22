@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/willwade/WorldAlphabets/pull/2) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#2](https://github.com/willwade/WorldAlphabets/pull/2) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#1](https://github.com/willwade/WorldAlphabets/pull/1) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#1](https://github.com/willwade/WorldAlphabets/pull/1) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [Adding UpLiftAI ](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.39) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🎉 Merged PR [#3](https://github.com/willwade/WorldAlphabets/pull/3) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#3](https://github.com/willwade/WorldAlphabets/pull/3) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#2](https://github.com/willwade/WorldAlphabets/pull/2) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#2](https://github.com/willwade/WorldAlphabets/pull/2) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🎉 Merged PR [#1](https://github.com/willwade/WorldAlphabets/pull/1) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
