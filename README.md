@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/willwade/WorldAlphabets/pull/5) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#5](https://github.com/willwade/WorldAlphabets/pull/5) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#4](https://github.com/willwade/WorldAlphabets/pull/4) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#4](https://github.com/willwade/WorldAlphabets/pull/4) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🎉 Merged PR [#3](https://github.com/willwade/WorldAlphabets/pull/3) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🎉 Merged PR [#7](https://github.com/willwade/WorldAlphabets/pull/7) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#7](https://github.com/willwade/WorldAlphabets/pull/7) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#6](https://github.com/willwade/WorldAlphabets/pull/6) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#6](https://github.com/willwade/WorldAlphabets/pull/6) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🎉 Merged PR [#5](https://github.com/willwade/WorldAlphabets/pull/5) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
