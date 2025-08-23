@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/willwade/WorldAlphabets/pull/21) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#21](https://github.com/willwade/WorldAlphabets/pull/21) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#20](https://github.com/willwade/WorldAlphabets/pull/20) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#20](https://github.com/willwade/WorldAlphabets/pull/20) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🗣 Commented on [#552](https://github.com/asterics/AsTeRICS-Grid/issues/552#issuecomment-3215136997) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🎉 Merged PR [#24](https://github.com/willwade/WorldAlphabets/pull/24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#24](https://github.com/willwade/WorldAlphabets/pull/24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#23](https://github.com/willwade/WorldAlphabets/pull/23) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#23](https://github.com/willwade/WorldAlphabets/pull/23) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🚀 Published release [v0.0.10 - Add keyboard layouts](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.10) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
