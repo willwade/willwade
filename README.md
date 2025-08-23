@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/willwade/WorldAlphabets/pull/28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🎉 Merged PR [#27](https://github.com/willwade/WorldAlphabets/pull/27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 💪 Opened PR [#27](https://github.com/willwade/WorldAlphabets/pull/27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 🗣 Commented on [#34](https://github.com/AceCentre/aac-launchpad/issues/34#issuecomment-3216593352) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
-5. ❗ Opened issue [#36](https://github.com/AceCentre/aac-launchpad/issues/36) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
+1. 🎉 Merged PR [#28](https://github.com/willwade/WorldAlphabets/pull/28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#28](https://github.com/willwade/WorldAlphabets/pull/28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#27](https://github.com/willwade/WorldAlphabets/pull/27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#27](https://github.com/willwade/WorldAlphabets/pull/27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🗣 Commented on [#34](https://github.com/AceCentre/aac-launchpad/issues/34#issuecomment-3216593352) in [AceCentre/aac-launchpad](https://github.com/AceCentre/aac-launchpad)
 <!--END_SECTION:activity-->
