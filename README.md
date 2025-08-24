@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/willwade/tts-wrapper/pull/63) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-2. 💪 Opened PR [#63](https://github.com/willwade/tts-wrapper/pull/63) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. ❗ Opened issue [#36](https://github.com/willwade/WorldAlphabets/issues/36) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#62](https://github.com/willwade/tts-wrapper/pull/62) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. ❗ Opened issue [#35](https://github.com/willwade/WorldAlphabets/issues/35) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🎉 Merged PR [#65](https://github.com/willwade/tts-wrapper/pull/65) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+2. 💪 Opened PR [#65](https://github.com/willwade/tts-wrapper/pull/65) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+3. ❌ Closed PR [#62](https://github.com/willwade/tts-wrapper/pull/62) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 💪 Opened PR [#64](https://github.com/willwade/tts-wrapper/pull/64) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+5. 🎉 Merged PR [#63](https://github.com/willwade/tts-wrapper/pull/63) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
