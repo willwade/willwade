@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#565](https://github.com/asterics/AsTeRICS-Grid/pull/565) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. ❗ Opened issue [#37](https://github.com/willwade/WorldAlphabets/issues/37) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#65](https://github.com/willwade/tts-wrapper/pull/65) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-4. 💪 Opened PR [#65](https://github.com/willwade/tts-wrapper/pull/65) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-5. ❌ Closed PR [#62](https://github.com/willwade/tts-wrapper/pull/62) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+1. 🗣 Commented on [#15](https://github.com/willwade/IPAChatReact/pull/15#issuecomment-3225310870) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+2. 💪 Opened PR [#15](https://github.com/willwade/IPAChatReact/pull/15) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+3. ❌ Closed PR [#565](https://github.com/asterics/AsTeRICS-Grid/pull/565) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. ❗ Opened issue [#37](https://github.com/willwade/WorldAlphabets/issues/37) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🎉 Merged PR [#65](https://github.com/willwade/tts-wrapper/pull/65) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
 <!--END_SECTION:activity-->
