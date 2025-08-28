@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/willwade/WorldAlphabets/pull/38) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#38](https://github.com/willwade/WorldAlphabets/pull/38) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🗣 Commented on [#13](https://github.com/willwade/IPAChatReact/issues/13#issuecomment-3226062955) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. 🗣 Commented on [#13](https://github.com/willwade/IPAChatReact/issues/13#issuecomment-3225997737) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-5. 🗣 Commented on [#8](https://github.com/willwade/IPAChatReact/pull/8#issuecomment-3225954803) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 🚀 Published release [v0.0.12 - Add more languages ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.12) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. ❌ Closed PR [#39](https://github.com/willwade/WorldAlphabets/pull/39) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#40](https://github.com/willwade/WorldAlphabets/pull/40) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#40](https://github.com/willwade/WorldAlphabets/pull/40) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 💪 Opened PR [#39](https://github.com/willwade/WorldAlphabets/pull/39) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
