@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577#issuecomment-3234067184) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 💪 Opened PR [#42](https://github.com/willwade/WorldAlphabets/pull/42) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🗣 Commented on [#13](https://github.com/willwade/IPAChatReact/issues/13#issuecomment-3228673501) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. 🗣 Commented on [#16](https://github.com/willwade/IPAChatReact/issues/16#issuecomment-3228664166) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-5. 🎉 Merged PR [#8](https://github.com/willwade/IPAChatReact/pull/8) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 💪 Opened PR [#21](https://github.com/willwade/IPAChatReact/pull/21) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+2. 🗣 Commented on [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577#issuecomment-3234067184) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 💪 Opened PR [#42](https://github.com/willwade/WorldAlphabets/pull/42) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🗣 Commented on [#13](https://github.com/willwade/IPAChatReact/issues/13#issuecomment-3228673501) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+5. 🗣 Commented on [#16](https://github.com/willwade/IPAChatReact/issues/16#issuecomment-3228664166) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
 <!--END_SECTION:activity-->
