@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#569](https://github.com/asterics/AsTeRICS-Grid/pull/569#issuecomment-3240471030) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🗣 Commented on [#591](https://github.com/asterics/AsTeRICS-Grid/pull/591#issuecomment-3240466684) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. ❌ Closed PR [#577](https://github.com/asterics/AsTeRICS-Grid/pull/577) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#591](https://github.com/asterics/AsTeRICS-Grid/pull/591) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#2](https://github.com/willwade/IPAChatReact/issues/2#issuecomment-3236109651) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. ❌ Closed PR [#579](https://github.com/asterics/AsTeRICS-Grid/pull/579) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 💪 Opened PR [#593](https://github.com/asterics/AsTeRICS-Grid/pull/593) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. ❌ Closed PR [#578](https://github.com/asterics/AsTeRICS-Grid/pull/578) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 💪 Opened PR [#592](https://github.com/asterics/AsTeRICS-Grid/pull/592) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 🗣 Commented on [#569](https://github.com/asterics/AsTeRICS-Grid/pull/569#issuecomment-3240471030) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
