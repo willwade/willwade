@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/willwade/js-tts-wrapper/issues/17) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#18](https://github.com/willwade/js-tts-wrapper/issues/18#issuecomment-3241555166) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🔒 Closed issue [#18](https://github.com/willwade/js-tts-wrapper/issues/18) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [Fixing espeak install](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.40) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🎉 Merged PR [#19](https://github.com/willwade/js-tts-wrapper/pull/19) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#594](https://github.com/asterics/AsTeRICS-Grid/pull/594#issuecomment-3241633155) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. ❌ Closed PR [#569](https://github.com/asterics/AsTeRICS-Grid/pull/569) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 💪 Opened PR [#596](https://github.com/asterics/AsTeRICS-Grid/pull/596) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 🔒 Closed issue [#17](https://github.com/willwade/js-tts-wrapper/issues/17) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🗣 Commented on [#18](https://github.com/willwade/js-tts-wrapper/issues/18#issuecomment-3241555166) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
