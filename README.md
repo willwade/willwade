@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/AceCentre/AACSpeakHelper/pull/64) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 💪 Opened PR [#64](https://github.com/AceCentre/AACSpeakHelper/pull/64) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🗣 Commented on [#598](https://github.com/asterics/AsTeRICS-Grid/pull/598#issuecomment-3241958743) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#598](https://github.com/asterics/AsTeRICS-Grid/pull/598) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#580](https://github.com/asterics/AsTeRICS-Grid/issues/580#issuecomment-3241831311) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🎉 Merged PR [#65](https://github.com/AceCentre/AACSpeakHelper/pull/65) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 💪 Opened PR [#65](https://github.com/AceCentre/AACSpeakHelper/pull/65) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. 🎉 Merged PR [#64](https://github.com/AceCentre/AACSpeakHelper/pull/64) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 💪 Opened PR [#64](https://github.com/AceCentre/AACSpeakHelper/pull/64) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🗣 Commented on [#598](https://github.com/asterics/AsTeRICS-Grid/pull/598#issuecomment-3241958743) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
