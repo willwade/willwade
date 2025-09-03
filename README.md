@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/willwade/IPAChatReact/pull/22) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-2. 🚀 Published release [v2.5.0 Refactor of Pipeline and Transliteration](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.0) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 🎉 Merged PR [#65](https://github.com/AceCentre/AACSpeakHelper/pull/65) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 💪 Opened PR [#65](https://github.com/AceCentre/AACSpeakHelper/pull/65) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-5. 🎉 Merged PR [#64](https://github.com/AceCentre/AACSpeakHelper/pull/64) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🎉 Merged PR [#48](https://github.com/willwade/WorldAlphabets/pull/48) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#48](https://github.com/willwade/WorldAlphabets/pull/48) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#47](https://github.com/willwade/WorldAlphabets/pull/47) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#22](https://github.com/willwade/IPAChatReact/pull/22) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+5. 🚀 Published release [v2.5.0 Refactor of Pipeline and Transliteration](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.0) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
