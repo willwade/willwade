@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/willwade/WorldAlphabets/pull/48) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#48](https://github.com/willwade/WorldAlphabets/pull/48) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#47](https://github.com/willwade/WorldAlphabets/pull/47) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#22](https://github.com/willwade/IPAChatReact/pull/22) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-5. 🚀 Published release [v2.5.0 Refactor of Pipeline and Transliteration](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.0) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🚀 Published release [v0.0.15 - Rerun of publish](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.15) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 🚀 Published release [v0.0.14 CLDR datasource](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.14) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#49](https://github.com/willwade/WorldAlphabets/pull/49) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#49](https://github.com/willwade/WorldAlphabets/pull/49) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🚀 Published release [v0.0.14 Digits, More Languages etc CLDR as datasource](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.14) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
