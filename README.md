@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.15 - Rerun of publish](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.15) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🚀 Published release [v0.0.14 CLDR datasource](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.14) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#49](https://github.com/willwade/WorldAlphabets/pull/49) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#49](https://github.com/willwade/WorldAlphabets/pull/49) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [v0.0.14 Digits, More Languages etc CLDR as datasource](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.14) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🚀 Published release [v0.0.16 Add more TTS and Update of indices ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.16) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 🔒 Closed issue [#33](https://github.com/willwade/WorldAlphabets/issues/33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🔒 Closed issue [#32](https://github.com/willwade/WorldAlphabets/issues/32) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🔒 Closed issue [#36](https://github.com/willwade/WorldAlphabets/issues/36) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🔒 Closed issue [#35](https://github.com/willwade/WorldAlphabets/issues/35) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
