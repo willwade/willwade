@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/willwade/IPAChatReact/pull/27) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-2. 🎉 Merged PR [#24](https://github.com/willwade/IPAChatReact/pull/24) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-3. 🎉 Merged PR [#21](https://github.com/willwade/IPAChatReact/pull/21) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. 🚀 Published release [v0.0.16 Add more TTS and Update of indices ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.16) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🔒 Closed issue [#33](https://github.com/willwade/WorldAlphabets/issues/33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 💪 Opened PR [#29](https://github.com/willwade/IPAChatReact/pull/29) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+2. 💪 Opened PR [#28](https://github.com/willwade/IPAChatReact/pull/28) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+3. 💪 Opened PR [#27](https://github.com/willwade/IPAChatReact/pull/27) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+4. 🎉 Merged PR [#24](https://github.com/willwade/IPAChatReact/pull/24) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+5. 🎉 Merged PR [#21](https://github.com/willwade/IPAChatReact/pull/21) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
 <!--END_SECTION:activity-->
