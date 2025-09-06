@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/willwade/IPAChatReact/pull/29) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-2. 💪 Opened PR [#28](https://github.com/willwade/IPAChatReact/pull/28) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-3. 💪 Opened PR [#27](https://github.com/willwade/IPAChatReact/pull/27) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. 🎉 Merged PR [#24](https://github.com/willwade/IPAChatReact/pull/24) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-5. 🎉 Merged PR [#21](https://github.com/willwade/IPAChatReact/pull/21) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 🎉 Merged PR [#29](https://github.com/willwade/IPAChatReact/pull/29) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+2. 💪 Opened PR [#29](https://github.com/willwade/IPAChatReact/pull/29) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+3. 💪 Opened PR [#28](https://github.com/willwade/IPAChatReact/pull/28) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+4. 💪 Opened PR [#27](https://github.com/willwade/IPAChatReact/pull/27) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+5. 🎉 Merged PR [#24](https://github.com/willwade/IPAChatReact/pull/24) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
 <!--END_SECTION:activity-->
