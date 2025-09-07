@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/willwade/piper-tts-web/pull/1) in [willwade/piper-tts-web](https://github.com/willwade/piper-tts-web)
-2. 🗣 Commented on [#32](https://github.com/willwade/IPAChatReact/pull/32#issuecomment-3263213586) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-3. 💪 Opened PR [#32](https://github.com/willwade/IPAChatReact/pull/32) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. 💪 Opened PR [#5](https://github.com/willwade/AsTeRICS-Grid/pull/5) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
-5. 🗣 Commented on [#31](https://github.com/willwade/IPAChatReact/pull/31#issuecomment-3263183956) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 💪 Opened PR [#34](https://github.com/willwade/IPAChatReact/pull/34) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+2. 🗣 Commented on [#33](https://github.com/willwade/IPAChatReact/pull/33#issuecomment-3263558615) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+3. ❌ Closed PR [#33](https://github.com/willwade/IPAChatReact/pull/33) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+4. 💪 Opened PR [#1](https://github.com/willwade/piper-tts-web/pull/1) in [willwade/piper-tts-web](https://github.com/willwade/piper-tts-web)
+5. 🗣 Commented on [#32](https://github.com/willwade/IPAChatReact/pull/32#issuecomment-3263213586) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
 <!--END_SECTION:activity-->
