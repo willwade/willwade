@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#78](https://github.com/AceCentre/nhs-service-finder/issues/78) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. 🗣 Commented on [#349](https://github.com/asterics/AsTeRICS-Grid/issues/349#issuecomment-3266429843) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#38](https://github.com/willwade/IPAChatReact/pull/38#issuecomment-3265657131) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-4. ❌ Closed PR [#38](https://github.com/willwade/IPAChatReact/pull/38) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-5. 🎉 Merged PR [#32](https://github.com/willwade/IPAChatReact/pull/32) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 💪 Opened PR [#6](https://github.com/willwade/AsTeRICS-Grid/pull/6) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
+2. ❗ Opened issue [#78](https://github.com/AceCentre/nhs-service-finder/issues/78) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+3. 🗣 Commented on [#349](https://github.com/asterics/AsTeRICS-Grid/issues/349#issuecomment-3266429843) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 🗣 Commented on [#38](https://github.com/willwade/IPAChatReact/pull/38#issuecomment-3265657131) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+5. ❌ Closed PR [#38](https://github.com/willwade/IPAChatReact/pull/38) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
 <!--END_SECTION:activity-->
