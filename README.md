@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#610](https://github.com/asterics/AsTeRICS-Grid/issues/610) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🗣 Commented on [#592](https://github.com/asterics/AsTeRICS-Grid/pull/592#issuecomment-3279038393) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#594](https://github.com/asterics/AsTeRICS-Grid/pull/594#issuecomment-3279035237) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 🗣 Commented on [#596](https://github.com/asterics/AsTeRICS-Grid/pull/596#issuecomment-3279031440) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#606](https://github.com/asterics/AsTeRICS-Grid/pull/606#issuecomment-3279023013) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🗣 Commented on [#79](https://github.com/asterics/AsTeRICS-Grid/issues/79#issuecomment-3284129188) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. ❗ Opened issue [#610](https://github.com/asterics/AsTeRICS-Grid/issues/610) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 🗣 Commented on [#592](https://github.com/asterics/AsTeRICS-Grid/pull/592#issuecomment-3279038393) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 🗣 Commented on [#594](https://github.com/asterics/AsTeRICS-Grid/pull/594#issuecomment-3279035237) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 🗣 Commented on [#596](https://github.com/asterics/AsTeRICS-Grid/pull/596#issuecomment-3279031440) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
