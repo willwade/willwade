@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/willwade/WorldAlphabets/pull/51) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🎉 Merged PR [#50](https://github.com/willwade/WorldAlphabets/pull/50) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 💪 Opened PR [#50](https://github.com/willwade/WorldAlphabets/pull/50) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 🗣 Commented on [#400](https://github.com/asterics/AsTeRICS-Grid/issues/400#issuecomment-3285245781) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#79](https://github.com/asterics/AsTeRICS-Grid/issues/79#issuecomment-3284129188) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🎉 Merged PR [#52](https://github.com/willwade/WorldAlphabets/pull/52) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#52](https://github.com/willwade/WorldAlphabets/pull/52) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 💪 Opened PR [#51](https://github.com/willwade/WorldAlphabets/pull/51) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🎉 Merged PR [#50](https://github.com/willwade/WorldAlphabets/pull/50) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 💪 Opened PR [#50](https://github.com/willwade/WorldAlphabets/pull/50) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
