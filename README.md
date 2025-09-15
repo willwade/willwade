@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.17 - detect language & diacrtic handling](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.17) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🎉 Merged PR [#53](https://github.com/willwade/WorldAlphabets/pull/53) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 💪 Opened PR [#53](https://github.com/willwade/WorldAlphabets/pull/53) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 🎉 Merged PR [#52](https://github.com/willwade/WorldAlphabets/pull/52) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 💪 Opened PR [#52](https://github.com/willwade/WorldAlphabets/pull/52) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🚀 Published release [v0.0.18](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.18) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. ❌ Closed PR [#51](https://github.com/willwade/WorldAlphabets/pull/51) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🎉 Merged PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🚀 Published release [v0.0.17 - detect language & diacrtic handling](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.17) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
