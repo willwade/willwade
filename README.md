@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.18](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.18) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. ❌ Closed PR [#51](https://github.com/willwade/WorldAlphabets/pull/51) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🎉 Merged PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [v0.0.17 - detect language & diacrtic handling](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.17) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🗣 Commented on [#598](https://github.com/asterics/AsTeRICS-Grid/pull/598#issuecomment-3296367458) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🚀 Published release [v0.0.18](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.18) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. ❌ Closed PR [#51](https://github.com/willwade/WorldAlphabets/pull/51) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🎉 Merged PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 💪 Opened PR [#54](https://github.com/willwade/WorldAlphabets/pull/54) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
