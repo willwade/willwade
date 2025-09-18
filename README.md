@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.22 - Improve kbdlayout methods](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.22) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🗣 Commented on [#614](https://github.com/asterics/AsTeRICS-Grid/issues/614#issuecomment-3304516969) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🎉 Merged PR [#609](https://github.com/asterics/AsTeRICS-Grid/pull/609) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#7](https://github.com/willwade/AsTeRICS-Grid/pull/7) in [willwade/AsTeRICS-Grid](https://github.com/willwade/AsTeRICS-Grid)
-5. 🗣 Commented on [#598](https://github.com/asterics/AsTeRICS-Grid/pull/598#issuecomment-3296367458) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🗣 Commented on [#614](https://github.com/asterics/AsTeRICS-Grid/issues/614#issuecomment-3304701101) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🚀 Published release [v0.0.23 - more kbds ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.23) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🚀 Published release [v0.0.22 - Improve kbdlayout methods](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.22) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🗣 Commented on [#614](https://github.com/asterics/AsTeRICS-Grid/issues/614#issuecomment-3304516969) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 🎉 Merged PR [#609](https://github.com/asterics/AsTeRICS-Grid/pull/609) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
