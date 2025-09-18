@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/asterics/AsTeRICS-Grid/issues/235#issuecomment-3306475287) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🗣 Commented on [#235](https://github.com/asterics/AsTeRICS-Grid/issues/235#issuecomment-3306033506) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3305733827) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 💪 Opened PR [#55](https://github.com/willwade/WorldAlphabets/pull/55) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🗣 Commented on [#614](https://github.com/asterics/AsTeRICS-Grid/issues/614#issuecomment-3304701101) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🗣 Commented on [#595](https://github.com/asterics/AsTeRICS-Grid/pull/595#issuecomment-3306591748) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🗣 Commented on [#235](https://github.com/asterics/AsTeRICS-Grid/issues/235#issuecomment-3306475287) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 🗣 Commented on [#235](https://github.com/asterics/AsTeRICS-Grid/issues/235#issuecomment-3306033506) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 🗣 Commented on [#155](https://github.com/AceCentre/RelayKeys/issues/155#issuecomment-3305733827) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 💪 Opened PR [#55](https://github.com/willwade/WorldAlphabets/pull/55) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
