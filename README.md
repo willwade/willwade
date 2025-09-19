@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.48](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.48) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.47](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.47) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.1.45](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.45) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.44 - fix fallbacks](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.44) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.1.43 Better JS Bundled](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.43) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🗣 Commented on [#617](https://github.com/asterics/AsTeRICS-Grid/issues/617#issuecomment-3311757929) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 🚀 Published release [v0.1.49](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.49) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.1.48](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.48) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [v0.1.47](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.47) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [v0.1.45](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.45) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
