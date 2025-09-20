@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/willwade/IPAChatReact/pull/39#issuecomment-3315191711) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
-2. 💪 Opened PR [#618](https://github.com/asterics/AsTeRICS-Grid/pull/618) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#617](https://github.com/asterics/AsTeRICS-Grid/issues/617#issuecomment-3312291895) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 🚀 Published release [v0.1.51](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.51) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🗣 Commented on [#568](https://github.com/asterics/AsTeRICS-Grid/issues/568#issuecomment-3312136361) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. ❗ Opened issue [#103](https://github.com/speechmarkdown/speechmarkdown-js/issues/103) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+2. ❗ Opened issue [#102](https://github.com/speechmarkdown/speechmarkdown-js/issues/102) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+3. 🗣 Commented on [#39](https://github.com/willwade/IPAChatReact/pull/39#issuecomment-3315191711) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+4. 💪 Opened PR [#618](https://github.com/asterics/AsTeRICS-Grid/pull/618) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 🗣 Commented on [#617](https://github.com/asterics/AsTeRICS-Grid/issues/617#issuecomment-3312291895) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
