@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.53](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.53) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.52](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.52) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. ❗ Opened issue [#103](https://github.com/speechmarkdown/speechmarkdown-js/issues/103) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-4. ❗ Opened issue [#102](https://github.com/speechmarkdown/speechmarkdown-js/issues/102) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-5. 🗣 Commented on [#39](https://github.com/willwade/IPAChatReact/pull/39#issuecomment-3315191711) in [willwade/IPAChatReact](https://github.com/willwade/IPAChatReact)
+1. 🚀 Published release [v0.1.54](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.54) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.1.53](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.53) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.1.52](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.52) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. ❗ Opened issue [#103](https://github.com/speechmarkdown/speechmarkdown-js/issues/103) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+5. ❗ Opened issue [#102](https://github.com/speechmarkdown/speechmarkdown-js/issues/102) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
 <!--END_SECTION:activity-->
