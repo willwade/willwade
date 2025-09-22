@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/willwade/speechmarkdown-js/pull/3) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
-2. 💪 Opened PR [#2](https://github.com/willwade/speechmarkdown-js/pull/2) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
-3. 💪 Opened PR [#1](https://github.com/willwade/speechmarkdown-js/pull/1) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
-4. 🚀 Published release [v0.1.54](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.54) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.1.53](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.53) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 💪 Opened PR [#4](https://github.com/willwade/speechmarkdown-js/pull/4) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+2. 💪 Opened PR [#3](https://github.com/willwade/speechmarkdown-js/pull/3) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+3. 💪 Opened PR [#2](https://github.com/willwade/speechmarkdown-js/pull/2) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+4. 💪 Opened PR [#1](https://github.com/willwade/speechmarkdown-js/pull/1) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+5. 🚀 Published release [v0.1.54](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.54) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
