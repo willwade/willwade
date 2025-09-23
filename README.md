@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319234854) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-2. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319141131) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-3. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319135698) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-4. 💪 Opened PR [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-5. 🎉 Merged PR [#4](https://github.com/willwade/speechmarkdown-js/pull/4) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+1. 🔒 Closed issue [#103](https://github.com/speechmarkdown/speechmarkdown-js/issues/103) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+2. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319234854) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+3. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319141131) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+4. 🗣 Commented on [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104#issuecomment-3319135698) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+5. 💪 Opened PR [#104](https://github.com/speechmarkdown/speechmarkdown-js/pull/104) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
 <!--END_SECTION:activity-->
