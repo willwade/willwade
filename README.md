@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/mentatpsi/OSGenome/pull/25) in [mentatpsi/OSGenome](https://github.com/mentatpsi/OSGenome)
-2. 🗣 Commented on [#634](https://github.com/asterics/AsTeRICS-Grid/issues/634#issuecomment-3393328588) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#633](https://github.com/asterics/AsTeRICS-Grid/issues/633#issuecomment-3373376437) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#637](https://github.com/asterics/AsTeRICS-Grid/pull/637) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#635](https://github.com/asterics/AsTeRICS-Grid/pull/635#issuecomment-3347302069) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 💪 Opened PR [#3](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
+2. 💪 Opened PR [#2](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
+3. 💪 Opened PR [#1](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
+4. 💪 Opened PR [#25](undefined) in [mentatpsi/OSGenome](https://github.com/mentatpsi/OSGenome)
+5. 🚀 Published release [Better handling of keys](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.1) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
 <!--END_SECTION:activity-->
