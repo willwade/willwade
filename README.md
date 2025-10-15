@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#651](undefined) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2.  Labeled issue [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-3. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3403236656) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-4. 💪 Opened PR [#3](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
-5. 💪 Opened PR [#2](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
+1. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3404514355) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+2. 💪 Opened PR [#651](undefined) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3.  Labeled issue [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+4. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3403236656) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+5. 💪 Opened PR [#3](undefined) in [AceCentre/assistivetechnology.org.uk](https://github.com/AceCentre/assistivetechnology.org.uk)
 <!--END_SECTION:activity-->
