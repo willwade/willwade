@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3409489966) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-2. 🗣 Commented on [#9](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/9#issuecomment-3408199762) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
-3. 🗣 Commented on [#9](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/9#issuecomment-3407143856) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
-4. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3405964804) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#641](https://github.com/asterics/AsTeRICS-Grid/issues/641#issuecomment-3405662667) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+1. 🚀 Published release [FIx exception](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3409489966) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
+3. 🗣 Commented on [#9](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/9#issuecomment-3408199762) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
+4. 🗣 Commented on [#9](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/9#issuecomment-3407143856) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
+5. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3405964804) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
