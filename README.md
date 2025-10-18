@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/willwade/AACProcessors-nodejs/pull/8#issuecomment-3416135411) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 💪 Opened PR [#8](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🚀 Published release [FIx exception](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-4. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3409489966) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
-5. 🗣 Commented on [#9](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/9#issuecomment-3408199762) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
+1. 🚀 Published release [Fix get_voices in CLI config](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.3) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+2. 🗣 Commented on [#8](https://github.com/willwade/AACProcessors-nodejs/pull/8#issuecomment-3416135411) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 💪 Opened PR [#8](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🚀 Published release [FIx exception](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.2) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+5. 🗣 Commented on [#647](https://github.com/asterics/AsTeRICS-Grid/issues/647#issuecomment-3409489966) in [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid)
 <!--END_SECTION:activity-->
