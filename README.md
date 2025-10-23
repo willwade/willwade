@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.3) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 🔒 Closed issue [#7](https://github.com/willwade/AACProcessors-nodejs/issues/7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🚀 Published release [v0.0.2](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.2) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🗣 Commented on [#8](https://github.com/willwade/AACProcessors-nodejs/pull/8#issuecomment-3434201749) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🗣 Commented on [#10](https://github.com/asterics/AsTeRICS-Grid-Boards/pull/10#issuecomment-3433116143) in [asterics/AsTeRICS-Grid-Boards](https://github.com/asterics/AsTeRICS-Grid-Boards)
+1. 🚀 Published release [v0.0.4 - Add in Wordlists for Grid3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🚀 Published release [v0.0.3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.3) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🔒 Closed issue [#7](https://github.com/willwade/AACProcessors-nodejs/issues/7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🚀 Published release [v0.0.2](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.2) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🗣 Commented on [#8](https://github.com/willwade/AACProcessors-nodejs/pull/8#issuecomment-3434201749) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
