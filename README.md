@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.5 - Grid styling](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.5) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 🚀 Published release [v0.0.4 - Add in Wordlists for Grid3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🚀 Published release [v0.0.3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.3) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🔒 Closed issue [#7](https://github.com/willwade/AACProcessors-nodejs/issues/7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🚀 Published release [v0.0.2](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.2) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v0.1.5.6  Hopefully a final fix to playing](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.56) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.0.5 - Grid styling](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.5) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🚀 Published release [v0.0.4 - Add in Wordlists for Grid3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🚀 Published release [v0.0.3](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.3) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🔒 Closed issue [#7](https://github.com/willwade/AACProcessors-nodejs/issues/7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
