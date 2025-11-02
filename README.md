@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.5.4](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.4) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-2. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3468257912) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-3. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3467681135) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 💪 Opened PR [#105](undefined) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-5. ❌ Closed PR [#5](undefined) in [willwade/speechmarkdown-js](https://github.com/willwade/speechmarkdown-js)
+1. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3476960614) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+2. 🚀 Published release [v2.5.4](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.4) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+3. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3468257912) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+4. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3467681135) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 💪 Opened PR [#105](undefined) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
 <!--END_SECTION:activity-->
