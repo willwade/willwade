@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.0.5](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.5) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-2. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3492418180) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-3. 🚀 Published release [Release 0.0.4](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.4) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-4. 🚀 Published release [v0.0.24](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [Release 0.0.2](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.2) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+1. 🚀 Published release [Release 0.0.6](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.6) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+2. 🚀 Published release [Release 0.0.5](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.5) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+3. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3492418180) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+4. 🚀 Published release [Release 0.0.4](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.4) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+5. 🚀 Published release [v0.0.24](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
