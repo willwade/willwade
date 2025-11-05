@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.24](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🚀 Published release [Release 0.0.2](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.2) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-3. 🚀 Published release [v0.0.1](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.1) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-4. 💪 Opened PR [#4](undefined) in [amanvirparhar/chaplin](https://github.com/amanvirparhar/chaplin)
-5. 🗣 Commented on [#105](https://github.com/speechmarkdown/speechmarkdown-js/pull/105#issuecomment-3478505432) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+1. 🚀 Published release [Release 0.0.4](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.4) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+2. 🚀 Published release [v0.0.24](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.24) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🚀 Published release [Release 0.0.2](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.2) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+4. 🚀 Published release [v0.0.1](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.1) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+5. 💪 Opened PR [#4](undefined) in [amanvirparhar/chaplin](https://github.com/amanvirparhar/chaplin)
 <!--END_SECTION:activity-->
