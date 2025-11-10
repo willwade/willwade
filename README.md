@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.0.8](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.8) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-2. 🚀 Published release [Release 0.0.7](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.7) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-3. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3508384217) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.58 - Support new SpeechMarkdown Release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.58) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 💪 Opened PR [#1](undefined) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+1. ❌ Labeled PR [#56](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#56](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🚀 Published release [Release 0.0.8](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.8) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+4. 🚀 Published release [Release 0.0.7](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.7) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+5. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3508384217) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
