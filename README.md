@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3508384217) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.58 - Support new SpeechMarkdown Release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.58) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 💪 Opened PR [#1](undefined) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
-4. 🚀 Published release [SherpaOnnx-WASM fixes](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.57) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [Release 0.0.6](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.6) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+1. 🚀 Published release [Release 0.0.7](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.7) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+2. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3508384217) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.1.58 - Support new SpeechMarkdown Release](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.58) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 💪 Opened PR [#1](undefined) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+5. 🚀 Published release [SherpaOnnx-WASM fixes](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.57) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
