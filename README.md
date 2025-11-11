@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#56](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 💪 Opened PR [#56](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🚀 Published release [Release 0.0.8](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.8) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-4. 🚀 Published release [Release 0.0.7](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.7) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-5. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3508384217) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. ❌ Labeled PR [#58](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 💪 Opened PR [#58](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. ❌ Labeled PR [#57](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 💪 Opened PR [#57](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. ❌ Labeled PR [#56](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
