@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.59 fix for SMD](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.0.59) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.0.28 fix of langDetect](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🚀 Published release [v0.0.27 Fix of LangDetection logic](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 🚀 Published release [v0.0.26](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.26) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [v0.0.25](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.25) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3518155004) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.0.59 fix for SMD](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.0.59) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.0.28 fix of langDetect](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🚀 Published release [v0.0.27 Fix of LangDetection logic](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 🚀 Published release [v0.0.26](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.26) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
