@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.27 Fix of LangDetection logic](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🚀 Published release [v0.0.26](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.26) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🚀 Published release [v0.0.25](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.25) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-4. 💪 Opened PR [#59](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. ❌ Labeled PR [#58](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🚀 Published release [v0.0.28 fix of langDetect](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.28) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+2. 🚀 Published release [v0.0.27 Fix of LangDetection logic](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.27) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🚀 Published release [v0.0.26](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.26) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🚀 Published release [v0.0.25](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.25) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+5. 💪 Opened PR [#59](undefined) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
