@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.0.11](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.11) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-2. 🚀 Published release [v0.10.1](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.1) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
-3. 🚀 Published release [v0.10.0](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.0) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
-4. 🚀 Published release [v0.0.31](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.31) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [v2.5.5 - Fixed CLI for translteration and lang finding](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.5) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🚀 Published release [v0.10.3](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.3) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+2. 🚀 Published release [v0.10.2](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.2) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+3. 🚀 Published release [v0.10.2](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.2) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+4. 🚀 Published release [Release 0.0.11](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.11) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+5. 🚀 Published release [v0.10.1](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.1) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
 <!--END_SECTION:activity-->
