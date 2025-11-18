@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.7](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v0.0.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 2. ❗ Opened issue [#101](https://github.com/AceCentre/EyeCommander/issues/101) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-3. 🚀 Published release [v0.0.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🚀 Published release [v0.10.4](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.4) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
-5. 🚀 Published release [v0.10.3](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.3) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+3. 🚀 Published release [v0.10.4](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.4) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+4. 🚀 Published release [v0.10.3](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.3) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+5. 🚀 Published release [v0.10.2](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.2) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
 <!--END_SECTION:activity-->
