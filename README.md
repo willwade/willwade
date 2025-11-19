@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.0.12](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.12) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-2. 🚀 Published release [v0.0.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. ❗ Opened issue [#101](https://github.com/AceCentre/EyeCommander/issues/101) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
-4. 🚀 Published release [v0.10.4](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.4) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
-5. 🚀 Published release [v0.10.3](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.3) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+1. 🚀 Published release [v0.10.5](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.5) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+2. 🚀 Published release [Release 0.0.12](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.12) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+3. 🚀 Published release [v0.0.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. ❗ Opened issue [#101](https://github.com/AceCentre/EyeCommander/issues/101) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+5. 🚀 Published release [v0.10.4](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.4) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
 <!--END_SECTION:activity-->
