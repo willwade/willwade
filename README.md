@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/speechmarkdown/speech-markdown-editor/pull/3#issuecomment-3555672395) in [speechmarkdown/speech-markdown-editor](https://github.com/speechmarkdown/speech-markdown-editor)
-2. 🚀 Published release [v0.10.5](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.5) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
-3. 🚀 Published release [Release 0.0.12](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.12) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
-4. 🚀 Published release [v0.0.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. ❗ Opened issue [#101](https://github.com/AceCentre/EyeCommander/issues/101) in [AceCentre/EyeCommander](https://github.com/AceCentre/EyeCommander)
+1. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3563688183) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.0.7](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🗣 Commented on [#3](https://github.com/speechmarkdown/speech-markdown-editor/pull/3#issuecomment-3555672395) in [speechmarkdown/speech-markdown-editor](https://github.com/speechmarkdown/speech-markdown-editor)
+4. 🚀 Published release [v0.10.5](https://github.com/willwade/baton-aac-app/releases/tag/v0.10.5) in [willwade/baton-aac-app](https://github.com/willwade/baton-aac-app)
+5. 🚀 Published release [Release 0.0.12](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.12) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
 <!--END_SECTION:activity-->
