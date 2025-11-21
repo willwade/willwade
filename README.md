@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
-2. 💪 Opened PR [#1](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
-3. 🗣 Commented on [#23](https://github.com/willwade/js-tts-wrapper/issues/23#issuecomment-3563688183) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.0.7](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🗣 Commented on [#3](https://github.com/speechmarkdown/speech-markdown-editor/pull/3#issuecomment-3555672395) in [speechmarkdown/speech-markdown-editor](https://github.com/speechmarkdown/speech-markdown-editor)
+1. ❌ Labeled PR [#3](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+2. 💪 Opened PR [#3](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+3. ❌ Labeled PR [#2](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+4. 💪 Opened PR [#2](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+5. ❌ Labeled PR [#1](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
 <!--END_SECTION:activity-->
