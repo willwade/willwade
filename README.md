@@ -50,5 +50,5 @@
 2. 🚀 Published release [v0.0.8](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.8) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 3. ❌ Labeled PR [#4](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
 4. 💪 Opened PR [#4](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
-5. ❌ Labeled PR [#3](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+5. ❌ Merged PR [#3](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
 <!--END_SECTION:activity-->
