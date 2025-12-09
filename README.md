@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.33](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-2. 🚀 Published release [v0.0.32 - C library ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.32) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-3. 🚀 Published release [v0.0.9](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.9) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🚀 Published release [v0.0.8](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.8) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. ❌ Labeled PR [#4](undefined) in [willwade/AAC-MCP](https://github.com/willwade/AAC-MCP)
+1. ❗ Opened issue [#35](https://github.com/shayc/aac-board-ai/issues/35) in [shayc/aac-board-ai](https://github.com/shayc/aac-board-ai)
+2. 🚀 Published release [v0.0.33](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+3. 🚀 Published release [v0.0.32 - C library ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.32) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+4. 🚀 Published release [v0.0.9](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.9) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🚀 Published release [v0.0.8](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.8) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
