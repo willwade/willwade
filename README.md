@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.12](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.12) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-2. 🚀 Published release [v0.0.11](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.11) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-3. ❗ Opened issue [#35](https://github.com/shayc/aac-board-ai/issues/35) in [shayc/aac-board-ai](https://github.com/shayc/aac-board-ai)
-4. 🚀 Published release [v0.0.33](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
-5. 🚀 Published release [v0.0.32 - C library ](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.32) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
+1. 🚀 Published release [v0.0.13](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.13) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+2. 🚀 Published release [v0.0.12](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.12) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+3. 🚀 Published release [v0.0.11](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.11) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+4. ❗ Opened issue [#35](https://github.com/shayc/aac-board-ai/issues/35) in [shayc/aac-board-ai](https://github.com/shayc/aac-board-ai)
+5. 🚀 Published release [v0.0.33](https://github.com/willwade/WorldAlphabets/releases/tag/v0.0.33) in [willwade/WorldAlphabets](https://github.com/willwade/WorldAlphabets)
 <!--END_SECTION:activity-->
