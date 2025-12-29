@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.21](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.21) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-2. 🚀 Published release [v0.0.20](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.20) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-3. 🚀 Published release [v0.0.19](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.19) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-4. 🚀 Published release [v0.0.18](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.18) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-5. 🚀 Published release [v0.0.17](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.17) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+1. 🚀 Published release [v0.0.1](https://github.com/willwade/obf-node/releases/tag/v0.0.1) in [willwade/obf-node](https://github.com/willwade/obf-node)
+2. 🚀 Published release [v0.0.21](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.21) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+3. 🚀 Published release [v0.0.20](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.20) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+4. 🚀 Published release [v0.0.19](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.19) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+5. 🚀 Published release [v0.0.18](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.18) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
 <!--END_SECTION:activity-->
