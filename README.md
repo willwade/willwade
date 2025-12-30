@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.5](https://github.com/willwade/obf-node/releases/tag/v1.0.5) in [willwade/obf-node](https://github.com/willwade/obf-node)
-2. 🚀 Published release [v1.0.4](https://github.com/willwade/obf-node/releases/tag/v1.0.4) in [willwade/obf-node](https://github.com/willwade/obf-node)
-3. 🚀 Published release [v1.0.3](https://github.com/willwade/obf-node/releases/tag/v1.0.3) in [willwade/obf-node](https://github.com/willwade/obf-node)
-4. 🚀 Published release [v1.0.2](https://github.com/willwade/obf-node/releases/tag/v1.0.2) in [willwade/obf-node](https://github.com/willwade/obf-node)
-5. ❗ Opened issue [#10](https://github.com/open-aac/obf/issues/10) in [open-aac/obf](https://github.com/open-aac/obf)
+1. 🚀 Published release [v1.0.7](https://github.com/willwade/obf-node/releases/tag/v1.0.7) in [willwade/obf-node](https://github.com/willwade/obf-node)
+2. 🚀 Published release [v1.0.6](https://github.com/willwade/obf-node/releases/tag/v1.0.6) in [willwade/obf-node](https://github.com/willwade/obf-node)
+3. 🚀 Published release [v1.0.4](https://github.com/willwade/obf-node/releases/tag/v1.0.4) in [willwade/obf-node](https://github.com/willwade/obf-node)
+4. 🚀 Published release [v1.0.3](https://github.com/willwade/obf-node/releases/tag/v1.0.3) in [willwade/obf-node](https://github.com/willwade/obf-node)
+5. 🚀 Published release [v1.0.2](https://github.com/willwade/obf-node/releases/tag/v1.0.2) in [willwade/obf-node](https://github.com/willwade/obf-node)
 <!--END_SECTION:activity-->
