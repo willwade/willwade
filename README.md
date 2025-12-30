@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#9](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 💪 Opened PR [#9](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🚀 Published release [v1.0.8](https://github.com/willwade/obf-node/releases/tag/v1.0.8) in [willwade/obf-node](https://github.com/willwade/obf-node)
-4. 🚀 Published release [v1.0.7](https://github.com/willwade/obf-node/releases/tag/v1.0.7) in [willwade/obf-node](https://github.com/willwade/obf-node)
-5. 🚀 Published release [v1.0.6](https://github.com/willwade/obf-node/releases/tag/v1.0.6) in [willwade/obf-node](https://github.com/willwade/obf-node)
+1. 🚀 Published release [v0.0.10](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.10) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. ❌ Merged PR [#9](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 💪 Opened PR [#9](undefined) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🚀 Published release [v1.0.8](https://github.com/willwade/obf-node/releases/tag/v1.0.8) in [willwade/obf-node](https://github.com/willwade/obf-node)
+5. 🚀 Published release [v1.0.7](https://github.com/willwade/obf-node/releases/tag/v1.0.7) in [willwade/obf-node](https://github.com/willwade/obf-node)
 <!--END_SECTION:activity-->
