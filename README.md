@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.1) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-2. 🚀 Published release [v0.1.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-3. 🚀 Published release [v0.0.23](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.23) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 💪 Opened PR [#25](https://github.com/willwade/js-tts-wrapper/pull/25) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [v0.0.22](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.22) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v0.1.2](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.2) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+2. 🚀 Published release [v0.1.1](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.1) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+3. 🚀 Published release [v0.1.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+4. 🚀 Published release [v0.0.23](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.0.23) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 💪 Opened PR [#25](https://github.com/willwade/js-tts-wrapper/pull/25) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
