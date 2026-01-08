@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-2. 🚀 Published release [v0.1.7](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.7) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-3. 🚀 Published release [v0.1.0](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.0) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🎉 Merged PR [#12](https://github.com/willwade/AACProcessors-nodejs/pull/12) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 💪 Opened PR [#12](https://github.com/willwade/AACProcessors-nodejs/pull/12) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v0.1.1](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.1) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🚀 Published release [v0.2.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+3. 🚀 Published release [v0.1.7](https://github.com/willwade/aac-board-viewer/releases/tag/v0.1.7) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+4. 🚀 Published release [v0.1.0](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.0) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🎉 Merged PR [#12](https://github.com/willwade/AACProcessors-nodejs/pull/12) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
