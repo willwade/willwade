@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/willwade/OpenVoiceProxy/pull/5#issuecomment-3755842515) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-2. 💪 Opened PR [#26](https://github.com/willwade/js-tts-wrapper/pull/26) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#25](https://github.com/willwade/js-tts-wrapper/pull/25#issuecomment-3730388016) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.64](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.64) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🎉 Merged PR [#25](https://github.com/willwade/js-tts-wrapper/pull/25) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [v0.0.22](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.22) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+2. 🗣 Commented on [#5](https://github.com/willwade/OpenVoiceProxy/pull/5#issuecomment-3755842515) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+3. 💪 Opened PR [#26](https://github.com/willwade/js-tts-wrapper/pull/26) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🗣 Commented on [#25](https://github.com/willwade/js-tts-wrapper/pull/25#issuecomment-3730388016) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [v0.1.64](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.64) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
