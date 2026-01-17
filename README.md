@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/willwade/js-tts-wrapper/issues/28#issuecomment-3762051397) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🚀 Published release [v0.1.65](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.65) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.0.25](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.25) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-4. 🚀 Published release [v0.0.24](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.24) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-5. 🚀 Published release [v0.0.23](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.23) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+1. 🚀 Published release [v0.1.4](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🎉 Merged PR [#14](https://github.com/willwade/AACProcessors-nodejs/pull/14) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 💪 Opened PR [#14](https://github.com/willwade/AACProcessors-nodejs/pull/14) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🗣 Commented on [#13](https://github.com/willwade/AACProcessors-nodejs/pull/13#issuecomment-3762317996) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🗣 Commented on [#28](https://github.com/willwade/js-tts-wrapper/issues/28#issuecomment-3762051397) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
