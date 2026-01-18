@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.27](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.27) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-2. 🚀 Published release [v0.0.26](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.26) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-3. 🚀 Published release [v0.1.4](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🎉 Merged PR [#14](https://github.com/willwade/AACProcessors-nodejs/pull/14) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 💪 Opened PR [#14](https://github.com/willwade/AACProcessors-nodejs/pull/14) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🗣 Commented on [#15](https://github.com/willwade/AACProcessors-nodejs/pull/15#issuecomment-3764560908) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🚀 Published release [v0.0.27](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.27) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+3. 🚀 Published release [v0.0.26](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.26) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+4. 🚀 Published release [v0.1.4](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🎉 Merged PR [#14](https://github.com/willwade/AACProcessors-nodejs/pull/14) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
