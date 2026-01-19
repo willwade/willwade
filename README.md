@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 💪 Opened PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🚀 Published release [v0.1.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🎉 Merged PR [#16](https://github.com/willwade/AACProcessors-nodejs/pull/16) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🗣 Commented on [#15](https://github.com/willwade/AACProcessors-nodejs/pull/15#issuecomment-3765562983) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v0.1.7](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🎉 Merged PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. ℹ️ Labeled PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 💪 Opened PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🚀 Published release [v0.1.6](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.6) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
