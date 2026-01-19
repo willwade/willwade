@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#29](https://github.com/willwade/js-tts-wrapper/pull/29) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 💪 Opened PR [#29](https://github.com/willwade/js-tts-wrapper/pull/29) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [v0.2.3](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.3) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-4. 🚀 Published release [v0.1.7](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.7) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🎉 Merged PR [#17](https://github.com/willwade/AACProcessors-nodejs/pull/17) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🗣 Commented on [#28](https://github.com/willwade/js-tts-wrapper/issues/28#issuecomment-3768183696) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🔒 Closed issue [#28](https://github.com/willwade/js-tts-wrapper/issues/28) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🚀 Published release [v0.1.66](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.66) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🎉 Merged PR [#29](https://github.com/willwade/js-tts-wrapper/pull/29) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. ℹ️ Labeled PR [#29](https://github.com/willwade/js-tts-wrapper/pull/29) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
