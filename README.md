@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.4](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.4) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-2. 🚀 Published release [v2.5.6](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.6) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
-3. 💪 Opened PR [#20](https://github.com/willwade/AACProcessors-nodejs/pull/20) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🚀 Published release [v0.0.28](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.28) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
-5. 🗣 Commented on [#7](https://github.com/willwade/OpenVoiceProxy/pull/7#issuecomment-3780841227) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
+1. 🚀 Published release [v0.2.5](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.5) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+2. 🚀 Published release [v0.2.4](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.4) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+3. 🚀 Published release [v2.5.6](https://github.com/AceCentre/AACSpeakHelper/releases/tag/v2.5.6) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+4. 💪 Opened PR [#20](https://github.com/willwade/AACProcessors-nodejs/pull/20) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🚀 Published release [v0.0.28](https://github.com/willwade/OpenVoiceProxy/releases/tag/v0.0.28) in [willwade/OpenVoiceProxy](https://github.com/willwade/OpenVoiceProxy)
 <!--END_SECTION:activity-->
