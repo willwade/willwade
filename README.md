@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/willwade/garyd-scanner-demo/pull/3) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-2. 🎉 Merged PR [#2](https://github.com/willwade/garyd-scanner-demo/pull/2) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-3. 💪 Opened PR [#2](https://github.com/willwade/garyd-scanner-demo/pull/2) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-4. 🎉 Merged PR [#1](https://github.com/willwade/garyd-scanner-demo/pull/1) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-5. 💪 Opened PR [#1](https://github.com/willwade/garyd-scanner-demo/pull/1) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+1. 🎉 Merged PR [#3](https://github.com/willwade/garyd-scanner-demo/pull/3) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+2. 💪 Opened PR [#3](https://github.com/willwade/garyd-scanner-demo/pull/3) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+3. 🎉 Merged PR [#2](https://github.com/willwade/garyd-scanner-demo/pull/2) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+4. 💪 Opened PR [#2](https://github.com/willwade/garyd-scanner-demo/pull/2) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+5. 🎉 Merged PR [#1](https://github.com/willwade/garyd-scanner-demo/pull/1) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
 <!--END_SECTION:activity-->
