@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/willwade/garyd-scanner-demo/pull/7) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-2. 💪 Opened PR [#7](https://github.com/willwade/garyd-scanner-demo/pull/7) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-3. 🎉 Merged PR [#6](https://github.com/willwade/garyd-scanner-demo/pull/6) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-4. 💪 Opened PR [#6](https://github.com/willwade/garyd-scanner-demo/pull/6) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-5. 🎉 Merged PR [#5](https://github.com/willwade/garyd-scanner-demo/pull/5) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+1. 🗣 Commented on [#22](https://github.com/willwade/AACProcessors-nodejs/pull/22#issuecomment-3834694462) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🗣 Commented on [#21](https://github.com/willwade/AACProcessors-nodejs/pull/21#issuecomment-3834691075) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🎉 Merged PR [#7](https://github.com/willwade/garyd-scanner-demo/pull/7) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+4. 💪 Opened PR [#7](https://github.com/willwade/garyd-scanner-demo/pull/7) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+5. 🎉 Merged PR [#6](https://github.com/willwade/garyd-scanner-demo/pull/6) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
 <!--END_SECTION:activity-->
