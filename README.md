@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.20 - support for snap format and obz manifest](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.20) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 🚀 Published release [v0.2.9 vue release](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.9) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-3. 🚀 Published release [v0.0.1](https://github.com/willwade/garyd-scanner-demo/releases/tag/v0.0.1) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-4. 🎉 Merged PR [#8](https://github.com/willwade/garyd-scanner-demo/pull/8) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
-5. 💪 Opened PR [#8](https://github.com/willwade/garyd-scanner-demo/pull/8) in [willwade/garyd-scanner-demo](https://github.com/willwade/garyd-scanner-demo)
+1. ℹ️ Reopened PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3863724578) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. ❌ Closed PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🚀 Published release [v0.1.20 - support for snap format and obz manifest](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.20) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🚀 Published release [v0.2.9 vue release](https://github.com/willwade/aac-board-viewer/releases/tag/v0.2.9) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
 <!--END_SECTION:activity-->
