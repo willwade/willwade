@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871130257) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. ℹ️ Reopened PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3863724578) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. ❌ Closed PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🚀 Published release [v0.1.20 - support for snap format and obz manifest](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.20) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v1.0.0-deps](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0-deps) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+2. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871130257) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. ℹ️ Reopened PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3863724578) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. ❌ Closed PR [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
