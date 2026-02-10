@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.1) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-2. 🚀 Published release [v1.0.0](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-3. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871722346) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. 🚀 Published release [v1.0.0-deps](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0-deps) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-5. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871130257) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🚀 Published release [v1.0.2](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.2) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+2. 🚀 Published release [v1.0.1](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.1) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+3. 🚀 Published release [v1.0.0](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+4. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871722346) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 🚀 Published release [v1.0.0-deps](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0-deps) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
 <!--END_SECTION:activity-->
