@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/willwade/NaturalVoiceSAPIAdapter/pull/1) in [willwade/NaturalVoiceSAPIAdapter](https://github.com/willwade/NaturalVoiceSAPIAdapter)
-2. 🚀 Published release [v1.0.2](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.2) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-3. 🚀 Published release [v1.0.1](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.1) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-4. 🚀 Published release [v1.0.0](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
-5. 🗣 Commented on [#24](https://github.com/willwade/AACProcessors-nodejs/pull/24#issuecomment-3871722346) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. ❗ Opened issue [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+2. 💪 Opened PR [#1](https://github.com/willwade/NaturalVoiceSAPIAdapter/pull/1) in [willwade/NaturalVoiceSAPIAdapter](https://github.com/willwade/NaturalVoiceSAPIAdapter)
+3. 🚀 Published release [v1.0.2](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.2) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+4. 🚀 Published release [v1.0.1](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.1) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+5. 🚀 Published release [v1.0.0](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.0) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
 <!--END_SECTION:activity-->
