@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/92#issuecomment-3893531330) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-2. 🗣 Commented on [#94](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/94#issuecomment-3893528374) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-3. ❗ Opened issue [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-4. 💪 Opened PR [#1](https://github.com/willwade/NaturalVoiceSAPIAdapter/pull/1) in [willwade/NaturalVoiceSAPIAdapter](https://github.com/willwade/NaturalVoiceSAPIAdapter)
-5. 🚀 Published release [v1.0.2](https://github.com/willwade/SherpaOnnxAzureSAPI-installer/releases/tag/v1.0.2) in [willwade/SherpaOnnxAzureSAPI-installer](https://github.com/willwade/SherpaOnnxAzureSAPI-installer)
+1. 🗣 Commented on [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93#issuecomment-3893567700) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+2. 🗣 Commented on [#60](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/60#issuecomment-3893546943) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+3. 🗣 Commented on [#92](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/92#issuecomment-3893531330) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+4. 🗣 Commented on [#94](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/94#issuecomment-3893528374) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+5. ❗ Opened issue [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
 <!--END_SECTION:activity-->
