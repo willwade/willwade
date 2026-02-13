@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93#issuecomment-3893567700) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-2. 🗣 Commented on [#60](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/60#issuecomment-3893546943) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-3. 🗣 Commented on [#92](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/92#issuecomment-3893531330) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-4. 🗣 Commented on [#94](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/94#issuecomment-3893528374) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
-5. ❗ Opened issue [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+1. 🗣 Commented on [#94](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/94#issuecomment-3894033530) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+2. 🚀 Published release [v0.0.1](https://github.com/willwade/NaturalVoiceSAPIAdapter/releases/tag/v0.0.1) in [willwade/NaturalVoiceSAPIAdapter](https://github.com/willwade/NaturalVoiceSAPIAdapter)
+3. 🗣 Commented on [#93](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/93#issuecomment-3893567700) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+4. 🗣 Commented on [#60](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/60#issuecomment-3893546943) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
+5. 🗣 Commented on [#92](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter/issues/92#issuecomment-3893531330) in [gexgd0419/NaturalVoiceSAPIAdapter](https://github.com/gexgd0419/NaturalVoiceSAPIAdapter)
 <!--END_SECTION:activity-->
