@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.69](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.69) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#66](https://github.com/willwade/tts-wrapper/pull/66#issuecomment-3932694340) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
-3. 🗣 Commented on [#853](https://github.com/k2-fsa/sherpa-onnx/issues/853#issuecomment-3921695977) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🚀 Published release [v0.1.21](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.21) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-5. 🗣 Commented on [#25](https://github.com/willwade/AACProcessors-nodejs/pull/25#issuecomment-3921272875) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+1. 🗣 Commented on [#28](https://github.com/willwade/js-tts-wrapper/issues/28#issuecomment-3934181497) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🚀 Published release [v0.1.69](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.69) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#66](https://github.com/willwade/tts-wrapper/pull/66#issuecomment-3932694340) in [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper)
+4. 🗣 Commented on [#853](https://github.com/k2-fsa/sherpa-onnx/issues/853#issuecomment-3921695977) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🚀 Published release [v0.1.21](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.1.21) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
