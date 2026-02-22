@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/willwade/AACProcessors-nodejs/pull/27#issuecomment-3941752439) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 🗣 Commented on [#26](https://github.com/willwade/AACProcessors-nodejs/pull/26#issuecomment-3941742687) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 💪 Opened PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
-4. ❌ Closed PR [#129](https://github.com/dasher-project/dasher-web/pull/129) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-5. ❌ Closed PR [#128](https://github.com/dasher-project/dasher-web/pull/128) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+1. 🗣 Commented on [#26](https://github.com/willwade/AACProcessors-nodejs/pull/26#issuecomment-3941785093) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🚀 Published release [v0.2.0 Async file adapter](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.0) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🗣 Commented on [#27](https://github.com/willwade/AACProcessors-nodejs/pull/27#issuecomment-3941752439) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 🗣 Commented on [#26](https://github.com/willwade/AACProcessors-nodejs/pull/26#issuecomment-3941742687) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. 💪 Opened PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
