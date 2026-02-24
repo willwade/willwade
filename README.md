@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/AceCentre/morse-learn/issues/52#issuecomment-3950210384) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-2. 🗣 Commented on [#54](https://github.com/AceCentre/morse-learn/issues/54#issuecomment-3950207261) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-3. 🗣 Commented on [#54](https://github.com/AceCentre/morse-learn/issues/54#issuecomment-3950001408) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. ❌ Closed PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
-5. ❗ Opened issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
+1. 🗣 Commented on [#52](https://github.com/AceCentre/morse-learn/issues/52#issuecomment-3950281250) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. 🗣 Commented on [#52](https://github.com/AceCentre/morse-learn/issues/52#issuecomment-3950210384) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+3. 🗣 Commented on [#54](https://github.com/AceCentre/morse-learn/issues/54#issuecomment-3950207261) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+4. 🗣 Commented on [#54](https://github.com/AceCentre/morse-learn/issues/54#issuecomment-3950001408) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+5. ❌ Closed PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
