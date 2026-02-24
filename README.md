@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
-2. ❗ Opened issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
-3. 🎉 Merged PR [#132](https://github.com/dasher-project/dasher-web/pull/132) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. 💪 Opened PR [#132](https://github.com/dasher-project/dasher-web/pull/132) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-5. 🚀 Published release [Release 0.0.13](https://github.com/willwade/ppmpredictor/releases/tag/v0.0.13) in [willwade/ppmpredictor](https://github.com/willwade/ppmpredictor)
+1. 🗣 Commented on [#54](https://github.com/AceCentre/morse-learn/issues/54#issuecomment-3950001408) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+2. ❌ Closed PR [#32](https://github.com/dasher-project/website/pull/32) in [dasher-project/website](https://github.com/dasher-project/website)
+3. ❗ Opened issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
+4. 🎉 Merged PR [#132](https://github.com/dasher-project/dasher-web/pull/132) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. 💪 Opened PR [#132](https://github.com/dasher-project/dasher-web/pull/132) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
 <!--END_SECTION:activity-->
