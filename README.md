@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/AceCentre/nhs-service-finder/issues/94#issuecomment-3951143380) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. ❗ Opened issue [#94](https://github.com/AceCentre/nhs-service-finder/issues/94) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-3. 🗣 Commented on [#17](https://github.com/AceCentre/morse-learn/issues/17#issuecomment-3951118225) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-4. 🗣 Commented on [#5](https://github.com/AceCentre/morse-learn/issues/5#issuecomment-3951114414) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
-5. 🔒 Closed issue [#51](https://github.com/AceCentre/morse-learn/issues/51) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
+1. 🚀 Published release [v0.1.3](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.3) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+2. 🚀 Published release [v0.1.2](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.2) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+3. 🗣 Commented on [#94](https://github.com/AceCentre/nhs-service-finder/issues/94#issuecomment-3951143380) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+4. ❗ Opened issue [#94](https://github.com/AceCentre/nhs-service-finder/issues/94) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+5. 🗣 Commented on [#17](https://github.com/AceCentre/morse-learn/issues/17#issuecomment-3951118225) in [AceCentre/morse-learn](https://github.com/AceCentre/morse-learn)
 <!--END_SECTION:activity-->
