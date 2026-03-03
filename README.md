@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#96](https://github.com/AceCentre/nhs-service-finder/issues/96) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-2. 🗣 Commented on [#35](https://github.com/dasher-project/website/pull/35#issuecomment-3957242598) in [dasher-project/website](https://github.com/dasher-project/website)
-3. 🚀 Published release [v0.1.3](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.3) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-4. 🚀 Published release [v0.1.2](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.2) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-5. 🗣 Commented on [#94](https://github.com/AceCentre/nhs-service-finder/issues/94#issuecomment-3951143380) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+1. 🚀 Published release [v0.2.1](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.1) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. ❗ Opened issue [#96](https://github.com/AceCentre/nhs-service-finder/issues/96) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+3. 🗣 Commented on [#35](https://github.com/dasher-project/website/pull/35#issuecomment-3957242598) in [dasher-project/website](https://github.com/dasher-project/website)
+4. 🚀 Published release [v0.1.3](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.3) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+5. 🚀 Published release [v0.1.2](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.2) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
 <!--END_SECTION:activity-->
