@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/sonicbaume/FreeAAC/issues/37#issuecomment-4012533506) in [sonicbaume/FreeAAC](https://github.com/sonicbaume/FreeAAC)
-2. 🗣 Commented on [#37](https://github.com/sonicbaume/FreeAAC/issues/37#issuecomment-4012426621) in [sonicbaume/FreeAAC](https://github.com/sonicbaume/FreeAAC)
-3. 🚀 Published release [v0.2.1](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.1) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. ❗ Opened issue [#96](https://github.com/AceCentre/nhs-service-finder/issues/96) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. 🗣 Commented on [#35](https://github.com/dasher-project/website/pull/35#issuecomment-3957242598) in [dasher-project/website](https://github.com/dasher-project/website)
+1. 🚀 Published release [v0.2.2](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.2) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🗣 Commented on [#37](https://github.com/sonicbaume/FreeAAC/issues/37#issuecomment-4012533506) in [sonicbaume/FreeAAC](https://github.com/sonicbaume/FreeAAC)
+3. 🗣 Commented on [#37](https://github.com/sonicbaume/FreeAAC/issues/37#issuecomment-4012426621) in [sonicbaume/FreeAAC](https://github.com/sonicbaume/FreeAAC)
+4. 🚀 Published release [v0.2.1](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.1) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. ❗ Opened issue [#96](https://github.com/AceCentre/nhs-service-finder/issues/96) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
 <!--END_SECTION:activity-->
