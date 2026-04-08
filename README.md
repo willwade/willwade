@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/willwade/js-tts-wrapper/pull/31) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4204285160) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🚀 Published release [fix 2 for browser imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.71) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🚀 Published release [v0.1.70 fix browser imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.70) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. ❗ Opened issue [#944](https://github.com/rtk-ai/rtk/issues/944) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+1. 🔒 Closed issue [#24](https://github.com/willwade/js-tts-wrapper/issues/24) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 💪 Opened PR [#31](https://github.com/willwade/js-tts-wrapper/pull/31) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4204285160) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🚀 Published release [fix 2 for browser imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.71) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🚀 Published release [v0.1.70 fix browser imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.70) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
