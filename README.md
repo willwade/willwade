@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#107](https://github.com/speechmarkdown/speechmarkdown-js/issues/107) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-2. 🔒 Closed issue [#24](https://github.com/willwade/js-tts-wrapper/issues/24) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 💪 Opened PR [#31](https://github.com/willwade/js-tts-wrapper/pull/31) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-4. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4204285160) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 🚀 Published release [fix 2 for browser imports](https://github.com/willwade/js-tts-wrapper/releases/tag/v0.1.71) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 💪 Opened PR [#108](https://github.com/speechmarkdown/speechmarkdown-js/pull/108) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+2. ❗ Opened issue [#107](https://github.com/speechmarkdown/speechmarkdown-js/issues/107) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+3. 🔒 Closed issue [#24](https://github.com/willwade/js-tts-wrapper/issues/24) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 💪 Opened PR [#31](https://github.com/willwade/js-tts-wrapper/pull/31) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+5. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4204285160) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
