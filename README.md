@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/willwade/js-tts-wrapper/pull/37#issuecomment-4227814845) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-2. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4222224563) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-3. 🗣 Commented on [#109](https://github.com/speechmarkdown/speechmarkdown-js/issues/109#issuecomment-4217409760) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
-4. 🗣 Commented on [#6](https://github.com/speechmarkdown/speechmarkdown-test-files/pull/6#issuecomment-4215527234) in [speechmarkdown/speechmarkdown-test-files](https://github.com/speechmarkdown/speechmarkdown-test-files)
-5. 💪 Opened PR [#6](https://github.com/speechmarkdown/speechmarkdown-test-files/pull/6) in [speechmarkdown/speechmarkdown-test-files](https://github.com/speechmarkdown/speechmarkdown-test-files)
+1. 🎉 Merged PR [#31](https://github.com/willwade/js-tts-wrapper/pull/31) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+2. 🗣 Commented on [#37](https://github.com/willwade/js-tts-wrapper/pull/37#issuecomment-4227814845) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+3. 🗣 Commented on [#24](https://github.com/willwade/js-tts-wrapper/issues/24#issuecomment-4222224563) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+4. 🗣 Commented on [#109](https://github.com/speechmarkdown/speechmarkdown-js/issues/109#issuecomment-4217409760) in [speechmarkdown/speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js)
+5. 🗣 Commented on [#6](https://github.com/speechmarkdown/speechmarkdown-test-files/pull/6#issuecomment-4215527234) in [speechmarkdown/speechmarkdown-test-files](https://github.com/speechmarkdown/speechmarkdown-test-files)
 <!--END_SECTION:activity-->
