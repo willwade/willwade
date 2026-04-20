@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.4](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-2. 🎉 Merged PR [#33](https://github.com/willwade/AACProcessors-nodejs/pull/33) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-3. 💪 Opened PR [#33](https://github.com/willwade/AACProcessors-nodejs/pull/33) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
-4. ❌ Closed PR [#50](https://github.com/willwade/js-tts-wrapper/pull/50) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
-5. 💪 Opened PR [#50](https://github.com/willwade/js-tts-wrapper/pull/50) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
+1. 🚀 Published release [v0.2.5](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.5) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+2. 🚀 Published release [v0.2.4](https://github.com/willwade/AACProcessors-nodejs/releases/tag/v0.2.4) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+3. 🎉 Merged PR [#33](https://github.com/willwade/AACProcessors-nodejs/pull/33) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+4. 💪 Opened PR [#33](https://github.com/willwade/AACProcessors-nodejs/pull/33) in [willwade/AACProcessors-nodejs](https://github.com/willwade/AACProcessors-nodejs)
+5. ❌ Closed PR [#50](https://github.com/willwade/js-tts-wrapper/pull/50) in [willwade/js-tts-wrapper](https://github.com/willwade/js-tts-wrapper)
 <!--END_SECTION:activity-->
