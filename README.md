@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Improving Morphology Metrics and grammar buttons (TD,Grid)](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.18) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-2. ❗ Opened issue [#99](https://github.com/AceCentre/nhs-service-finder/issues/99) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-3. 🚀 Published release [v0.2.17](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.17) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 🗣 Commented on [#48](https://github.com/AACTools/AACProcessors-nodejs/pull/48#issuecomment-4380829312) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. 🚀 Published release [v0.2.16](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.16) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+1. 🚀 Published release [fixed issue with morphology](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.19) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+2. 🚀 Published release [Improving Morphology Metrics and grammar buttons (TD,Grid)](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.18) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. ❗ Opened issue [#99](https://github.com/AceCentre/nhs-service-finder/issues/99) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+4. 🚀 Published release [v0.2.17](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.17) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. 🗣 Commented on [#48](https://github.com/AACTools/AACProcessors-nodejs/pull/48#issuecomment-4380829312) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
