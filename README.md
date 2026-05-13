@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.17](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.17) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-2. 🗣 Commented on [#48](https://github.com/AACTools/AACProcessors-nodejs/pull/48#issuecomment-4380829312) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 🚀 Published release [v0.2.16](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.16) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 🗣 Commented on [#61](https://github.com/AACTools/WorldAlphabets/pull/61#issuecomment-4377315741) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-5. 🗣 Commented on [#61](https://github.com/AACTools/WorldAlphabets/pull/61#issuecomment-4377197318) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+1. ❗ Opened issue [#99](https://github.com/AceCentre/nhs-service-finder/issues/99) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
+2. 🚀 Published release [v0.2.17](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.17) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. 🗣 Commented on [#48](https://github.com/AACTools/AACProcessors-nodejs/pull/48#issuecomment-4380829312) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 🚀 Published release [v0.2.16](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.16) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. 🗣 Commented on [#61](https://github.com/AACTools/WorldAlphabets/pull/61#issuecomment-4377315741) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
 <!--END_SECTION:activity-->
