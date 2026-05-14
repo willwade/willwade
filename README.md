@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [go](https://github.com/AceCentre/RelayKeys/releases/tag/v3.0.0) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🚀 Published release [v0.0.35](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.35) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-3. 🚀 Published release [v0.0.34](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.34) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-4. 🚀 Published release [fixed issue with morphology](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.19) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. 🚀 Published release [Improving Morphology Metrics and grammar buttons (TD,Grid)](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.18) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+1. 🚀 Published release [v3.0.1](https://github.com/AceCentre/RelayKeys/releases/tag/v3.0.1) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+2. 🚀 Published release [go](https://github.com/AceCentre/RelayKeys/releases/tag/v3.0.0) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🚀 Published release [v0.0.35](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.35) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+4. 🚀 Published release [v0.0.34](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.34) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+5. 🚀 Published release [fixed issue with morphology](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.19) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
