@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.34](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.34) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-2. 🚀 Published release [fixed issue with morphology](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.19) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 🚀 Published release [Improving Morphology Metrics and grammar buttons (TD,Grid)](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.18) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. ❗ Opened issue [#99](https://github.com/AceCentre/nhs-service-finder/issues/99) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
-5. 🚀 Published release [v0.2.17](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.17) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+1. 🚀 Published release [v0.0.35](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.35) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+2. 🚀 Published release [v0.0.34](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.34) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+3. 🚀 Published release [fixed issue with morphology](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.19) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 🚀 Published release [Improving Morphology Metrics and grammar buttons (TD,Grid)](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.18) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. ❗ Opened issue [#99](https://github.com/AceCentre/nhs-service-finder/issues/99) in [AceCentre/nhs-service-finder](https://github.com/AceCentre/nhs-service-finder)
 <!--END_SECTION:activity-->
