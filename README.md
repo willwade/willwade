@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-2. ❗ Opened issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-3. 🚀 Published release [1.0.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-4. 💪 Opened PR [#11](https://github.com/dasher-project/DasherCore/pull/11) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🚀 Published release [v1.0.0](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.0.0) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+2. ℹ️ Labeled issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+3. ❗ Opened issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
+4. 🚀 Published release [1.0.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
 5. 🚀 Published release [v0.0.35](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.35) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
 <!--END_SECTION:activity-->
