@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [now working in iOS as well](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.2) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-2. 🚀 Published release [v1.0.0](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.0.0) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
-3. ℹ️ Labeled issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-4. ❗ Opened issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
-5. 🚀 Published release [1.0.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+1. 🚀 Published release [v0.0.2](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.0.2) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+2. 🚀 Published release [v0.0.1](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.0.1) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+3. 🚀 Published release [now working in iOS as well](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.2) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+4. 🚀 Published release [v1.0.0](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.0.0) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+5. ℹ️ Labeled issue [#13674](https://github.com/SwiftPackageIndex/PackageList/issues/13674) in [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList)
 <!--END_SECTION:activity-->
