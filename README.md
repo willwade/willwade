@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.17](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.17) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-2. 🚀 Published release [v0.1.16](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.16) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 🚀 Published release [v0.1.15](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.15) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-4. 🚀 Published release [v0.1.14](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.14) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-5. 🚀 Published release [v1.1.1](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.1) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+1. 🚀 Published release [Supporting SpeechMarkdown ](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.3) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+2. 🚀 Published release [v0.1.17](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.17) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+3. 🚀 Published release [v0.1.16](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.16) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+4. 🚀 Published release [v0.1.15](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.15) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+5. 🚀 Published release [v0.1.14](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.14) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
 <!--END_SECTION:activity-->
