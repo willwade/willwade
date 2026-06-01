@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.0.1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v0.1.18](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.18) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 🚀 Published release [Supporting SpeechMarkdown ](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.3) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-4. 🚀 Published release [v0.1.17](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.17) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-5. 🚀 Published release [v0.1.16](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.16) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+1. 🎉 Merged PR [#1](https://github.com/AACTools/rust-tts-wrapper/pull/1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#1](https://github.com/AACTools/rust-tts-wrapper/pull/1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🚀 Published release [v0.0.1](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.0.1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🚀 Published release [v0.1.18](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.1.18) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+5. 🚀 Published release [Supporting SpeechMarkdown ](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.0.3) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
 <!--END_SECTION:activity-->
