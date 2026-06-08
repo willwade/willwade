@@ -46,8 +46,8 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.0.1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🎉 Merged PR [#4](https://github.com/AACTools/rust-tts-wrapper/pull/4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🚀 Published release [v0.2.20](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.2.20) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+2. 🚀 Published release [v0.0.1](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.0.1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 3. 💪 Opened PR [#4](https://github.com/AACTools/rust-tts-wrapper/pull/4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 4. 🎉 Merged PR [#3](https://github.com/AACTools/rust-tts-wrapper/pull/3) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 5. 💪 Opened PR [#3](https://github.com/AACTools/rust-tts-wrapper/pull/3) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
