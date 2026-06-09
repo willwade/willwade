@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.1](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.1) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-2. 🚀 Published release [1.13.4](https://github.com/willwade/sherpa-onnx-spm/releases/tag/1.13.4) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-3. 🎉 Merged PR [#1](https://github.com/willwade/sherpa-onnx-spm/pull/1) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-4. 💪 Opened PR [#1](https://github.com/willwade/sherpa-onnx-spm/pull/1) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-5. 🚀 Published release [1.13.3](https://github.com/willwade/sherpa-onnx-spm/releases/tag/1.13.3) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+1. 🚀 Published release [1.1.3](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.3) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+2. 🚀 Published release [1.1.2](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.2) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+3. 🚀 Published release [1.1.1](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.1) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+4. 🚀 Published release [1.13.4](https://github.com/willwade/sherpa-onnx-spm/releases/tag/1.13.4) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+5. 🎉 Merged PR [#1](https://github.com/willwade/sherpa-onnx-spm/pull/1) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
 <!--END_SECTION:activity-->
