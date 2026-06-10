@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.2.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-2. 🚀 Published release [1.1.9](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.9) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-3. 🚀 Published release [1.1.8](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.8) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-4. 🚀 Published release [1.1.7](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.7) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-5. 🚀 Published release [1.1.6](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.6) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+1. 🚀 Published release [v1.13.4](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.4) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+2. 🚀 Published release [1.2.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.2.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+3. 🚀 Published release [1.1.9](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.9) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+4. 🚀 Published release [1.1.8](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.8) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+5. 🚀 Published release [1.1.7](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.1.7) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
 <!--END_SECTION:activity-->
