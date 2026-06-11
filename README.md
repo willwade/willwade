@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.5](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-2. 🚀 Published release [v0.4.4 - adding visionOS slice](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.4) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 🚀 Published release [v1.13.14 - Checksum Fix](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.14) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-4. 🚀 Published release [v1.13.13](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.13) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-5. 🚀 Published release [v1.13.5](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.5) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+1. 🚀 Published release [v0.4.8](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.8) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+2. 🎉 Merged PR [#1](https://github.com/Smartbox-Assistive-Technology/app-automate/pull/1) in [Smartbox-Assistive-Technology/app-automate](https://github.com/Smartbox-Assistive-Technology/app-automate)
+3. 💪 Opened PR [#1](https://github.com/Smartbox-Assistive-Technology/app-automate/pull/1) in [Smartbox-Assistive-Technology/app-automate](https://github.com/Smartbox-Assistive-Technology/app-automate)
+4. 🚀 Published release [v0.4.6](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.6) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+5. 🚀 Published release [v0.4.5](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
 <!--END_SECTION:activity-->
