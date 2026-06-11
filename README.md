@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.13.14 - Checksum Fix](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.14) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-2. 🚀 Published release [v1.13.13](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.13) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-3. 🚀 Published release [v1.13.5](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.5) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-4. 🚀 Published release [v1.13.4](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.4) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-5. 🚀 Published release [1.2.0](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.2.0) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+1. 🚀 Published release [v0.4.5](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+2. 🚀 Published release [v0.4.4 - adding visionOS slice](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.4) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+3. 🚀 Published release [v1.13.14 - Checksum Fix](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.14) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+4. 🚀 Published release [v1.13.13](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.13) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
+5. 🚀 Published release [v1.13.5](https://github.com/willwade/sherpa-onnx-spm/releases/tag/v1.13.5) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
 <!--END_SECTION:activity-->
