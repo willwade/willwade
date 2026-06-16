@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4715419914) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-2. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4715385293) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-3. 💪 Opened PR [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-4. ❗ Opened issue [#32](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/32) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-5. 🗣 Commented on [#68](https://github.com/AceCentre/AACSpeakHelper/issues/68#issuecomment-4711074694) in [AceCentre/AACSpeakHelper](https://github.com/AceCentre/AACSpeakHelper)
+1. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4718835496) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+2. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4715419914) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+3. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4715385293) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+4. 💪 Opened PR [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+5. ❗ Opened issue [#32](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/32) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
 <!--END_SECTION:activity-->
