@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0-preview9](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.0-preview9) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 🎉 Merged PR [#150](https://github.com/dasher-project/dasher-web/pull/150) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-3. 💪 Opened PR [#150](https://github.com/dasher-project/dasher-web/pull/150) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. 🗣 Commented on [#33](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/33#issuecomment-4722517701) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-5. 🎉 Merged PR [#149](https://github.com/dasher-project/dasher-web/pull/149) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+1. 💪 Opened PR [#12](https://github.com/dasher-project/DasherCore/pull/12) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#11](https://github.com/dasher-project/DasherCore/pull/11) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🚀 Published release [v0.1.0-preview9](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.0-preview9) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🎉 Merged PR [#150](https://github.com/dasher-project/dasher-web/pull/150) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. 💪 Opened PR [#150](https://github.com/dasher-project/dasher-web/pull/150) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
 <!--END_SECTION:activity-->
