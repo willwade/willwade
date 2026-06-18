@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/dasher-project/website/issues/1) in [dasher-project/website](https://github.com/dasher-project/website)
-2. 🔒 Closed issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
-3. 🎉 Merged PR [#10](https://github.com/dasher-project/Dasher-Apple/pull/10) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 💪 Opened PR [#2](https://github.com/willwade/sherpa-onnx-spm/pull/2) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
-5. 🎉 Merged PR [#9](https://github.com/dasher-project/Dasher-Apple/pull/9) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 💪 Opened PR [#21](https://github.com/dasher-project/DasherCore/pull/21) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🔒 Closed issue [#1](https://github.com/dasher-project/website/issues/1) in [dasher-project/website](https://github.com/dasher-project/website)
+3. 🔒 Closed issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
+4. 🎉 Merged PR [#10](https://github.com/dasher-project/Dasher-Apple/pull/10) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 💪 Opened PR [#2](https://github.com/willwade/sherpa-onnx-spm/pull/2) in [willwade/sherpa-onnx-spm](https://github.com/willwade/sherpa-onnx-spm)
 <!--END_SECTION:activity-->
