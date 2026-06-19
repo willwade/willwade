@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/dasher-project/DasherCore/pull/21) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 💪 Opened PR [#21](https://github.com/dasher-project/DasherCore/pull/21) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 🔒 Closed issue [#1](https://github.com/dasher-project/website/issues/1) in [dasher-project/website](https://github.com/dasher-project/website)
-4. 🔒 Closed issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
-5. 🎉 Merged PR [#10](https://github.com/dasher-project/Dasher-Apple/pull/10) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🎉 Merged PR [#2](https://github.com/dasher-project/dasher-design-guide/pull/2) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+2. 🎉 Merged PR [#21](https://github.com/dasher-project/DasherCore/pull/21) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 💪 Opened PR [#21](https://github.com/dasher-project/DasherCore/pull/21) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🔒 Closed issue [#1](https://github.com/dasher-project/website/issues/1) in [dasher-project/website](https://github.com/dasher-project/website)
+5. 🔒 Closed issue [#34](https://github.com/dasher-project/website/issues/34) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
