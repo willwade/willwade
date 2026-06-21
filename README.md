@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/AACTools/dotnet-tts-wrapper/pull/2) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
-2. 🎉 Merged PR [#18](https://github.com/dasher-project/DasherCore/pull/18) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 🎉 Merged PR [#24](https://github.com/dasher-project/DasherCore/pull/24) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#24](https://github.com/dasher-project/DasherCore/pull/24) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 💪 Opened PR [#9](https://github.com/dasher-project/governance/pull/9) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 💪 Opened PR [#7](https://github.com/dasher-project/dasher-MIT/pull/7) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+2. 💪 Opened PR [#2](https://github.com/AACTools/dotnet-tts-wrapper/pull/2) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+3. 🎉 Merged PR [#18](https://github.com/dasher-project/DasherCore/pull/18) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🎉 Merged PR [#24](https://github.com/dasher-project/DasherCore/pull/24) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#24](https://github.com/dasher-project/DasherCore/pull/24) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
