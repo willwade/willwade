@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/dasher-project/DasherCore/pull/25) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🎉 Merged PR [#26](https://github.com/dasher-project/DasherCore/pull/26) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 💪 Opened PR [#26](https://github.com/dasher-project/DasherCore/pull/26) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#25](https://github.com/dasher-project/DasherCore/pull/25) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 💪 Opened PR [#7](https://github.com/dasher-project/dasher-MIT/pull/7) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+1. 💪 Opened PR [#28](https://github.com/dasher-project/DasherCore/pull/28) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 💪 Opened PR [#27](https://github.com/dasher-project/DasherCore/pull/27) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🎉 Merged PR [#25](https://github.com/dasher-project/DasherCore/pull/25) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🎉 Merged PR [#26](https://github.com/dasher-project/DasherCore/pull/26) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#26](https://github.com/dasher-project/DasherCore/pull/26) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
