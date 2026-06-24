@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 💪 Opened PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 💪 Opened PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. ❌ Closed PR [#8](https://github.com/dasher-project/dasher-MIT/pull/8) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
-5. 💪 Opened PR [#8](https://github.com/dasher-project/dasher-MIT/pull/8) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+1. 💪 Opened PR [#2](https://github.com/AACTools/VoiceGarden-SAPI/pull/2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🎉 Merged PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 💪 Opened PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 💪 Opened PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. ❌ Closed PR [#8](https://github.com/dasher-project/dasher-MIT/pull/8) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
 <!--END_SECTION:activity-->
