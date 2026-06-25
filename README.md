@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/AACTools/speechmarkdown-rust/issues/1) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-2. 🎉 Merged PR [#2](https://github.com/AACTools/speechmarkdown-rust/pull/2) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 🎉 Merged PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#2](https://github.com/AACTools/VoiceGarden-SAPI/pull/2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🎉 Merged PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 💪 Opened PR [#8](https://github.com/dasher-project/Dasher-Windows/pull/8) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🎉 Merged PR [#31](https://github.com/dasher-project/DasherCore/pull/31) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 💪 Opened PR [#3](https://github.com/dasher-project/dasher-design-guide/pull/3) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+4. 🔒 Closed issue [#31](https://github.com/dasher-project/website/issues/31) in [dasher-project/website](https://github.com/dasher-project/website)
+5. 💪 Opened PR [#31](https://github.com/dasher-project/DasherCore/pull/31) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
