@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 💪 Opened PR [#2](https://github.com/AACTools/VoiceGarden-SAPI/pull/2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 🎉 Merged PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-4. 💪 Opened PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 💪 Opened PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🔒 Closed issue [#1](https://github.com/AACTools/speechmarkdown-rust/issues/1) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+2. 🎉 Merged PR [#2](https://github.com/AACTools/speechmarkdown-rust/pull/2) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+3. 🎉 Merged PR [#30](https://github.com/dasher-project/DasherCore/pull/30) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 💪 Opened PR [#2](https://github.com/AACTools/VoiceGarden-SAPI/pull/2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 🎉 Merged PR [#1](https://github.com/AACTools/VoiceGarden-SAPI/pull/1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
