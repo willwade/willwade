@@ -46,8 +46,8 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.5](https://github.com/dasher-project/DasherCore/releases/tag/v0.1.5) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🚀 Published release [1.1.7](https://github.com/AACTools/swift-tts-wrapper/releases/tag/1.1.7) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+1. 🚀 Published release [1.2.6](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.2.6) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+2. 🚀 Published release [v0.1.5](https://github.com/dasher-project/DasherCore/releases/tag/v0.1.5) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 3. 🎉 Merged PR [#3](https://github.com/AACTools/VoiceGarden-SAPI/pull/3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 4. 💪 Opened PR [#32](https://github.com/dasher-project/DasherCore/pull/32) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 5. 💪 Opened PR [#3](https://github.com/AACTools/VoiceGarden-SAPI/pull/3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
