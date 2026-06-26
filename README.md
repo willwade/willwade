@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v1.1.9](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.9) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
-3. 🚀 Published release [v1.1.8](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.8) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
-4. 🎉 Merged PR [#4](https://github.com/AACTools/VoiceGarden-SAPI/pull/4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 💪 Opened PR [#4](https://github.com/AACTools/VoiceGarden-SAPI/pull/4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🚀 Published release [v0.3.2](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🚀 Published release [v0.3.1](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.1) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 🚀 Published release [v0.3.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🚀 Published release [v1.1.9](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.9) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+5. 🚀 Published release [v1.1.8](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.8) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
 <!--END_SECTION:activity-->
