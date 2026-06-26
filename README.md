@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/dasher-project/DasherCore/issues/34) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 💪 Opened PR [#33](https://github.com/dasher-project/DasherCore/pull/33) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 💪 Opened PR [#12](https://github.com/dasher-project/Dasher-Windows/pull/12) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#2](https://github.com/AACTools/speechmarkdown-rust/pull/2) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-5. ❌ Closed PR [#7](https://github.com/dasher-project/dasher-MIT/pull/7) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+1. 🚀 Published release [v0.3.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🚀 Published release [v1.1.9](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.9) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+3. 🚀 Published release [v1.1.8](https://github.com/AACTools/dotnet-tts-wrapper/releases/tag/v1.1.8) in [AACTools/dotnet-tts-wrapper](https://github.com/AACTools/dotnet-tts-wrapper)
+4. 🎉 Merged PR [#4](https://github.com/AACTools/VoiceGarden-SAPI/pull/4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 💪 Opened PR [#4](https://github.com/AACTools/VoiceGarden-SAPI/pull/4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
