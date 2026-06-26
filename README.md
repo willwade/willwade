@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.3-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.3-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🎉 Merged PR [#12](https://github.com/dasher-project/Dasher-Windows/pull/12) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. 🎉 Merged PR [#32](https://github.com/dasher-project/DasherCore/pull/32) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 🚀 Published release [1.2.8](https://github.com/AACTools/swift-tts-wrapper/releases/tag/v1.2.8) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
-5. 🚀 Published release [v0.1.7 - should fix a lot of the alphabet v5 probs](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.7) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 💪 Opened PR [#2](https://github.com/AACTools/speechmarkdown-rust/pull/2) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+2. ❌ Closed PR [#7](https://github.com/dasher-project/dasher-MIT/pull/7) in [dasher-project/dasher-MIT](https://github.com/dasher-project/dasher-MIT)
+3. 🚀 Published release [v0.1.3-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.3-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 🎉 Merged PR [#12](https://github.com/dasher-project/Dasher-Windows/pull/12) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 🎉 Merged PR [#32](https://github.com/dasher-project/DasherCore/pull/32) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
