@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0-non-capi](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.1.0-non-capi) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🚀 Published release [v0.1.2](https://github.com/dasher-project/Dasher-Android/releases/tag/v0.1.2) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 🎉 Merged PR [#8](https://github.com/dasher-project/.github/pull/8) in [dasher-project/.github](https://github.com/dasher-project/.github)
-5. 💪 Opened PR [#8](https://github.com/dasher-project/.github/pull/8) in [dasher-project/.github](https://github.com/dasher-project/.github)
+1. 🎉 Merged PR [#10](https://github.com/dasher-project/governance/pull/10) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 💪 Opened PR [#1](https://github.com/dasher-project/Dasher-Android/pull/1) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. 💪 Opened PR [#10](https://github.com/dasher-project/governance/pull/10) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🚀 Published release [v0.1.0-non-capi](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.1.0-non-capi) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
