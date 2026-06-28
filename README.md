@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/dasher-project/governance/pull/14) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. ❗ Opened issue [#13](https://github.com/dasher-project/governance/issues/13) in [dasher-project/governance](https://github.com/dasher-project/governance)
-3. ℹ️ Labeled issue [#16](https://github.com/dasher-project/Dasher-Apple/issues/16) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. ❗ Opened issue [#16](https://github.com/dasher-project/Dasher-Apple/issues/16) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. ℹ️ Labeled issue [#15](https://github.com/dasher-project/Dasher-Windows/issues/15) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🔒 Closed issue [#13](https://github.com/dasher-project/governance/issues/13) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 🎉 Merged PR [#14](https://github.com/dasher-project/governance/pull/14) in [dasher-project/governance](https://github.com/dasher-project/governance)
+3. 💪 Opened PR [#3](https://github.com/dasher-project/Dasher-Android/pull/3) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 💪 Opened PR [#14](https://github.com/dasher-project/governance/pull/14) in [dasher-project/governance](https://github.com/dasher-project/governance)
+5. ❗ Opened issue [#13](https://github.com/dasher-project/governance/issues/13) in [dasher-project/governance](https://github.com/dasher-project/governance)
 <!--END_SECTION:activity-->
