@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dasher-project/dasher-design-guide/pull/4) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
-2. 💪 Opened PR [#4](https://github.com/dasher-project/dasher-design-guide/pull/4) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
-3. 🎉 Merged PR [#18](https://github.com/dasher-project/governance/pull/18) in [dasher-project/governance](https://github.com/dasher-project/governance)
-4. 🎉 Merged PR [#17](https://github.com/dasher-project/governance/pull/17) in [dasher-project/governance](https://github.com/dasher-project/governance)
-5. 💪 Opened PR [#18](https://github.com/dasher-project/governance/pull/18) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 🎉 Merged PR [#5](https://github.com/dasher-project/dasher-design-guide/pull/5) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+2. 💪 Opened PR [#5](https://github.com/dasher-project/dasher-design-guide/pull/5) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+3. 🎉 Merged PR [#4](https://github.com/dasher-project/dasher-design-guide/pull/4) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+4. 💪 Opened PR [#4](https://github.com/dasher-project/dasher-design-guide/pull/4) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+5. 🎉 Merged PR [#18](https://github.com/dasher-project/governance/pull/18) in [dasher-project/governance](https://github.com/dasher-project/governance)
 <!--END_SECTION:activity-->
