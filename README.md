@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.4](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v0.3.3](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 🎉 Merged PR [#6](https://github.com/dasher-project/dasher-design-guide/pull/6) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
-4. 💪 Opened PR [#6](https://github.com/dasher-project/dasher-design-guide/pull/6) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
-5. 🎉 Merged PR [#5](https://github.com/dasher-project/dasher-design-guide/pull/5) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+1. 🗣 Commented on [#32](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/32#issuecomment-4867968200) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+2. 🚀 Published release [v0.3.4](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 🚀 Published release [v0.3.3](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🎉 Merged PR [#6](https://github.com/dasher-project/dasher-design-guide/pull/6) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
+5. 💪 Opened PR [#6](https://github.com/dasher-project/dasher-design-guide/pull/6) in [dasher-project/dasher-design-guide](https://github.com/dasher-project/dasher-design-guide)
 <!--END_SECTION:activity-->
