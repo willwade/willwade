@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.4](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🚀 Published release [v0.2.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🎉 Merged PR [#38](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/38) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-5. 🚀 Published release [v0.3.5](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.3.5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🚀 Published release [v0.2.5](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.5) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🚀 Published release [v0.2.4](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🚀 Published release [v0.2.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🎉 Merged PR [#38](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/38) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
 <!--END_SECTION:activity-->
