@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.5](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.5) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🚀 Published release [v0.2.4](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🚀 Published release [v0.2.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🎉 Merged PR [#38](https://github.com/CodeBySonu95/VoxSherpa-TTS/pull/38) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+1. 🚀 Published release [v0.2.0](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.0) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🚀 Published release [v0.2.5](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.5) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🚀 Published release [v0.2.4](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.4) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🚀 Published release [v0.2.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🚀 Published release [v0.2.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
