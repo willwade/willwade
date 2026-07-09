@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-3. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#3738](https://github.com/k2-fsa/sherpa-onnx/issues/3738#issuecomment-4922580841) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. 🗣 Commented on [#3676](https://github.com/k2-fsa/sherpa-onnx/issues/3676#issuecomment-4922519510) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🚀 Published release [v0.4.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
