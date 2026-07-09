@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-2. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-3. 🗣 Commented on [#3738](https://github.com/k2-fsa/sherpa-onnx/issues/3738#issuecomment-4922580841) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#3676](https://github.com/k2-fsa/sherpa-onnx/issues/3676#issuecomment-4922519510) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. 🗣 Commented on [#3705](https://github.com/k2-fsa/sherpa-onnx/issues/3705#issuecomment-4922506576) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+3. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+4. 🗣 Commented on [#3738](https://github.com/k2-fsa/sherpa-onnx/issues/3738#issuecomment-4922580841) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🗣 Commented on [#3676](https://github.com/k2-fsa/sherpa-onnx/issues/3676#issuecomment-4922519510) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
