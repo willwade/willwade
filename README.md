@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.6](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.6) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🚀 Published release [v0.3.6](https://github.com/AACTools/rust-tts-wrapper/releases/tag/untagged-7847fb8d3d59b40f512c) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 2. 💪 Opened PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 3. 🚀 Published release [v0.2.0](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.0) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 4. 🚀 Published release [v0.2.5](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.5) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
