@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v0.3.6](https://github.com/AACTools/rust-tts-wrapper/releases/tag/untagged-7847fb8d3d59b40f512c) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 🚀 Published release [v0.2.0](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.0) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🚀 Published release [v0.2.5](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.2.5) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+2. 🗣 Commented on [#3738](https://github.com/k2-fsa/sherpa-onnx/issues/3738#issuecomment-4922580841) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+3. 🗣 Commented on [#3676](https://github.com/k2-fsa/sherpa-onnx/issues/3676#issuecomment-4922519510) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+4. 🗣 Commented on [#3705](https://github.com/k2-fsa/sherpa-onnx/issues/3705#issuecomment-4922506576) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🗣 Commented on [#3727](https://github.com/k2-fsa/sherpa-onnx/issues/3727#issuecomment-4922497932) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
