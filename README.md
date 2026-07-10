@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 💪 Opened PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. 🗣 Commented on [#3738](https://github.com/k2-fsa/sherpa-onnx/issues/3738#issuecomment-4922580841) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. ❌ Closed PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🗣 Commented on [#15](https://github.com/dasher-project/Dasher-GTK/pull/15#issuecomment-4931953132) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🎉 Merged PR [#3739](https://github.com/k2-fsa/sherpa-onnx/pull/3739) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
 <!--END_SECTION:activity-->
