@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.2](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. ❌ Closed PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 🗣 Commented on [#15](https://github.com/dasher-project/Dasher-GTK/pull/15#issuecomment-4931953132) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🚀 Published release [v0.3.8](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.8) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🚀 Published release [v0.2.1](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.1) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🚀 Published release [v0.4.2](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. ❌ Closed PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🗣 Commented on [#15](https://github.com/dasher-project/Dasher-GTK/pull/15#issuecomment-4931953132) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SAPI/pull/5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
