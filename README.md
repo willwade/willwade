@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.1) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🚀 Published release [v0.2.1 (superseded — does not launch)](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.1) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 2. 🚀 Published release [v0.4.2](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 3. ❌ Closed PR [#14](https://github.com/dasher-project/Dasher-GTK/pull/14) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 4. 🗣 Commented on [#15](https://github.com/dasher-project/Dasher-GTK/pull/15#issuecomment-4931953132) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
