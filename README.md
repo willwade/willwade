@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.9](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.9) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🚀 Published release [v0.4.11](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.11) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 🚀 Published release [v0.4.10](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.10) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-4. 🚀 Published release [v0.4.6](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.6) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🚀 Published release [v0.4.5](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.5) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🚀 Published release [v0.5.2](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.2) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🚀 Published release [v0.4.9](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.9) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 🚀 Published release [v0.4.11](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.11) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+4. 🚀 Published release [v0.4.10](https://github.com/AACTools/speechmarkdown-rust/releases/tag/v0.4.10) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+5. 🚀 Published release [v0.4.6](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.4.6) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
