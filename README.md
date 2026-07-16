@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4979694577) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-2. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978958725) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-3. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978606887) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🔒 Closed issue [#156](https://github.com/AceCentre/RelayKeys/issues/156) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#3731](https://github.com/k2-fsa/sherpa-onnx/issues/3731#issuecomment-4978422649) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🚀 Published release [v0.5.3](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4979694577) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+3. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978958725) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+4. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978606887) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+5. 🔒 Closed issue [#156](https://github.com/AceCentre/RelayKeys/issues/156) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
 <!--END_SECTION:activity-->
