@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/dasher-project/DasherCore/pull/40) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🚀 Published release [v0.5.3](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.3) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4979694577) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-4. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978958725) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
-5. 🗣 Commented on [#156](https://github.com/AceCentre/RelayKeys/issues/156#issuecomment-4978606887) in [AceCentre/RelayKeys](https://github.com/AceCentre/RelayKeys)
+1. 💪 Opened PR [#19](https://github.com/dasher-project/governance/pull/19) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 🗣 Commented on [#18](https://github.com/dasher-project/Dasher-GTK/issues/18#issuecomment-5010166795) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🗣 Commented on [#12](https://github.com/dasher-project/Dasher-GTK/issues/12#issuecomment-5010164694) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🗣 Commented on [#19](https://github.com/dasher-project/Dasher-GTK/issues/19#issuecomment-5010161547) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 🔒 Closed issue [#17](https://github.com/dasher-project/Dasher-GTK/issues/17) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
