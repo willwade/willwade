@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/dasher-project/Dasher-GTK/pull/33) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🚀 Published release [v0.2.3](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.3) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 🔒 Closed issue [#12](https://github.com/dasher-project/Dasher-GTK/issues/12) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. ❌ Closed PR [#28](https://github.com/dasher-project/Dasher-GTK/pull/28) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. ❌ Closed PR [#27](https://github.com/dasher-project/Dasher-GTK/pull/27) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 💪 Opened PR [#34](https://github.com/dasher-project/Dasher-GTK/pull/34) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 💪 Opened PR [#33](https://github.com/dasher-project/Dasher-GTK/pull/33) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🚀 Published release [v0.2.3](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.3) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🔒 Closed issue [#12](https://github.com/dasher-project/Dasher-GTK/issues/12) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. ❌ Closed PR [#28](https://github.com/dasher-project/Dasher-GTK/pull/28) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
