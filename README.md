@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#36](https://github.com/dasher-project/Dasher-GTK/issues/36) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. ❗ Opened issue [#36](https://github.com/dasher-project/Dasher-GTK/issues/36) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. ℹ️ Assigned issue [#35](https://github.com/dasher-project/Dasher-GTK/issues/35) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. ❗ Opened issue [#35](https://github.com/dasher-project/Dasher-GTK/issues/35) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🎉 Merged PR [#24](https://github.com/dasher-project/Dasher-Apple/pull/24) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🎉 Merged PR [#6](https://github.com/willwade/letter-by-letter-AAC/pull/6) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+2. 💪 Opened PR [#6](https://github.com/willwade/letter-by-letter-AAC/pull/6) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+3. 🎉 Merged PR [#5](https://github.com/willwade/letter-by-letter-AAC/pull/5) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+4. 💪 Opened PR [#5](https://github.com/willwade/letter-by-letter-AAC/pull/5) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+5. ℹ️ Labeled issue [#36](https://github.com/dasher-project/Dasher-GTK/issues/36) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
