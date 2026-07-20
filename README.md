@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/dasher-project/Dasher-GTK/issues/35#issuecomment-5026285773) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🎉 Merged PR [#11](https://github.com/willwade/letter-by-letter-AAC/pull/11) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
-3. 💪 Opened PR [#11](https://github.com/willwade/letter-by-letter-AAC/pull/11) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
-4. 🎉 Merged PR [#10](https://github.com/willwade/letter-by-letter-AAC/pull/10) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
-5. 💪 Opened PR [#10](https://github.com/willwade/letter-by-letter-AAC/pull/10) in [willwade/letter-by-letter-AAC](https://github.com/willwade/letter-by-letter-AAC)
+1. 🎉 Merged PR [#19](https://github.com/dasher-project/governance/pull/19) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 💪 Opened PR [#45](https://github.com/dasher-project/DasherCore/pull/45) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. ℹ️ Labeled issue [#44](https://github.com/dasher-project/DasherCore/issues/44) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. ❗ Opened issue [#44](https://github.com/dasher-project/DasherCore/issues/44) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#43](https://github.com/dasher-project/DasherCore/pull/43) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
