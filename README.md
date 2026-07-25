@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/dasher-project/Dasher-Apple/pull/26) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 💪 Opened PR [#26](https://github.com/dasher-project/Dasher-Apple/pull/26) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 🎉 Merged PR [#25](https://github.com/dasher-project/Dasher-Apple/pull/25) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 💪 Opened PR [#25](https://github.com/dasher-project/Dasher-Apple/pull/25) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🚀 Published release [v0.5.4](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.4) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🚀 Published release [v0.2.5](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.5) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🎉 Merged PR [#26](https://github.com/dasher-project/Dasher-Apple/pull/26) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 💪 Opened PR [#26](https://github.com/dasher-project/Dasher-Apple/pull/26) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 🎉 Merged PR [#25](https://github.com/dasher-project/Dasher-Apple/pull/25) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 💪 Opened PR [#25](https://github.com/dasher-project/Dasher-Apple/pull/25) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
 <!--END_SECTION:activity-->
