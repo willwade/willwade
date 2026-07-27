@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/willwade/scan-engine-lab/pull/9) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-2. 💪 Opened PR [#9](https://github.com/willwade/scan-engine-lab/pull/9) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-3. 🗣 Commented on [#51](https://github.com/dasher-project/DasherCore/pull/51#issuecomment-5080935201) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 🗣 Commented on [#51](https://github.com/dasher-project/DasherCore/pull/51#issuecomment-5080893409) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 💪 Opened PR [#51](https://github.com/dasher-project/DasherCore/pull/51) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🚀 Published release [v0.1.11](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.11) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🎉 Merged PR [#21](https://github.com/dasher-project/Dasher-Windows/pull/21) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 💪 Opened PR [#21](https://github.com/dasher-project/Dasher-Windows/pull/21) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🚀 Published release [v0.1.10](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.10) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 🎉 Merged PR [#20](https://github.com/dasher-project/Dasher-Windows/pull/20) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
