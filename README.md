@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.11](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.11) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 🎉 Merged PR [#21](https://github.com/dasher-project/Dasher-Windows/pull/21) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. 💪 Opened PR [#21](https://github.com/dasher-project/Dasher-Windows/pull/21) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 🚀 Published release [v0.1.10](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.10) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 🎉 Merged PR [#20](https://github.com/dasher-project/Dasher-Windows/pull/20) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🚀 Published release [v0.5.8](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.8) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🎉 Merged PR [#10](https://github.com/AACTools/VoiceGarden-SAPI/pull/10) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 💪 Opened PR [#10](https://github.com/AACTools/VoiceGarden-SAPI/pull/10) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🎉 Merged PR [#9](https://github.com/AACTools/VoiceGarden-SAPI/pull/9) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 💪 Opened PR [#9](https://github.com/AACTools/VoiceGarden-SAPI/pull/9) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
