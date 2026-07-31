@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/AACTools/VoiceGarden-SAPI/issues/6#issuecomment-5106030848) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🔒 Closed issue [#6](https://github.com/AACTools/VoiceGarden-SAPI/issues/6) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 🗣 Commented on [#7](https://github.com/AACTools/VoiceGarden-SAPI/issues/7#issuecomment-5106016404) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-4. 🗣 Commented on [#8](https://github.com/AACTools/VoiceGarden-SAPI/issues/8#issuecomment-5106011427) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🚀 Published release [v0.5.8](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.5.8) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 💪 Opened PR [#52](https://github.com/dasher-project/DasherCore/pull/52) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#51](https://github.com/dasher-project/DasherCore/pull/51) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 💪 Opened PR [#21](https://github.com/dasher-project/governance/pull/21) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🗣 Commented on [#6](https://github.com/AACTools/VoiceGarden-SAPI/issues/6#issuecomment-5106030848) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 🔒 Closed issue [#6](https://github.com/AACTools/VoiceGarden-SAPI/issues/6) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
