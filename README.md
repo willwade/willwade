@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/dasher-project/governance/pull/20) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. 🎉 Merged PR [#21](https://github.com/dasher-project/governance/pull/21) in [dasher-project/governance](https://github.com/dasher-project/governance)
-3. 🚀 Published release [v0.1.7-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.7-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 🎉 Merged PR [#30](https://github.com/dasher-project/Dasher-Apple/pull/30) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🚀 Published release [v0.2.1](https://github.com/dasher-project/DasherCore/releases/tag/v0.2.1) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 💪 Opened PR [#53](https://github.com/dasher-project/DasherCore/pull/53) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#38](https://github.com/dasher-project/website/pull/38) in [dasher-project/website](https://github.com/dasher-project/website)
+3. 💪 Opened PR [#38](https://github.com/dasher-project/website/pull/38) in [dasher-project/website](https://github.com/dasher-project/website)
+4. 🎉 Merged PR [#23](https://github.com/dasher-project/governance/pull/23) in [dasher-project/governance](https://github.com/dasher-project/governance)
+5. 💪 Opened PR [#23](https://github.com/dasher-project/governance/pull/23) in [dasher-project/governance](https://github.com/dasher-project/governance)
 <!--END_SECTION:activity-->
