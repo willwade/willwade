@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
-2. 🗣 Commented on [#6](https://github.com/usahp/usahp-core/issues/6#issuecomment-5167054698) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-3. ❌ Closed PR [#10](https://github.com/usahp/usahp-core/pull/10) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-4. 🎉 Merged PR [#13](https://github.com/usahp/usahp-core/pull/13) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-5. 🗣 Commented on [#11](https://github.com/usahp/usahp-core/pull/11#issuecomment-5166582030) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+1. ❗ Opened issue [#15](https://github.com/usahp/usahp-core/issues/15) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+2. 🚀 Published release [v0.3.0](https://github.com/usahp/usahp-tauri-demo/releases/tag/v0.3.0) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
+3. 🎉 Merged PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
+4. 💪 Opened PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
+5. 🗣 Commented on [#6](https://github.com/usahp/usahp-core/issues/6#issuecomment-5167054698) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
 <!--END_SECTION:activity-->
