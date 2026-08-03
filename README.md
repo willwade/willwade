@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/usahp/usahp-core/pull/14#issuecomment-5169302697) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-2. ❗ Opened issue [#15](https://github.com/usahp/usahp-core/issues/15) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-3. 🚀 Published release [v0.3.0](https://github.com/usahp/usahp-tauri-demo/releases/tag/v0.3.0) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
-4. 🎉 Merged PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
-5. 💪 Opened PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
+1. 💪 Opened PR [#54](https://github.com/dasher-project/DasherCore/pull/54) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🗣 Commented on [#14](https://github.com/usahp/usahp-core/pull/14#issuecomment-5169302697) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+3. ❗ Opened issue [#15](https://github.com/usahp/usahp-core/issues/15) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+4. 🚀 Published release [v0.3.0](https://github.com/usahp/usahp-tauri-demo/releases/tag/v0.3.0) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
+5. 🎉 Merged PR [#3](https://github.com/usahp/usahp-tauri-demo/pull/3) in [usahp/usahp-tauri-demo](https://github.com/usahp/usahp-tauri-demo)
 <!--END_SECTION:activity-->
