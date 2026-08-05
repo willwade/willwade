@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-2. 💪 Opened PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-3. 🗣 Commented on [#14](https://github.com/usahp/usahp-core/pull/14#issuecomment-5175730860) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
-4. 🎉 Merged PR [#54](https://github.com/dasher-project/DasherCore/pull/54) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 💪 Opened PR [#54](https://github.com/dasher-project/DasherCore/pull/54) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🚀 Published release [v0.1.4](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.4) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+2. 🎉 Merged PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+3. 💪 Opened PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+4. 🗣 Commented on [#14](https://github.com/usahp/usahp-core/pull/14#issuecomment-5175730860) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+5. 🎉 Merged PR [#54](https://github.com/dasher-project/DasherCore/pull/54) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
