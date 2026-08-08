@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3848](https://github.com/k2-fsa/sherpa-onnx/issues/3848#issuecomment-5225824176) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-2. ❗ Opened issue [#40](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/40) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
-3. 🚀 Published release [v0.2.1](https://github.com/willwade/scan-engine-lab/releases/tag/v0.2.1) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-4. 🚀 Published release [v0.1.4](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.4) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-5. 🎉 Merged PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+1. 🗣 Commented on [#3848](https://github.com/k2-fsa/sherpa-onnx/issues/3848#issuecomment-5225904344) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+2. 🗣 Commented on [#3848](https://github.com/k2-fsa/sherpa-onnx/issues/3848#issuecomment-5225824176) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+3. ❗ Opened issue [#40](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/40) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+4. 🚀 Published release [v0.2.1](https://github.com/willwade/scan-engine-lab/releases/tag/v0.2.1) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+5. 🚀 Published release [v0.1.4](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.4) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
 <!--END_SECTION:activity-->
