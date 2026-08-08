@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/willwade/scan-engine-lab/releases/tag/v0.2.1) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-2. 🚀 Published release [v0.1.4](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.4) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-3. 🎉 Merged PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-4. 💪 Opened PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
-5. 🗣 Commented on [#14](https://github.com/usahp/usahp-core/pull/14#issuecomment-5175730860) in [usahp/usahp-core](https://github.com/usahp/usahp-core)
+1. ❗ Opened issue [#40](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/40) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+2. 🚀 Published release [v0.2.1](https://github.com/willwade/scan-engine-lab/releases/tag/v0.2.1) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+3. 🚀 Published release [v0.1.4](https://github.com/willwade/scan-engine-lab/releases/tag/v0.1.4) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+4. 🎉 Merged PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
+5. 💪 Opened PR [#12](https://github.com/willwade/scan-engine-lab/pull/12) in [willwade/scan-engine-lab](https://github.com/willwade/scan-engine-lab)
 <!--END_SECTION:activity-->
