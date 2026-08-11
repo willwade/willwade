@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3855](https://github.com/k2-fsa/sherpa-onnx/issues/3855) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-2. 🚀 Published release [v0.3.0](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.0) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 🗣 Commented on [#3848](https://github.com/k2-fsa/sherpa-onnx/issues/3848#issuecomment-5225904344) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🗣 Commented on [#3848](https://github.com/k2-fsa/sherpa-onnx/issues/3848#issuecomment-5225824176) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-5. ❗ Opened issue [#40](https://github.com/CodeBySonu95/VoxSherpa-TTS/issues/40) in [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS)
+1. 🚀 Published release [v0.4.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+2. 🗣 Commented on [#43](https://github.com/AACTools/AACProcessors-nodejs/issues/43#issuecomment-5252734439) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. 🚀 Published release [v0.3.1](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.1) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. ❗ Opened issue [#3855](https://github.com/k2-fsa/sherpa-onnx/issues/3855) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+5. 🚀 Published release [v0.3.0](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.0) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
