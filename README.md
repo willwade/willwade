@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/dasher-project/Dasher-Windows/pull/22) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 🚀 Published release [v0.4.0](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.0) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-3. 🗣 Commented on [#43](https://github.com/AACTools/AACProcessors-nodejs/issues/43#issuecomment-5252734439) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 🚀 Published release [v0.3.1](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.1) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. ❗ Opened issue [#3855](https://github.com/k2-fsa/sherpa-onnx/issues/3855) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+1. 🚀 Published release [v0.1.13 — Single instance enforcement](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.13) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🎉 Merged PR [#23](https://github.com/dasher-project/Dasher-Windows/pull/23) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 💪 Opened PR [#23](https://github.com/dasher-project/Dasher-Windows/pull/23) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🚀 Published release [v0.1.12 — Tobii eye gaze support + input processing](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.12) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 🎉 Merged PR [#22](https://github.com/dasher-project/Dasher-Windows/pull/22) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
