@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/prime-radiant-inc/clipfan/pull/1) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
-2. 🚀 Published release [v0.3.2](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.2) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 🎉 Merged PR [#49](https://github.com/AACTools/AACProcessors-nodejs/pull/49) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 💪 Opened PR [#49](https://github.com/AACTools/AACProcessors-nodejs/pull/49) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. 🚀 Published release [v0.1.14](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.14) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 💪 Opened PR [#3](https://github.com/prime-radiant-inc/clipfan/pull/3) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
+2. 🎉 Merged PR [#1](https://github.com/prime-radiant-inc/clipfan/pull/1) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
+3. 🚀 Published release [v0.3.2](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.2) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 🎉 Merged PR [#49](https://github.com/AACTools/AACProcessors-nodejs/pull/49) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. 💪 Opened PR [#49](https://github.com/AACTools/AACProcessors-nodejs/pull/49) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
