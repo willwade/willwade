@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/prime-radiant-inc/clipfan/pull/1#issuecomment-5277511406) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
-2. 💪 Opened PR [#1](https://github.com/prime-radiant-inc/clipfan/pull/1) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
-3. ❌ Closed PR [#1](https://github.com/willwade/clipfan/pull/1) in [willwade/clipfan](https://github.com/willwade/clipfan)
-4. 💪 Opened PR [#1](https://github.com/willwade/clipfan/pull/1) in [willwade/clipfan](https://github.com/willwade/clipfan)
-5. 🚀 Published release [v0.1.13 — Single instance enforcement](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.13) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🎉 Merged PR [#24](https://github.com/dasher-project/Dasher-Windows/pull/24) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 💪 Opened PR [#24](https://github.com/dasher-project/Dasher-Windows/pull/24) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 🗣 Commented on [#1](https://github.com/prime-radiant-inc/clipfan/pull/1#issuecomment-5277511406) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
+4. 💪 Opened PR [#1](https://github.com/prime-radiant-inc/clipfan/pull/1) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
+5. ❌ Closed PR [#1](https://github.com/willwade/clipfan/pull/1) in [willwade/clipfan](https://github.com/willwade/clipfan)
 <!--END_SECTION:activity-->
