@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dasher-project/Dasher-Android/pull/7) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 💪 Opened PR [#7](https://github.com/dasher-project/Dasher-Android/pull/7) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5300806737) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
-4. ℹ️ Labeled issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
-5. ℹ️ Labeled issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
+1. 💪 Opened PR [#8](https://github.com/dasher-project/Dasher-Android/pull/8) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. 💪 Opened PR [#41](https://github.com/dasher-project/Dasher-GTK/pull/41) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#7](https://github.com/dasher-project/Dasher-Android/pull/7) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 💪 Opened PR [#7](https://github.com/dasher-project/Dasher-Android/pull/7) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5300806737) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
 <!--END_SECTION:activity-->
