@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
+1. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5300806737) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
 2. ℹ️ Labeled issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
-3. ❗ Opened issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
-4. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5295097562) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
-5. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5286974439) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
+3. ℹ️ Labeled issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
+4. ❗ Opened issue [#45](https://github.com/lesquel/open-remote-control/issues/45) in [lesquel/open-remote-control](https://github.com/lesquel/open-remote-control)
+5. 🗣 Commented on [#3](https://github.com/prime-radiant-inc/clipfan/pull/3#issuecomment-5295097562) in [prime-radiant-inc/clipfan](https://github.com/prime-radiant-inc/clipfan)
 <!--END_SECTION:activity-->
