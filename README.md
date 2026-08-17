@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/AACTools/rust-tts-wrapper/pull/19) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#19](https://github.com/AACTools/rust-tts-wrapper/pull/19) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❌ Closed PR [#18](https://github.com/AACTools/rust-tts-wrapper/pull/18) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#18](https://github.com/AACTools/rust-tts-wrapper/pull/18) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🚀 Published release [v0.3.17](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v0.3.17) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#1](https://github.com/AACTools/sherpa-onnx-tts-models/pull/1) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+2. 🎉 Merged PR [#19](https://github.com/AACTools/rust-tts-wrapper/pull/19) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#19](https://github.com/AACTools/rust-tts-wrapper/pull/19) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. ❌ Closed PR [#18](https://github.com/AACTools/rust-tts-wrapper/pull/18) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#18](https://github.com/AACTools/rust-tts-wrapper/pull/18) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
