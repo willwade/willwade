@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/AACTools/rust-tts-wrapper/pull/25) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#25](https://github.com/AACTools/rust-tts-wrapper/pull/25) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#3](https://github.com/AACTools/speechmarkdown-rust/pull/3) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-4. 🎉 Merged PR [#24](https://github.com/AACTools/rust-tts-wrapper/pull/24) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#3](https://github.com/AACTools/speechmarkdown-rust/pull/3) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+1. 🎉 Merged PR [#3](https://github.com/AACTools/VoiceGarden-SPD/pull/3) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+2. 🔒 Closed issue [#2](https://github.com/AACTools/VoiceGarden-SPD/issues/2) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+3. 🔒 Closed issue [#1](https://github.com/AACTools/VoiceGarden-SPD/issues/1) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+4. 🎉 Merged PR [#25](https://github.com/AACTools/rust-tts-wrapper/pull/25) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#25](https://github.com/AACTools/rust-tts-wrapper/pull/25) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
