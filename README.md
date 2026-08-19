@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.3](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.3) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-2. 🎉 Merged PR [#51](https://github.com/AACTools/AACProcessors-nodejs/pull/51) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 💪 Opened PR [#51](https://github.com/AACTools/AACProcessors-nodejs/pull/51) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 🎉 Merged PR [#50](https://github.com/AACTools/AACProcessors-nodejs/pull/50) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. 🚀 Published release [v0.3.1](https://github.com/AACTools/VoiceGarden-SPD/releases/tag/v0.3.1) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+1. 🚀 Published release [v0.3.4](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.4) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+2. 🎉 Merged PR [#52](https://github.com/AACTools/AACProcessors-nodejs/pull/52) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. 💪 Opened PR [#52](https://github.com/AACTools/AACProcessors-nodejs/pull/52) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 🚀 Published release [v0.3.3](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.3) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. 🎉 Merged PR [#51](https://github.com/AACTools/AACProcessors-nodejs/pull/51) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
