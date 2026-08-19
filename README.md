@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.4](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.4) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-2. 🎉 Merged PR [#52](https://github.com/AACTools/AACProcessors-nodejs/pull/52) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-3. 💪 Opened PR [#52](https://github.com/AACTools/AACProcessors-nodejs/pull/52) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-4. 🚀 Published release [v0.3.3](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.3) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
-5. 🎉 Merged PR [#51](https://github.com/AACTools/AACProcessors-nodejs/pull/51) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+1. 🚀 Published release [v0.6.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.6.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🎉 Merged PR [#12](https://github.com/AACTools/VoiceGarden-SAPI/pull/12) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+3. 💪 Opened PR [#12](https://github.com/AACTools/VoiceGarden-SAPI/pull/12) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 🎉 Merged PR [#11](https://github.com/AACTools/VoiceGarden-SAPI/pull/11) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 💪 Opened PR [#11](https://github.com/AACTools/VoiceGarden-SAPI/pull/11) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
