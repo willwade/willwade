@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/AACTools/rust-tts-wrapper/pull/27) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#27](https://github.com/AACTools/rust-tts-wrapper/pull/27) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#10](https://github.com/dasher-project/.github/pull/10) in [dasher-project/.github](https://github.com/dasher-project/.github)
-4. 💪 Opened PR [#10](https://github.com/dasher-project/.github/pull/10) in [dasher-project/.github](https://github.com/dasher-project/.github)
-5. 🎉 Merged PR [#26](https://github.com/AACTools/rust-tts-wrapper/pull/26) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#27](https://github.com/dasher-project/governance/pull/27) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 💪 Opened PR [#25](https://github.com/dasher-project/Dasher-Windows/pull/25) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 💪 Opened PR [#11](https://github.com/dasher-project/Dasher-Android/pull/11) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 💪 Opened PR [#33](https://github.com/dasher-project/Dasher-Apple/pull/33) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 🎉 Merged PR [#5](https://github.com/AACTools/VoiceGarden-SPD/pull/5) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
 <!--END_SECTION:activity-->
