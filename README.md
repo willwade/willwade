@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/AACTools/rust-tts-wrapper/pull/26) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#26](https://github.com/AACTools/rust-tts-wrapper/pull/26) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#3731](https://github.com/k2-fsa/sherpa-onnx/issues/3731#issuecomment-5352751611) in [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
-4. 🚀 Published release [v0.6.0](https://github.com/AACTools/VoiceGarden-SAPI/releases/tag/v0.6.0) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🎉 Merged PR [#14](https://github.com/AACTools/VoiceGarden-SAPI/pull/14) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 💪 Opened PR [#27](https://github.com/AACTools/rust-tts-wrapper/pull/27) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#10](https://github.com/dasher-project/.github/pull/10) in [dasher-project/.github](https://github.com/dasher-project/.github)
+3. 💪 Opened PR [#10](https://github.com/dasher-project/.github/pull/10) in [dasher-project/.github](https://github.com/dasher-project/.github)
+4. 🎉 Merged PR [#26](https://github.com/AACTools/rust-tts-wrapper/pull/26) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#26](https://github.com/AACTools/rust-tts-wrapper/pull/26) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
