@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/dasher-project/governance/pull/27) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. 🎉 Merged PR [#26](https://github.com/dasher-project/governance/pull/26) in [dasher-project/governance](https://github.com/dasher-project/governance)
-3. 🚀 Published release [v0.1.6](https://github.com/dasher-project/Dasher-Android/releases/tag/v0.1.6) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 🎉 Merged PR [#11](https://github.com/dasher-project/Dasher-Android/pull/11) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-5. 🎉 Merged PR [#4](https://github.com/dasher-project/Dasher-Android/pull/4) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 🚀 Published release [v0.2.6](https://github.com/dasher-project/Dasher-GTK/releases/tag/v0.2.6) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🎉 Merged PR [#48](https://github.com/dasher-project/Dasher-GTK/pull/48) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#27](https://github.com/dasher-project/governance/pull/27) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🎉 Merged PR [#26](https://github.com/dasher-project/governance/pull/26) in [dasher-project/governance](https://github.com/dasher-project/governance)
+5. 🚀 Published release [v0.1.6](https://github.com/dasher-project/Dasher-Android/releases/tag/v0.1.6) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
 <!--END_SECTION:activity-->
