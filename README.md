@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [floravox v0.8.2](https://github.com/AACTools/floravox/releases/tag/v0.8.2) in [AACTools/floravox](https://github.com/AACTools/floravox)
-2. 🎉 Merged PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#8](https://github.com/AACTools/VoiceGarden-SPD/issues/8#issuecomment-5366959278) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
-5. 🔒 Closed issue [#8](https://github.com/AACTools/VoiceGarden-SPD/issues/8) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+1. 💪 Opened PR [#28](https://github.com/dasher-project/governance/pull/28) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 💪 Opened PR [#51](https://github.com/dasher-project/Dasher-GTK/pull/51) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🚀 Published release [floravox v0.8.2](https://github.com/AACTools/floravox/releases/tag/v0.8.2) in [AACTools/floravox](https://github.com/AACTools/floravox)
+4. 🎉 Merged PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
