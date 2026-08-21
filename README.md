@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/dasher-project/governance/pull/28) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. 💪 Opened PR [#51](https://github.com/dasher-project/Dasher-GTK/pull/51) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 🚀 Published release [floravox v0.8.2](https://github.com/AACTools/floravox/releases/tag/v0.8.2) in [AACTools/floravox](https://github.com/AACTools/floravox)
-4. 🎉 Merged PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. ❗ Opened issue [#13](https://github.com/dasher-project/Dasher-Android/issues/13) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. ❗ Opened issue [#34](https://github.com/dasher-project/Dasher-Apple/issues/34) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. ❗ Opened issue [#27](https://github.com/dasher-project/Dasher-Windows/issues/27) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. ❗ Opened issue [#26](https://github.com/dasher-project/Dasher-Windows/issues/26) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 💪 Opened PR [#55](https://github.com/dasher-project/DasherCore/pull/55) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
