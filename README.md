@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/dasher-project/Dasher-Android/issues/13) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. ❗ Opened issue [#34](https://github.com/dasher-project/Dasher-Apple/issues/34) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. ❗ Opened issue [#27](https://github.com/dasher-project/Dasher-Windows/issues/27) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. ❗ Opened issue [#26](https://github.com/dasher-project/Dasher-Windows/issues/26) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#55](https://github.com/dasher-project/DasherCore/pull/55) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🗣 Commented on [#51](https://github.com/dasher-project/Dasher-GTK/pull/51#issuecomment-5375887763) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. ❗ Opened issue [#52](https://github.com/dasher-project/Dasher-GTK/issues/52) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 💪 Opened PR [#14](https://github.com/dasher-project/Dasher-Android/pull/14) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 🚀 Published release [v0.2.3](https://github.com/dasher-project/DasherCore/releases/tag/v0.2.3) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 🎉 Merged PR [#55](https://github.com/dasher-project/DasherCore/pull/55) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
