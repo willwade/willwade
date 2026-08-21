@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/AACTools/rust-tts-wrapper/issues/31) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🔒 Closed issue [#1](https://github.com/AACTools/floravox/issues/1) in [AACTools/floravox](https://github.com/AACTools/floravox)
-3. 🎉 Merged PR [#30](https://github.com/AACTools/rust-tts-wrapper/pull/30) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🔒 Closed issue [#29](https://github.com/AACTools/rust-tts-wrapper/issues/29) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#30](https://github.com/AACTools/rust-tts-wrapper/pull/30) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🔒 Closed issue [#31](https://github.com/AACTools/rust-tts-wrapper/issues/31) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ℹ️ Labeled issue [#12](https://github.com/dasher-project/Dasher-Android/issues/12) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. ❗ Opened issue [#12](https://github.com/dasher-project/Dasher-Android/issues/12) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. ❗ Opened issue [#31](https://github.com/AACTools/rust-tts-wrapper/issues/31) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🔒 Closed issue [#1](https://github.com/AACTools/floravox/issues/1) in [AACTools/floravox](https://github.com/AACTools/floravox)
 <!--END_SECTION:activity-->
