@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/AACTools/rust-tts-wrapper/issues/31) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. ℹ️ Labeled issue [#12](https://github.com/dasher-project/Dasher-Android/issues/12) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. ❗ Opened issue [#12](https://github.com/dasher-project/Dasher-Android/issues/12) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. ❗ Opened issue [#31](https://github.com/AACTools/rust-tts-wrapper/issues/31) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🔒 Closed issue [#1](https://github.com/AACTools/floravox/issues/1) in [AACTools/floravox](https://github.com/AACTools/floravox)
+1. 💪 Opened PR [#32](https://github.com/AACTools/rust-tts-wrapper/pull/32) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🗣 Commented on [#8](https://github.com/AACTools/VoiceGarden-SPD/issues/8#issuecomment-5366959278) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+3. 🔒 Closed issue [#8](https://github.com/AACTools/VoiceGarden-SPD/issues/8) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+4. 🔒 Closed issue [#7](https://github.com/AACTools/VoiceGarden-SPD/issues/7) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
+5. 🗣 Commented on [#7](https://github.com/AACTools/VoiceGarden-SPD/issues/7#issuecomment-5366958762) in [AACTools/VoiceGarden-SPD](https://github.com/AACTools/VoiceGarden-SPD)
 <!--END_SECTION:activity-->
