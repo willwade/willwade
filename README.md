@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.8 — real text metrics + version line](https://github.com/dasher-project/Dasher-Android/releases/tag/v0.1.8) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 🎉 Merged PR [#20](https://github.com/dasher-project/Dasher-Android/pull/20) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 💪 Opened PR [#20](https://github.com/dasher-project/Dasher-Android/pull/20) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 🎉 Merged PR [#19](https://github.com/dasher-project/Dasher-Android/pull/19) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-5. 🔒 Closed issue [#17](https://github.com/dasher-project/Dasher-Android/issues/17) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 🎉 Merged PR [#21](https://github.com/dasher-project/Dasher-Android/pull/21) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. 💪 Opened PR [#21](https://github.com/dasher-project/Dasher-Android/pull/21) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. 💪 Opened PR [#56](https://github.com/dasher-project/Dasher-GTK/pull/56) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🚀 Published release [v0.1.8 — real text metrics + version line](https://github.com/dasher-project/Dasher-Android/releases/tag/v0.1.8) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 🎉 Merged PR [#20](https://github.com/dasher-project/Dasher-Android/pull/20) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
 <!--END_SECTION:activity-->
