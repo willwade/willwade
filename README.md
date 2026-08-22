@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/dasher-project/DasherCore/pull/57#issuecomment-5379058155) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 💪 Opened PR [#57](https://github.com/dasher-project/DasherCore/pull/57) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. ❗ Opened issue [#15](https://github.com/dasher-project/Dasher-Android/issues/15) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. ❗ Opened issue [#28](https://github.com/dasher-project/Dasher-Windows/issues/28) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 🗣 Commented on [#26](https://github.com/dasher-project/Dasher-Windows/issues/26#issuecomment-5378607330) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 💪 Opened PR [#53](https://github.com/dasher-project/Dasher-GTK/pull/53) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🚀 Published release [v0.2.4](https://github.com/dasher-project/DasherCore/releases/tag/v0.2.4) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🎉 Merged PR [#57](https://github.com/dasher-project/DasherCore/pull/57) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🔒 Closed issue [#56](https://github.com/dasher-project/DasherCore/issues/56) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 🗣 Commented on [#57](https://github.com/dasher-project/DasherCore/pull/57#issuecomment-5379058155) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
