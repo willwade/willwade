@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/dasher-project/Dasher-Apple/pull/38) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🔒 Closed issue [#29](https://github.com/dasher-project/Dasher-Apple/issues/29) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 🎉 Merged PR [#37](https://github.com/dasher-project/Dasher-Apple/pull/37) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 🔒 Closed issue [#35](https://github.com/dasher-project/Dasher-Apple/issues/35) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🔒 Closed issue [#34](https://github.com/dasher-project/Dasher-Apple/issues/34) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🚀 Published release [v0.1.9-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.9-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+2. 🎉 Merged PR [#39](https://github.com/dasher-project/Dasher-Apple/pull/39) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 💪 Opened PR [#39](https://github.com/dasher-project/Dasher-Apple/pull/39) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 🗣 Commented on [#12](https://github.com/dasher-project/Dasher-Android/issues/12#issuecomment-5400170114) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 🔒 Closed issue [#12](https://github.com/dasher-project/Dasher-Android/issues/12) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
 <!--END_SECTION:activity-->
