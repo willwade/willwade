@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/dasher-project/Dasher-Windows/pull/41) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 🎉 Merged PR [#65](https://github.com/dasher-project/DasherCore/pull/65) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 🔒 Closed issue [#64](https://github.com/dasher-project/DasherCore/issues/64) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#65](https://github.com/dasher-project/DasherCore/pull/65) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. ❗ Opened issue [#1](https://github.com/remorses/openplexer/issues/1) in [remorses/openplexer](https://github.com/remorses/openplexer)
+1. 🎉 Merged PR [#41](https://github.com/dasher-project/Dasher-Windows/pull/41) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 💪 Opened PR [#41](https://github.com/dasher-project/Dasher-Windows/pull/41) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 🎉 Merged PR [#65](https://github.com/dasher-project/DasherCore/pull/65) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🔒 Closed issue [#64](https://github.com/dasher-project/DasherCore/issues/64) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#65](https://github.com/dasher-project/DasherCore/pull/65) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
