@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/dasher-project/Dasher-Android/pull/32) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 🎉 Merged PR [#74](https://github.com/dasher-project/DasherCore/pull/74) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 💪 Opened PR [#74](https://github.com/dasher-project/DasherCore/pull/74) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 🎉 Merged PR [#3](https://github.com/AACTools/floravox/pull/3) in [AACTools/floravox](https://github.com/AACTools/floravox)
-5. 💪 Opened PR [#3](https://github.com/AACTools/floravox/pull/3) in [AACTools/floravox](https://github.com/AACTools/floravox)
+1. 💪 Opened PR [#76](https://github.com/dasher-project/DasherCore/pull/76) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#72](https://github.com/dasher-project/Dasher-GTK/pull/72) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#75](https://github.com/dasher-project/DasherCore/pull/75) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🎉 Merged PR [#32](https://github.com/dasher-project/Dasher-Android/pull/32) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 💪 Opened PR [#75](https://github.com/dasher-project/DasherCore/pull/75) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
