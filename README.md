@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.1.1) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-2. 🚀 Published release [v0.0.36](https://github.com/AACTools/WorldAlphabets/releases/tag/v0.0.36) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-3. 🎉 Merged PR [#63](https://github.com/AACTools/WorldAlphabets/pull/63) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-4. 🎉 Merged PR [#64](https://github.com/AACTools/WorldAlphabets/pull/64) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
-5. 🗣 Commented on [#63](https://github.com/AACTools/WorldAlphabets/pull/63#issuecomment-5461009860) in [AACTools/WorldAlphabets](https://github.com/AACTools/WorldAlphabets)
+1. 🎉 Merged PR [#3](https://github.com/AACTools/floravox/pull/3) in [AACTools/floravox](https://github.com/AACTools/floravox)
+2. 💪 Opened PR [#3](https://github.com/AACTools/floravox/pull/3) in [AACTools/floravox](https://github.com/AACTools/floravox)
+3. 💪 Opened PR [#72](https://github.com/dasher-project/Dasher-GTK/pull/72) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🎉 Merged PR [#73](https://github.com/dasher-project/DasherCore/pull/73) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 🎉 Merged PR [#71](https://github.com/dasher-project/DasherCore/pull/71) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
