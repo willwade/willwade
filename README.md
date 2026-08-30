@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/dasher-project/Dasher-Apple/pull/51) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 💪 Opened PR [#51](https://github.com/dasher-project/Dasher-Apple/pull/51) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 🚀 Published release [v0.1.24](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.24) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 🎉 Merged PR [#44](https://github.com/dasher-project/Dasher-Windows/pull/44) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 🎉 Merged PR [#50](https://github.com/dasher-project/Dasher-Apple/pull/50) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 💪 Opened PR [#42](https://github.com/dasher-project/website/pull/42) in [dasher-project/website](https://github.com/dasher-project/website)
+2. 🚀 Published release [v0.2.0 — 90 languages, script alphabets, v6 catalogue banner](https://github.com/dasher-project/dasher-web/releases/tag/v0.2.0) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+3. 🎉 Merged PR [#152](https://github.com/dasher-project/dasher-web/pull/152) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+4. 💪 Opened PR [#152](https://github.com/dasher-project/dasher-web/pull/152) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. 🎉 Merged PR [#40](https://github.com/dasher-project/website/pull/40) in [dasher-project/website](https://github.com/dasher-project/website)
 <!--END_SECTION:activity-->
