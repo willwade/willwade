@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/dasher-project/website/pull/42) in [dasher-project/website](https://github.com/dasher-project/website)
-2. 🚀 Published release [v0.2.0 — 90 languages, script alphabets, v6 catalogue banner](https://github.com/dasher-project/dasher-web/releases/tag/v0.2.0) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-3. 🎉 Merged PR [#152](https://github.com/dasher-project/dasher-web/pull/152) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. 💪 Opened PR [#152](https://github.com/dasher-project/dasher-web/pull/152) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-5. 🎉 Merged PR [#40](https://github.com/dasher-project/website/pull/40) in [dasher-project/website](https://github.com/dasher-project/website)
+1. 🗣 Commented on [#42](https://github.com/dasher-project/website/pull/42#issuecomment-5471424333) in [dasher-project/website](https://github.com/dasher-project/website)
+2. ❌ Closed PR [#134](https://github.com/dasher-project/dasher-web/pull/134) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+3. 🗣 Commented on [#134](https://github.com/dasher-project/dasher-web/pull/134#issuecomment-5471416209) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+4. ❌ Closed PR [#135](https://github.com/dasher-project/dasher-web/pull/135) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. 🗣 Commented on [#135](https://github.com/dasher-project/dasher-web/pull/135#issuecomment-5471416067) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
 <!--END_SECTION:activity-->
