@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/dasher-project/Dasher-Apple/pull/52) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🎉 Merged PR [#79](https://github.com/dasher-project/Dasher-GTK/pull/79) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 💪 Opened PR [#52](https://github.com/dasher-project/Dasher-Apple/pull/52) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 💪 Opened PR [#79](https://github.com/dasher-project/Dasher-GTK/pull/79) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🎉 Merged PR [#78](https://github.com/dasher-project/Dasher-GTK/pull/78) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🚀 Published release [v0.8.4 — C FFI Voice Listing & macOS QoS Alignment](https://github.com/AACTools/floravox/releases/tag/v0.8.4) in [AACTools/floravox](https://github.com/AACTools/floravox)
+2. 🚀 Published release [v0.8.3](https://github.com/AACTools/floravox/releases/tag/v0.8.3) in [AACTools/floravox](https://github.com/AACTools/floravox)
+3. 🎉 Merged PR [#4](https://github.com/AACTools/floravox/pull/4) in [AACTools/floravox](https://github.com/AACTools/floravox)
+4. 💪 Opened PR [#4](https://github.com/AACTools/floravox/pull/4) in [AACTools/floravox](https://github.com/AACTools/floravox)
+5. 🎉 Merged PR [#52](https://github.com/dasher-project/Dasher-Apple/pull/52) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
 <!--END_SECTION:activity-->
