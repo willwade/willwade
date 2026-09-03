@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/AACTools/VoiceGarden-SAPI/pull/16) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. ❗ Opened issue [#15](https://github.com/AACTools/VoiceGarden-SAPI/issues/15) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-3. 🚀 Published release [v0.8.4 — C FFI Voice Listing & macOS QoS Alignment](https://github.com/AACTools/floravox/releases/tag/v0.8.4) in [AACTools/floravox](https://github.com/AACTools/floravox)
-4. 🚀 Published release [v0.8.3](https://github.com/AACTools/floravox/releases/tag/v0.8.3) in [AACTools/floravox](https://github.com/AACTools/floravox)
-5. 🎉 Merged PR [#4](https://github.com/AACTools/floravox/pull/4) in [AACTools/floravox](https://github.com/AACTools/floravox)
+1. 🎉 Merged PR [#33](https://github.com/AACTools/rust-tts-wrapper/pull/33) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#2](https://github.com/willwade/mms-tts-multilingual-models-onnx/issues/2) in [willwade/mms-tts-multilingual-models-onnx](https://github.com/willwade/mms-tts-multilingual-models-onnx)
+3. 💪 Opened PR [#33](https://github.com/AACTools/rust-tts-wrapper/pull/33) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 💪 Opened PR [#16](https://github.com/AACTools/VoiceGarden-SAPI/pull/16) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. ❗ Opened issue [#15](https://github.com/AACTools/VoiceGarden-SAPI/issues/15) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
