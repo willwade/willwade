@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/dasher-project/Dasher-Android/issues/6#issuecomment-5532839171) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 🎉 Merged PR [#33](https://github.com/AACTools/rust-tts-wrapper/pull/33) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#2](https://github.com/willwade/mms-tts-multilingual-models-onnx/issues/2) in [willwade/mms-tts-multilingual-models-onnx](https://github.com/willwade/mms-tts-multilingual-models-onnx)
-4. 💪 Opened PR [#33](https://github.com/AACTools/rust-tts-wrapper/pull/33) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#16](https://github.com/AACTools/VoiceGarden-SAPI/pull/16) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. ℹ️ Labeled issue [#34](https://github.com/dasher-project/Dasher-Android/issues/34) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. ❗ Opened issue [#34](https://github.com/dasher-project/Dasher-Android/issues/34) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. 🗣 Commented on [#6](https://github.com/dasher-project/Dasher-Android/issues/6#issuecomment-5532839171) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 🎉 Merged PR [#33](https://github.com/AACTools/rust-tts-wrapper/pull/33) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. ❗ Opened issue [#2](https://github.com/willwade/mms-tts-multilingual-models-onnx/issues/2) in [willwade/mms-tts-multilingual-models-onnx](https://github.com/willwade/mms-tts-multilingual-models-onnx)
 <!--END_SECTION:activity-->
