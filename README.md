@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/AACTools/rust-tts-wrapper/pull/36) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-4. 💪 Opened PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-5. 💪 Opened PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#27](https://github.com/dasher-project/Dasher-Android/issues/27#issuecomment-5547170249) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. 🔒 Closed issue [#27](https://github.com/dasher-project/Dasher-Android/issues/27) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. 🗣 Commented on [#28](https://github.com/dasher-project/Dasher-Android/issues/28#issuecomment-5547166973) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 🔒 Closed issue [#28](https://github.com/dasher-project/Dasher-Android/issues/28) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. ℹ️ Labeled issue [#35](https://github.com/dasher-project/Dasher-Android/issues/35) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
 <!--END_SECTION:activity-->
