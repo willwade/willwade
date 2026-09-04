@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-3. 💪 Opened PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
-4. 💪 Opened PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🎉 Merged PR [#34](https://github.com/AACTools/rust-tts-wrapper/pull/34) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#36](https://github.com/AACTools/rust-tts-wrapper/pull/36) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🎉 Merged PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+4. 💪 Opened PR [#5](https://github.com/AACTools/speechmarkdown-rust/pull/5) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+5. 💪 Opened PR [#35](https://github.com/AACTools/rust-tts-wrapper/pull/35) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
