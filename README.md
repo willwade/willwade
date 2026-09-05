@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/dasher-project/DasherCore/pull/82#issuecomment-5552187932) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🗣 Commented on [#81](https://github.com/dasher-project/DasherCore/pull/81#issuecomment-5552187828) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 💪 Opened PR [#82](https://github.com/dasher-project/DasherCore/pull/82) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 🎉 Merged PR [#81](https://github.com/dasher-project/Dasher-GTK/pull/81) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 💪 Opened PR [#81](https://github.com/dasher-project/Dasher-GTK/pull/81) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🎉 Merged PR [#82](https://github.com/dasher-project/DasherCore/pull/82) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🗣 Commented on [#82](https://github.com/dasher-project/DasherCore/pull/82#issuecomment-5552187932) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🗣 Commented on [#81](https://github.com/dasher-project/DasherCore/pull/81#issuecomment-5552187828) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 💪 Opened PR [#82](https://github.com/dasher-project/DasherCore/pull/82) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 🎉 Merged PR [#81](https://github.com/dasher-project/Dasher-GTK/pull/81) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
