@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. ℹ️ Reopened PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. ❌ Closed PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 🎉 Merged PR [#54](https://github.com/dasher-project/Dasher-Windows/pull/54) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🚀 Published release [v0.1.26](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.26) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🎉 Merged PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. ℹ️ Reopened PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. ❌ Closed PR [#55](https://github.com/dasher-project/Dasher-Windows/pull/55) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 🎉 Merged PR [#54](https://github.com/dasher-project/Dasher-Windows/pull/54) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
