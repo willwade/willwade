@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/AACTools/rust-tts-wrapper/pull/37) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🗣 Commented on [#84](https://github.com/dasher-project/Dasher-GTK/pull/84#issuecomment-5592763500) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. ❗ Opened issue [#87](https://github.com/dasher-project/DasherCore/issues/87) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#84](https://github.com/dasher-project/Dasher-GTK/pull/84) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 💪 Opened PR [#38](https://github.com/dasher-project/Dasher-Android/pull/38) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 🎉 Merged PR [#37](https://github.com/AACTools/rust-tts-wrapper/pull/37) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#37](https://github.com/AACTools/rust-tts-wrapper/pull/37) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🗣 Commented on [#84](https://github.com/dasher-project/Dasher-GTK/pull/84#issuecomment-5592763500) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. ❗ Opened issue [#87](https://github.com/dasher-project/DasherCore/issues/87) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#84](https://github.com/dasher-project/Dasher-GTK/pull/84) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
