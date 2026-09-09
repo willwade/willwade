@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/AACTools/rust-tts-wrapper/pull/40) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#40](https://github.com/AACTools/rust-tts-wrapper/pull/40) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#38](https://github.com/dasher-project/governance/pull/38) in [dasher-project/governance](https://github.com/dasher-project/governance)
-4. 🎉 Merged PR [#39](https://github.com/AACTools/rust-tts-wrapper/pull/39) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#39](https://github.com/AACTools/rust-tts-wrapper/pull/39) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🎉 Merged PR [#39](https://github.com/dasher-project/governance/pull/39) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 🗣 Commented on [#39](https://github.com/dasher-project/governance/pull/39#issuecomment-5608977142) in [dasher-project/governance](https://github.com/dasher-project/governance)
+3. 💪 Opened PR [#39](https://github.com/dasher-project/governance/pull/39) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🗣 Commented on [#38](https://github.com/dasher-project/governance/pull/38#issuecomment-5608935660) in [dasher-project/governance](https://github.com/dasher-project/governance)
+5. 🎉 Merged PR [#40](https://github.com/AACTools/rust-tts-wrapper/pull/40) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
