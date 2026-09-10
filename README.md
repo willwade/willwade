@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/dasher-project/Dasher-Android/pull/42) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 🎉 Merged PR [#87](https://github.com/dasher-project/Dasher-GTK/pull/87) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 💪 Opened PR [#88](https://github.com/dasher-project/Dasher-GTK/pull/88) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 💪 Opened PR [#41](https://github.com/dasher-project/Dasher-Android/pull/41) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-5. 🗣 Commented on [#86](https://github.com/dasher-project/Dasher-GTK/pull/86#issuecomment-5625310369) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🗣 Commented on [#9](https://github.com/Ampixa/sanoTTS/issues/9#issuecomment-5626649889) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
+2. 🔒 Closed issue [#9](https://github.com/Ampixa/sanoTTS/issues/9) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
+3. ❗ Opened issue [#9](https://github.com/Ampixa/sanoTTS/issues/9) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
+4. 💪 Opened PR [#89](https://github.com/dasher-project/Dasher-GTK/pull/89) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 💪 Opened PR [#88](https://github.com/dasher-project/DasherCore/pull/88) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
