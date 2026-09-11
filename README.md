@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Ampixa/sanoTTS/issues/9#issuecomment-5626649889) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
-2. 🔒 Closed issue [#9](https://github.com/Ampixa/sanoTTS/issues/9) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
-3. ❗ Opened issue [#9](https://github.com/Ampixa/sanoTTS/issues/9) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
-4. 💪 Opened PR [#89](https://github.com/dasher-project/Dasher-GTK/pull/89) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 💪 Opened PR [#88](https://github.com/dasher-project/DasherCore/pull/88) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🗣 Commented on [#59](https://github.com/dasher-project/Dasher-Windows/issues/59#issuecomment-5630760057) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 💪 Opened PR [#63](https://github.com/dasher-project/Dasher-Windows/pull/63) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 💪 Opened PR [#62](https://github.com/dasher-project/Dasher-Windows/pull/62) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 💪 Opened PR [#61](https://github.com/dasher-project/Dasher-Windows/pull/61) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 🗣 Commented on [#50](https://github.com/dasher-project/Dasher-Windows/issues/50#issuecomment-5630506018) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
