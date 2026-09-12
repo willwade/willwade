@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/dasher-project/Dasher-Apple/pull/54) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🗣 Commented on [#42](https://github.com/dasher-project/Dasher-Android/pull/42#issuecomment-5648616289) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 🗣 Commented on [#41](https://github.com/dasher-project/Dasher-Android/pull/41#issuecomment-5648616220) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 💪 Opened PR [#90](https://github.com/dasher-project/Dasher-GTK/pull/90) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🎉 Merged PR [#64](https://github.com/dasher-project/Dasher-Windows/pull/64) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🗣 Commented on [#90](https://github.com/dasher-project/Dasher-GTK/pull/90#issuecomment-5649218784) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 💪 Opened PR [#54](https://github.com/dasher-project/Dasher-Apple/pull/54) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 🗣 Commented on [#42](https://github.com/dasher-project/Dasher-Android/pull/42#issuecomment-5648616289) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 🗣 Commented on [#41](https://github.com/dasher-project/Dasher-Android/pull/41#issuecomment-5648616220) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 💪 Opened PR [#90](https://github.com/dasher-project/Dasher-GTK/pull/90) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
