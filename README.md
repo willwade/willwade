@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/dasher-project/Dasher-Android/pull/68) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 💪 Opened PR [#68](https://github.com/dasher-project/Dasher-Android/pull/68) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 🎉 Merged PR [#97](https://github.com/dasher-project/DasherCore/pull/97) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 💪 Opened PR [#97](https://github.com/dasher-project/DasherCore/pull/97) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 🎉 Merged PR [#67](https://github.com/dasher-project/Dasher-Android/pull/67) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 🗣 Commented on [#16](https://github.com/AACTools/VoiceGarden-SAPI/pull/16#issuecomment-5745459756) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🎉 Merged PR [#68](https://github.com/dasher-project/Dasher-Android/pull/68) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+3. 💪 Opened PR [#68](https://github.com/dasher-project/Dasher-Android/pull/68) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 🎉 Merged PR [#97](https://github.com/dasher-project/DasherCore/pull/97) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#97](https://github.com/dasher-project/DasherCore/pull/97) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
