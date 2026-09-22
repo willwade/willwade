@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🎉 Merged PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 💪 Opened PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 💪 Opened PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 🎉 Merged PR [#44](https://github.com/dasher-project/governance/pull/44) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 💪 Opened PR [#99](https://github.com/dasher-project/DasherCore/pull/99) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🎉 Merged PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. 💪 Opened PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 💪 Opened PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
