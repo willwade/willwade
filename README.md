@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/dasher-project/DasherCore/pull/99) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🎉 Merged PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 🎉 Merged PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. 💪 Opened PR [#69](https://github.com/dasher-project/Dasher-Android/pull/69) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-5. 💪 Opened PR [#98](https://github.com/dasher-project/DasherCore/pull/98) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🎉 Merged PR [#41](https://github.com/AACTools/rust-tts-wrapper/pull/41) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#7](https://github.com/AACTools/speechmarkdown-rust/pull/7) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+3. 💪 Opened PR [#7](https://github.com/AACTools/speechmarkdown-rust/pull/7) in [AACTools/speechmarkdown-rust](https://github.com/AACTools/speechmarkdown-rust)
+4. 💪 Opened PR [#41](https://github.com/AACTools/rust-tts-wrapper/pull/41) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#99](https://github.com/dasher-project/DasherCore/pull/99) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
