@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/AACTools/rust-tts-wrapper/pull/46) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5832079082) in [sonos/tract](https://github.com/sonos/tract)
-5. 💪 Opened PR [#2932](https://github.com/sonos/tract/pull/2932) in [sonos/tract](https://github.com/sonos/tract)
+1. 🚀 Published release [v1.3.0 — Qwen engine, voice cloning, AWS Polly](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.3.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#46](https://github.com/AACTools/rust-tts-wrapper/pull/46) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#46](https://github.com/AACTools/rust-tts-wrapper/pull/46) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
