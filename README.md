@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5832079082) in [sonos/tract](https://github.com/sonos/tract)
-2. 💪 Opened PR [#2932](https://github.com/sonos/tract/pull/2932) in [sonos/tract](https://github.com/sonos/tract)
-3. ❗ Opened issue [#2931](https://github.com/sonos/tract/issues/2931) in [sonos/tract](https://github.com/sonos/tract)
-4. 💪 Opened PR [#2929](https://github.com/sonos/tract/pull/2929) in [sonos/tract](https://github.com/sonos/tract)
-5. ❗ Opened issue [#2928](https://github.com/sonos/tract/issues/2928) in [sonos/tract](https://github.com/sonos/tract)
+1. 💪 Opened PR [#46](https://github.com/AACTools/rust-tts-wrapper/pull/46) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#45](https://github.com/AACTools/rust-tts-wrapper/pull/45) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5832079082) in [sonos/tract](https://github.com/sonos/tract)
+5. 💪 Opened PR [#2932](https://github.com/sonos/tract/pull/2932) in [sonos/tract](https://github.com/sonos/tract)
 <!--END_SECTION:activity-->
