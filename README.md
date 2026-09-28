@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2942](https://github.com/sonos/tract/pull/2942) in [sonos/tract](https://github.com/sonos/tract)
-2. 💪 Opened PR [#2941](https://github.com/sonos/tract/pull/2941) in [sonos/tract](https://github.com/sonos/tract)
-3. 💪 Opened PR [#2940](https://github.com/sonos/tract/pull/2940) in [sonos/tract](https://github.com/sonos/tract)
-4. 🗣 Commented on [#2929](https://github.com/sonos/tract/pull/2929#issuecomment-5867048238) in [sonos/tract](https://github.com/sonos/tract)
-5. 🚀 Published release [v1.3.0 — Qwen engine, voice cloning, AWS Polly](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.3.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5875235751) in [sonos/tract](https://github.com/sonos/tract)
+2. 💪 Opened PR [#2942](https://github.com/sonos/tract/pull/2942) in [sonos/tract](https://github.com/sonos/tract)
+3. 💪 Opened PR [#2941](https://github.com/sonos/tract/pull/2941) in [sonos/tract](https://github.com/sonos/tract)
+4. 💪 Opened PR [#2940](https://github.com/sonos/tract/pull/2940) in [sonos/tract](https://github.com/sonos/tract)
+5. 🗣 Commented on [#2929](https://github.com/sonos/tract/pull/2929#issuecomment-5867048238) in [sonos/tract](https://github.com/sonos/tract)
 <!--END_SECTION:activity-->
