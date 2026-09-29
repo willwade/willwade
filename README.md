@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5877623774) in [sonos/tract](https://github.com/sonos/tract)
-2. 🗣 Commented on [#2928](https://github.com/sonos/tract/issues/2928#issuecomment-5877623806) in [sonos/tract](https://github.com/sonos/tract)
-3. 🗣 Commented on [#2932](https://github.com/sonos/tract/pull/2932#issuecomment-5877623961) in [sonos/tract](https://github.com/sonos/tract)
-4. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5875235751) in [sonos/tract](https://github.com/sonos/tract)
-5. 💪 Opened PR [#2942](https://github.com/sonos/tract/pull/2942) in [sonos/tract](https://github.com/sonos/tract)
+1. 🎉 Merged PR [#2942](https://github.com/sonos/tract/pull/2942) in [sonos/tract](https://github.com/sonos/tract)
+2. 🎉 Merged PR [#2941](https://github.com/sonos/tract/pull/2941) in [sonos/tract](https://github.com/sonos/tract)
+3. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5886825857) in [sonos/tract](https://github.com/sonos/tract)
+4. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5886551975) in [sonos/tract](https://github.com/sonos/tract)
+5. 🗣 Commented on [#2941](https://github.com/sonos/tract/pull/2941#issuecomment-5877623774) in [sonos/tract](https://github.com/sonos/tract)
 <!--END_SECTION:activity-->
