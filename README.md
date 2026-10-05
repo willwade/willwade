@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2959](https://github.com/sonos/tract/pull/2959#issuecomment-5969146489) in [sonos/tract](https://github.com/sonos/tract)
-2. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5960055090) in [sonos/tract](https://github.com/sonos/tract)
-3. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5953774848) in [sonos/tract](https://github.com/sonos/tract)
-4. 💪 Opened PR [#2959](https://github.com/sonos/tract/pull/2959) in [sonos/tract](https://github.com/sonos/tract)
-5. 🗣 Commented on [#2929](https://github.com/sonos/tract/pull/2929#issuecomment-5952462773) in [sonos/tract](https://github.com/sonos/tract)
+1. 🚀 Published release [v0.3.7](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.7) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+2. 🚀 Published release [v0.3.6](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.6) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. 🚀 Published release [v0.3.5](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.3.5) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 🗣 Commented on [#2959](https://github.com/sonos/tract/pull/2959#issuecomment-5969146489) in [sonos/tract](https://github.com/sonos/tract)
+5. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-5960055090) in [sonos/tract](https://github.com/sonos/tract)
 <!--END_SECTION:activity-->
