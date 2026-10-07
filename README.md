@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2959](https://github.com/sonos/tract/pull/2959) in [sonos/tract](https://github.com/sonos/tract)
-2. 💪 Opened PR [#2967](https://github.com/sonos/tract/pull/2967) in [sonos/tract](https://github.com/sonos/tract)
-3. 🗣 Commented on [#2959](https://github.com/sonos/tract/pull/2959#issuecomment-6012787301) in [sonos/tract](https://github.com/sonos/tract)
-4. 🚀 Published release [v0.4.2](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.2) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-5. 🚀 Published release [v0.4.1](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.1) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+1. 🚀 Published release [v0.3.0 — en-GB bundle](https://github.com/AACTools/voicegarden-lexicons/releases/tag/v0.3.0) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+2. 🎉 Merged PR [#2959](https://github.com/sonos/tract/pull/2959) in [sonos/tract](https://github.com/sonos/tract)
+3. 💪 Opened PR [#2967](https://github.com/sonos/tract/pull/2967) in [sonos/tract](https://github.com/sonos/tract)
+4. 🗣 Commented on [#2959](https://github.com/sonos/tract/pull/2959#issuecomment-6012787301) in [sonos/tract](https://github.com/sonos/tract)
+5. 🚀 Published release [v0.4.2](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.2) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
 <!--END_SECTION:activity-->
