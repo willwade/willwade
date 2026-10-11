@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#50](https://github.com/AACTools/rust-tts-wrapper/issues/50) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#49](https://github.com/AACTools/rust-tts-wrapper/pull/49) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#49](https://github.com/AACTools/rust-tts-wrapper/pull/49) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🎉 Merged PR [#2967](https://github.com/sonos/tract/pull/2967) in [sonos/tract](https://github.com/sonos/tract)
-5. 🚀 Published release [v0.3.0 — en-GB bundle](https://github.com/AACTools/voicegarden-lexicons/releases/tag/v0.3.0) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+1. 💪 Opened PR [#30](https://github.com/predict-woo/qwen3-tts.cpp/pull/30) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+2. ❗ Opened issue [#50](https://github.com/AACTools/rust-tts-wrapper/issues/50) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🎉 Merged PR [#49](https://github.com/AACTools/rust-tts-wrapper/pull/49) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 💪 Opened PR [#49](https://github.com/AACTools/rust-tts-wrapper/pull/49) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🎉 Merged PR [#2967](https://github.com/sonos/tract/pull/2967) in [sonos/tract](https://github.com/sonos/tract)
 <!--END_SECTION:activity-->
