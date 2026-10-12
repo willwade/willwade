@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/predict-woo/qwen3-tts.cpp/pull/29#issuecomment-6127980509) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. ❗ Opened issue [#33](https://github.com/predict-woo/qwen3-tts.cpp/issues/33) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-3. 💪 Opened PR [#32](https://github.com/predict-woo/qwen3-tts.cpp/pull/32) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-4. 🗣 Commented on [#18](https://github.com/predict-woo/qwen3-tts.cpp/issues/18#issuecomment-6118639602) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-5. 🗣 Commented on [#9](https://github.com/predict-woo/qwen3-tts.cpp/issues/9#issuecomment-6118636960) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+1. 💪 Opened PR [#34](https://github.com/predict-woo/qwen3-tts.cpp/pull/34) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+2. 🗣 Commented on [#29](https://github.com/predict-woo/qwen3-tts.cpp/pull/29#issuecomment-6127980509) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+3. ❗ Opened issue [#33](https://github.com/predict-woo/qwen3-tts.cpp/issues/33) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+4. 💪 Opened PR [#32](https://github.com/predict-woo/qwen3-tts.cpp/pull/32) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+5. 🗣 Commented on [#18](https://github.com/predict-woo/qwen3-tts.cpp/issues/18#issuecomment-6118639602) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
 <!--END_SECTION:activity-->
