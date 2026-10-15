@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/predict-woo/qwen3-tts.cpp/pull/29#issuecomment-6179163945) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 🗣 Commented on [#2931](https://github.com/sonos/tract/issues/2931#issuecomment-6168282049) in [sonos/tract](https://github.com/sonos/tract)
-3. ❌ Closed PR [#52](https://github.com/AACTools/rust-tts-wrapper/pull/52) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#52](https://github.com/AACTools/rust-tts-wrapper/pull/52#issuecomment-6170000904) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#56](https://github.com/AACTools/AACProcessors-nodejs/pull/56#issuecomment-6151235895) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+1. 🎉 Merged PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🎉 Merged PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 💪 Opened PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🗣 Commented on [#29](https://github.com/predict-woo/qwen3-tts.cpp/pull/29#issuecomment-6179163945) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
 <!--END_SECTION:activity-->
