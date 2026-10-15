@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#29](https://github.com/predict-woo/qwen3-tts.cpp/pull/29#issuecomment-6179163945) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+1. 💪 Opened PR [#70](https://github.com/dasher-project/Dasher-Windows/pull/70) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🎉 Merged PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#53](https://github.com/AACTools/rust-tts-wrapper/pull/53) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
