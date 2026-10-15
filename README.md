@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#70](https://github.com/dasher-project/Dasher-Android/issues/70) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-2. 💪 Opened PR [#71](https://github.com/dasher-project/Dasher-Android/pull/71) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-3. 🚀 Published release [v0.1.33](https://github.com/dasher-project/Dasher-Windows/releases/tag/v0.1.33) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#70](https://github.com/dasher-project/Dasher-Windows/pull/70) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 🎉 Merged PR [#54](https://github.com/AACTools/rust-tts-wrapper/pull/54) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. ❗ Opened issue [#101](https://github.com/dasher-project/DasherCore/issues/101) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🎉 Merged PR [#70](https://github.com/dasher-project/Dasher-Windows/pull/70) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 🔒 Closed issue [#70](https://github.com/dasher-project/Dasher-Android/issues/70) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+4. ❗ Opened issue [#72](https://github.com/dasher-project/Dasher-Android/issues/72) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. ❗ Opened issue [#100](https://github.com/dasher-project/DasherCore/issues/100) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
