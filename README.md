@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/dasher-project/DasherCore/pull/103) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🎉 Merged PR [#102](https://github.com/dasher-project/DasherCore/pull/102) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 💪 Opened PR [#72](https://github.com/dasher-project/Dasher-Windows/pull/72) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#103](https://github.com/dasher-project/DasherCore/pull/103) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 🎉 Merged PR [#74](https://github.com/dasher-project/Dasher-Android/pull/74) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. ❗ Opened issue [#245](https://github.com/mikroverk/esp32sim/issues/245) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+2. ❗ Opened issue [#244](https://github.com/mikroverk/esp32sim/issues/244) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+3. 🎉 Merged PR [#103](https://github.com/dasher-project/DasherCore/pull/103) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🎉 Merged PR [#102](https://github.com/dasher-project/DasherCore/pull/102) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#72](https://github.com/dasher-project/Dasher-Windows/pull/72) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
