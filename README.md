@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/Ampixa/sanoTTS/issues/22) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
-2. ❗ Opened issue [#245](https://github.com/mikroverk/esp32sim/issues/245) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
-3. ❗ Opened issue [#244](https://github.com/mikroverk/esp32sim/issues/244) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
-4. 🎉 Merged PR [#103](https://github.com/dasher-project/DasherCore/pull/103) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 🎉 Merged PR [#102](https://github.com/dasher-project/DasherCore/pull/102) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+1. 🎉 Merged PR [#55](https://github.com/AACTools/rust-tts-wrapper/pull/55) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#55](https://github.com/AACTools/rust-tts-wrapper/pull/55) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. ❗ Opened issue [#22](https://github.com/Ampixa/sanoTTS/issues/22) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
+4. ❗ Opened issue [#245](https://github.com/mikroverk/esp32sim/issues/245) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+5. ❗ Opened issue [#244](https://github.com/mikroverk/esp32sim/issues/244) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
 <!--END_SECTION:activity-->
