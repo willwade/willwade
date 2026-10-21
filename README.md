@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/AACTools/rust-tts-wrapper/pull/55) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#55](https://github.com/AACTools/rust-tts-wrapper/pull/55) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#22](https://github.com/Ampixa/sanoTTS/issues/22) in [Ampixa/sanoTTS](https://github.com/Ampixa/sanoTTS)
-4. ❗ Opened issue [#245](https://github.com/mikroverk/esp32sim/issues/245) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
-5. ❗ Opened issue [#244](https://github.com/mikroverk/esp32sim/issues/244) in [mikroverk/esp32sim](https://github.com/mikroverk/esp32sim)
+1. 🗣 Commented on [#47](https://github.com/dasher-project/governance/issues/47#issuecomment-6313115401) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. ❗ Opened issue [#48](https://github.com/dasher-project/governance/issues/48) in [dasher-project/governance](https://github.com/dasher-project/governance)
+3. 🔒 Closed issue [#47](https://github.com/dasher-project/governance/issues/47) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. ❗ Opened issue [#47](https://github.com/dasher-project/governance/issues/47) in [dasher-project/governance](https://github.com/dasher-project/governance)
+5. ❗ Opened issue [#46](https://github.com/dasher-project/governance/issues/46) in [dasher-project/governance](https://github.com/dasher-project/governance)
 <!--END_SECTION:activity-->
