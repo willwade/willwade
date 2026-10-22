@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/AACTools/rust-tts-wrapper/issues/57#issuecomment-6336132079) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🗣 Commented on [#58](https://github.com/AACTools/rust-tts-wrapper/issues/58#issuecomment-6337164953) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#48](https://github.com/AACTools/rust-tts-wrapper/issues/48#issuecomment-6336220291) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. ❗ Opened issue [#60](https://github.com/AACTools/rust-tts-wrapper/issues/60) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. ❗ Opened issue [#61](https://github.com/AACTools/rust-tts-wrapper/issues/61) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#61](https://github.com/AACTools/rust-tts-wrapper/issues/61#issuecomment-6341732268) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🗣 Commented on [#60](https://github.com/AACTools/rust-tts-wrapper/issues/60#issuecomment-6341733156) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. ❗ Opened issue [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. ❗ Opened issue [#666](https://github.com/pykeio/ort/issues/666) in [pykeio/ort](https://github.com/pykeio/ort)
+5. ❗ Opened issue [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
