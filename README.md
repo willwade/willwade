@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/AACTools/rust-tts-wrapper/issues/57) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. ❗ Opened issue [#56](https://github.com/AACTools/rust-tts-wrapper/issues/56) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#47](https://github.com/dasher-project/governance/issues/47#issuecomment-6313115401) in [dasher-project/governance](https://github.com/dasher-project/governance)
-4. ❗ Opened issue [#48](https://github.com/dasher-project/governance/issues/48) in [dasher-project/governance](https://github.com/dasher-project/governance)
-5. 🔒 Closed issue [#47](https://github.com/dasher-project/governance/issues/47) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 🔒 Closed issue [#60](https://github.com/AACTools/rust-tts-wrapper/issues/60) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🔒 Closed issue [#61](https://github.com/AACTools/rust-tts-wrapper/issues/61) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🔒 Closed issue [#59](https://github.com/AACTools/rust-tts-wrapper/issues/59) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. ❗ Opened issue [#59](https://github.com/AACTools/rust-tts-wrapper/issues/59) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🔒 Closed issue [#58](https://github.com/AACTools/rust-tts-wrapper/issues/58) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
