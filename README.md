@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6359351637) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6359348384) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6359233983) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6361494162) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-5. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6358627427) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🎉 Merged PR [#63](https://github.com/AACTools/rust-tts-wrapper/pull/63) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#64](https://github.com/AACTools/rust-tts-wrapper/issues/64) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#63](https://github.com/AACTools/rust-tts-wrapper/pull/63) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6359351637) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6359348384) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
