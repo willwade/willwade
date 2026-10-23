@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/predict-woo/qwen3-tts.cpp/issues/35) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 🔒 Closed issue [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6350206519) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6353753203) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6349544820) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+1. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6359351637) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+2. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6359348384) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🗣 Commented on [#62](https://github.com/AACTools/rust-tts-wrapper/issues/62#issuecomment-6359233983) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6361494162) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+5. 🗣 Commented on [#19](https://github.com/AACTools/VoiceGarden-SAPI/issues/19#issuecomment-6358627427) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
 <!--END_SECTION:activity-->
