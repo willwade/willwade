@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/AACTools/rust-tts-wrapper/pull/67) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🎉 Merged PR [#65](https://github.com/AACTools/rust-tts-wrapper/pull/65) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 💪 Opened PR [#78](https://github.com/dasher-project/Dasher-Android/pull/78) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-4. ❗ Opened issue [#66](https://github.com/AACTools/rust-tts-wrapper/issues/66) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#65](https://github.com/AACTools/rust-tts-wrapper/pull/65) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#66](https://github.com/AACTools/rust-tts-wrapper/issues/66#issuecomment-6457795631) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🔒 Closed issue [#66](https://github.com/AACTools/rust-tts-wrapper/issues/66) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🎉 Merged PR [#67](https://github.com/AACTools/rust-tts-wrapper/pull/67) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🚀 Published release [v0.3.1 — P2P convention pairs for sherpa-onnx 2.x espeak orphans](https://github.com/AACTools/voicegarden-lexicons/releases/tag/v0.3.1) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+5. 🎉 Merged PR [#2](https://github.com/AACTools/voicegarden-lexicons/pull/2) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
 <!--END_SECTION:activity-->
