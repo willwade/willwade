@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/dasher-project/Dasher-GTK/pull/94) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🎉 Merged PR [#49](https://github.com/dasher-project/governance/pull/49) in [dasher-project/governance](https://github.com/dasher-project/governance)
-3. 🎉 Merged PR [#95](https://github.com/dasher-project/Dasher-GTK/pull/95) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 💪 Opened PR [#95](https://github.com/dasher-project/Dasher-GTK/pull/95) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🎉 Merged PR [#79](https://github.com/dasher-project/Dasher-Android/pull/79) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 💪 Opened PR [#80](https://github.com/dasher-project/Dasher-Android/pull/80) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+2. 🎉 Merged PR [#94](https://github.com/dasher-project/Dasher-GTK/pull/94) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#49](https://github.com/dasher-project/governance/pull/49) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. 🎉 Merged PR [#95](https://github.com/dasher-project/Dasher-GTK/pull/95) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 💪 Opened PR [#95](https://github.com/dasher-project/Dasher-GTK/pull/95) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
