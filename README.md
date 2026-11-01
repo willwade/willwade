@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/dasher-project/DasherCore/pull/104) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 🎉 Merged PR [#76](https://github.com/dasher-project/Dasher-Windows/pull/76) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. 💪 Opened PR [#76](https://github.com/dasher-project/Dasher-Windows/pull/76) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 🎉 Merged PR [#75](https://github.com/dasher-project/Dasher-Windows/pull/75) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#75](https://github.com/dasher-project/Dasher-Windows/pull/75) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🎉 Merged PR [#6](https://github.com/dasher-project/dasher-shared-resources/pull/6) in [dasher-project/dasher-shared-resources](https://github.com/dasher-project/dasher-shared-resources)
+2. 💪 Opened PR [#6](https://github.com/dasher-project/dasher-shared-resources/pull/6) in [dasher-project/dasher-shared-resources](https://github.com/dasher-project/dasher-shared-resources)
+3. 💪 Opened PR [#77](https://github.com/dasher-project/Dasher-Windows/pull/77) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🎉 Merged PR [#5](https://github.com/dasher-project/dasher-shared-resources/pull/5) in [dasher-project/dasher-shared-resources](https://github.com/dasher-project/dasher-shared-resources)
+5. 💪 Opened PR [#5](https://github.com/dasher-project/dasher-shared-resources/pull/5) in [dasher-project/dasher-shared-resources](https://github.com/dasher-project/dasher-shared-resources)
 <!--END_SECTION:activity-->
