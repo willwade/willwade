@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/dasher-project/governance/issues/54) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. 🗣 Commented on [#105](https://github.com/dasher-project/DasherCore/issues/105#issuecomment-6572014725) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. 🔒 Closed issue [#105](https://github.com/dasher-project/DasherCore/issues/105) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. 🎉 Merged PR [#82](https://github.com/dasher-project/Dasher-Windows/pull/82) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#53](https://github.com/dasher-project/governance/pull/53) in [dasher-project/governance](https://github.com/dasher-project/governance)
+1. 🗣 Commented on [#107](https://github.com/dasher-project/DasherCore/pull/107#issuecomment-6587421422) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 💪 Opened PR [#107](https://github.com/dasher-project/DasherCore/pull/107) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 💪 Opened PR [#55](https://github.com/dasher-project/governance/pull/55) in [dasher-project/governance](https://github.com/dasher-project/governance)
+4. ❗ Opened issue [#90](https://github.com/dasher-project/Dasher-Windows/issues/90) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. ❗ Opened issue [#89](https://github.com/dasher-project/Dasher-Windows/issues/89) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
