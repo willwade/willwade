@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.17-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.17-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🎉 Merged PR [#68](https://github.com/dasher-project/Dasher-Apple/pull/68) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 💪 Opened PR [#68](https://github.com/dasher-project/Dasher-Apple/pull/68) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 🚀 Published release [v0.1.16-mac-beta](https://github.com/dasher-project/Dasher-Apple/releases/tag/v0.1.16-mac-beta) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🎉 Merged PR [#67](https://github.com/dasher-project/Dasher-Apple/pull/67) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🔒 Closed issue [#100](https://github.com/dasher-project/Dasher-Windows/issues/100) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🔒 Closed issue [#101](https://github.com/dasher-project/Dasher-Windows/issues/101) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 🔒 Closed issue [#99](https://github.com/dasher-project/Dasher-Windows/issues/99) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🎉 Merged PR [#102](https://github.com/dasher-project/Dasher-Windows/pull/102) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 💪 Opened PR [#102](https://github.com/dasher-project/Dasher-Windows/pull/102) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
