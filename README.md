@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 💪 Opened PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. 🎉 Merged PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 🔒 Closed issue [#100](https://github.com/dasher-project/Dasher-Windows/issues/100) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 💪 Opened PR [#1](https://github.com/AceCentre/KeyboardMaker/pull/1) in [AceCentre/KeyboardMaker](https://github.com/AceCentre/KeyboardMaker)
+2. 🎉 Merged PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+3. 💪 Opened PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🎉 Merged PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 💪 Opened PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
