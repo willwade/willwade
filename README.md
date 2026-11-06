@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AceCentre/KeyboardMaker/pull/1) in [AceCentre/KeyboardMaker](https://github.com/AceCentre/KeyboardMaker)
-2. 🎉 Merged PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-3. 💪 Opened PR [#104](https://github.com/dasher-project/Dasher-Windows/pull/104) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 🎉 Merged PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#103](https://github.com/dasher-project/Dasher-Windows/pull/103) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+1. 🚀 Published release [v0.4.2](https://github.com/AACTools/AACProcessors-nodejs/releases/tag/v0.4.2) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+2. 🔒 Closed issue [#57](https://github.com/AACTools/AACProcessors-nodejs/issues/57) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+3. 🎉 Merged PR [#58](https://github.com/AACTools/AACProcessors-nodejs/pull/58) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+4. 💪 Opened PR [#58](https://github.com/AACTools/AACProcessors-nodejs/pull/58) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
+5. ❗ Opened issue [#57](https://github.com/AACTools/AACProcessors-nodejs/issues/57) in [AACTools/AACProcessors-nodejs](https://github.com/AACTools/AACProcessors-nodejs)
 <!--END_SECTION:activity-->
