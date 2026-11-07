@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.5](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.5) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-2. 🎉 Merged PR [#3](https://github.com/willwade/aac-board-viewer/pull/3) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-3. 💪 Opened PR [#3](https://github.com/willwade/aac-board-viewer/pull/3) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-4. 🚀 Published release [v0.4.4](https://github.com/willwade/aac-board-viewer/releases/tag/v0.4.4) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
-5. 🎉 Merged PR [#2](https://github.com/willwade/aac-board-viewer/pull/2) in [willwade/aac-board-viewer](https://github.com/willwade/aac-board-viewer)
+1. 🎉 Merged PR [#57](https://github.com/dasher-project/governance/pull/57) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. ❗ Opened issue [#72](https://github.com/dasher-project/Dasher-Apple/issues/72) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. ❗ Opened issue [#107](https://github.com/dasher-project/Dasher-Windows/issues/107) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 💪 Opened PR [#86](https://github.com/dasher-project/Dasher-Android/pull/86) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+5. 💪 Opened PR [#101](https://github.com/dasher-project/Dasher-GTK/pull/101) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
