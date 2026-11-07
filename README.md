@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/dasher-project/governance/pull/57) in [dasher-project/governance](https://github.com/dasher-project/governance)
-2. ❗ Opened issue [#72](https://github.com/dasher-project/Dasher-Apple/issues/72) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. ❗ Opened issue [#107](https://github.com/dasher-project/Dasher-Windows/issues/107) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#86](https://github.com/dasher-project/Dasher-Android/pull/86) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
-5. 💪 Opened PR [#101](https://github.com/dasher-project/Dasher-GTK/pull/101) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🎉 Merged PR [#77](https://github.com/dasher-project/Dasher-Apple/pull/77) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+2. 💪 Opened PR [#77](https://github.com/dasher-project/Dasher-Apple/pull/77) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 🎉 Merged PR [#76](https://github.com/dasher-project/Dasher-Apple/pull/76) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 💪 Opened PR [#76](https://github.com/dasher-project/Dasher-Apple/pull/76) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 🎉 Merged PR [#75](https://github.com/dasher-project/Dasher-Apple/pull/75) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
 <!--END_SECTION:activity-->
