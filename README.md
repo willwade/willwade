@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/dasher-project/dasher-web/issues/11#issuecomment-6752853504) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-2. 🗣 Commented on [#12](https://github.com/dasher-project/dasher-web/issues/12#issuecomment-6752852873) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-3. 🗣 Commented on [#20](https://github.com/dasher-project/dasher-web/issues/20#issuecomment-6752850620) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. 🗣 Commented on [#22](https://github.com/dasher-project/dasher-web/issues/22#issuecomment-6752849948) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-5. 🗣 Commented on [#28](https://github.com/dasher-project/dasher-web/issues/28#issuecomment-6752847534) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+1. 💪 Opened PR [#123](https://github.com/dasher-project/Dasher-Windows/pull/123) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+2. 🗣 Commented on [#11](https://github.com/dasher-project/dasher-web/issues/11#issuecomment-6752853504) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+3. 🗣 Commented on [#12](https://github.com/dasher-project/dasher-web/issues/12#issuecomment-6752852873) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+4. 🗣 Commented on [#20](https://github.com/dasher-project/dasher-web/issues/20#issuecomment-6752850620) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+5. 🗣 Commented on [#22](https://github.com/dasher-project/dasher-web/issues/22#issuecomment-6752849948) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
 <!--END_SECTION:activity-->
