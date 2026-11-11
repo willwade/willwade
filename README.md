@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/dasher-project/Dasher-Windows/pull/123) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. 🗣 Commented on [#11](https://github.com/dasher-project/dasher-web/issues/11#issuecomment-6752853504) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-3. 🗣 Commented on [#12](https://github.com/dasher-project/dasher-web/issues/12#issuecomment-6752852873) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-4. 🗣 Commented on [#20](https://github.com/dasher-project/dasher-web/issues/20#issuecomment-6752850620) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
-5. 🗣 Commented on [#22](https://github.com/dasher-project/dasher-web/issues/22#issuecomment-6752849948) in [dasher-project/dasher-web](https://github.com/dasher-project/dasher-web)
+1. ❗ Opened issue [#71](https://github.com/AACTools/rust-tts-wrapper/issues/71) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#70](https://github.com/AACTools/rust-tts-wrapper/issues/70) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. ❗ Opened issue [#69](https://github.com/AACTools/rust-tts-wrapper/issues/69) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. ❗ Opened issue [#68](https://github.com/AACTools/rust-tts-wrapper/issues/68) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🎉 Merged PR [#124](https://github.com/dasher-project/Dasher-Windows/pull/124) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
