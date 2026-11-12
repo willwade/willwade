@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/dasher-project/Dasher-Apple/pull/91) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 💪 Opened PR [#79](https://github.com/AACTools/rust-tts-wrapper/pull/79) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#78](https://github.com/AACTools/rust-tts-wrapper/issues/78) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. ❗ Opened issue [#77](https://github.com/AACTools/rust-tts-wrapper/issues/77) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. ❗ Opened issue [#1](https://github.com/AACTools/swift-tts-wrapper/issues/1) in [AACTools/swift-tts-wrapper](https://github.com/AACTools/swift-tts-wrapper)
+1. 🗣 Commented on [#82](https://github.com/AACTools/rust-tts-wrapper/issues/82#issuecomment-6829448242) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🗣 Commented on [#82](https://github.com/AACTools/rust-tts-wrapper/issues/82#issuecomment-6829299350) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#83](https://github.com/AACTools/rust-tts-wrapper/pull/83) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🚀 Published release [v1.8.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.8.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. ❗ Opened issue [#81](https://github.com/AACTools/rust-tts-wrapper/issues/81) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
