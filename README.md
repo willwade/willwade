@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/AACTools/rust-tts-wrapper/pull/97) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#97](https://github.com/AACTools/rust-tts-wrapper/pull/97) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#4](https://github.com/AACTools/sherpa-onnx-tts-models/issues/4) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
-4. 💪 Opened PR [#4](https://github.com/AACTools/voicegarden-lexicons/pull/4) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-5. 🎉 Merged PR [#96](https://github.com/AACTools/rust-tts-wrapper/pull/96) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🚀 Published release [v1.10.0 — catalog readiness + per-language normalizers + full registry checksums](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.10.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🗣 Commented on [#34](https://github.com/predict-woo/qwen3-tts.cpp/pull/34#issuecomment-6885585857) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+3. 🗣 Commented on [#31](https://github.com/predict-woo/qwen3-tts.cpp/pull/31#issuecomment-6885585567) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+4. 🎉 Merged PR [#6](https://github.com/AACTools/sherpa-onnx-tts-models/pull/6) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+5. 💪 Opened PR [#6](https://github.com/AACTools/sherpa-onnx-tts-models/pull/6) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
 <!--END_SECTION:activity-->
