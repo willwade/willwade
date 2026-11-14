@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/predict-woo/qwen3-tts.cpp/pull/36#issuecomment-6867357878) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 🗣 Commented on [#82](https://github.com/AACTools/rust-tts-wrapper/issues/82#issuecomment-6868549324) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#34](https://github.com/predict-woo/qwen3-tts.cpp/pull/34#issuecomment-6868468414) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-4. 💪 Opened PR [#91](https://github.com/AACTools/rust-tts-wrapper/pull/91) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🎉 Merged PR [#36](https://github.com/predict-woo/qwen3-tts.cpp/pull/36) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+1. ❗ Opened issue [#4](https://github.com/AACTools/sherpa-onnx-tts-models/issues/4) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+2. 💪 Opened PR [#4](https://github.com/AACTools/voicegarden-lexicons/pull/4) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+3. 🎉 Merged PR [#96](https://github.com/AACTools/rust-tts-wrapper/pull/96) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#3](https://github.com/AACTools/voicegarden-lexicons/issues/3#issuecomment-6877969075) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+5. 💪 Opened PR [#96](https://github.com/AACTools/rust-tts-wrapper/pull/96) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
