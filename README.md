@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/AACTools/rust-tts-wrapper/pull/104) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#104](https://github.com/AACTools/rust-tts-wrapper/pull/104) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#103](https://github.com/AACTools/rust-tts-wrapper/pull/103) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#103](https://github.com/AACTools/rust-tts-wrapper/pull/103#issuecomment-6894118122) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#103](https://github.com/AACTools/rust-tts-wrapper/pull/103) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🚀 Published release [v1.12.0 — omnivoice-local joins the model surface (#102 Phase 2)](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.12.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#105](https://github.com/AACTools/rust-tts-wrapper/pull/105) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#105](https://github.com/AACTools/rust-tts-wrapper/pull/105) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#7](https://github.com/AACTools/sherpa-onnx-tts-models/pull/7) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+5. 💪 Opened PR [#7](https://github.com/AACTools/sherpa-onnx-tts-models/pull/7) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
 <!--END_SECTION:activity-->
