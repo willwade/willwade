@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#109](https://github.com/AACTools/rust-tts-wrapper/issues/109) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#39](https://github.com/predict-woo/qwen3-tts.cpp/pull/39) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-3. 🗣 Commented on [#5](https://github.com/AACTools/voicegarden-lexicons/issues/5#issuecomment-6918588264) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-4. 🗣 Commented on [#108](https://github.com/AACTools/rust-tts-wrapper/issues/108#issuecomment-6918580039) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#6](https://github.com/AACTools/voicegarden-lexicons/pull/6#issuecomment-6918412770) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+1. 💪 Opened PR [#110](https://github.com/AACTools/rust-tts-wrapper/pull/110) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#107](https://github.com/AACTools/rust-tts-wrapper/pull/107) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🗣 Commented on [#18](https://github.com/predict-woo/qwen3-tts.cpp/issues/18#issuecomment-6926162211) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+4. ❗ Opened issue [#109](https://github.com/AACTools/rust-tts-wrapper/issues/109) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#39](https://github.com/predict-woo/qwen3-tts.cpp/pull/39) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
 <!--END_SECTION:activity-->
