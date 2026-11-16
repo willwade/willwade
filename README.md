@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/AACTools/sherpa-onnx-tts-models/pull/8) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
-2. 💪 Opened PR [#8](https://github.com/AACTools/sherpa-onnx-tts-models/pull/8) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
-3. ❗ Opened issue [#106](https://github.com/AACTools/rust-tts-wrapper/issues/106) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#92](https://github.com/dasher-project/Dasher-Apple/pull/92) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🗣 Commented on [#102](https://github.com/AACTools/rust-tts-wrapper/issues/102#issuecomment-6902042615) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#39](https://github.com/predict-woo/qwen3-tts.cpp/pull/39) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+2. 🗣 Commented on [#5](https://github.com/AACTools/voicegarden-lexicons/issues/5#issuecomment-6918588264) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+3. 🗣 Commented on [#108](https://github.com/AACTools/rust-tts-wrapper/issues/108#issuecomment-6918580039) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#6](https://github.com/AACTools/voicegarden-lexicons/pull/6#issuecomment-6918412770) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+5. 🎉 Merged PR [#6](https://github.com/AACTools/voicegarden-lexicons/pull/6) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
 <!--END_SECTION:activity-->
