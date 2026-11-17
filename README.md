@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/AACTools/rust-tts-wrapper/issues/78#issuecomment-6942740126) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🗣 Commented on [#102](https://github.com/AACTools/rust-tts-wrapper/issues/102#issuecomment-6942735425) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🗣 Commented on [#106](https://github.com/AACTools/rust-tts-wrapper/issues/106#issuecomment-6942730197) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#109](https://github.com/AACTools/rust-tts-wrapper/issues/109#issuecomment-6942724657) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#100](https://github.com/AACTools/rust-tts-wrapper/issues/100#issuecomment-6942720034) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🔒 Closed issue [#2](https://github.com/AACTools/sherpa-onnx-tts-models/issues/2) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+2. 🗣 Commented on [#3](https://github.com/AACTools/sherpa-onnx-tts-models/issues/3#issuecomment-6943274038) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+3. 🔒 Closed issue [#3](https://github.com/AACTools/sherpa-onnx-tts-models/issues/3) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+4. 🗣 Commented on [#78](https://github.com/AACTools/rust-tts-wrapper/issues/78#issuecomment-6942740126) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🗣 Commented on [#102](https://github.com/AACTools/rust-tts-wrapper/issues/102#issuecomment-6942735425) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
