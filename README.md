@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/AACTools/rust-tts-wrapper/issues/100#issuecomment-6946721034) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🔒 Closed issue [#100](https://github.com/AACTools/rust-tts-wrapper/issues/100) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🔒 Closed issue [#106](https://github.com/AACTools/rust-tts-wrapper/issues/106) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🚀 Published release [v1.13.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.13.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🎉 Merged PR [#111](https://github.com/AACTools/rust-tts-wrapper/pull/111) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. ❗ Opened issue [#112](https://github.com/AACTools/rust-tts-wrapper/issues/112) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🗣 Commented on [#100](https://github.com/AACTools/rust-tts-wrapper/issues/100#issuecomment-6946721034) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🔒 Closed issue [#100](https://github.com/AACTools/rust-tts-wrapper/issues/100) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🔒 Closed issue [#106](https://github.com/AACTools/rust-tts-wrapper/issues/106) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🚀 Published release [v1.13.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.13.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
