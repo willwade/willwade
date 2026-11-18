@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/dasher-project/Dasher-Apple/pull/93) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🚀 Published release [v6.0.2](https://github.com/dasher-project/Dasher-Apple/releases/tag/v6.0.2) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 💪 Opened PR [#128](https://github.com/dasher-project/Dasher-Windows/pull/128) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-4. 💪 Opened PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🚀 Published release [v6.0.2](https://github.com/dasher-project/Dasher-Apple/releases/tag/v6.0.2) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🎉 Merged PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+2. 🎉 Merged PR [#93](https://github.com/dasher-project/Dasher-Apple/pull/93) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 🚀 Published release [v6.0.2](https://github.com/dasher-project/Dasher-Apple/releases/tag/v6.0.2) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 💪 Opened PR [#128](https://github.com/dasher-project/Dasher-Windows/pull/128) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. 💪 Opened PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
 <!--END_SECTION:activity-->
