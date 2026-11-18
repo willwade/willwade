@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#121](https://github.com/dasher-project/DasherCore/pull/121) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-2. 💪 Opened PR [#120](https://github.com/dasher-project/DasherCore/pull/120) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-3. ❗ Opened issue [#118](https://github.com/dasher-project/DasherCore/issues/118) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-4. ❗ Opened issue [#119](https://github.com/dasher-project/DasherCore/issues/119) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
-5. 🚀 Published release [v1.13.1](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.13.1) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. ❌ Closed PR [#121](https://github.com/dasher-project/DasherCore/pull/121) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+2. 🔒 Closed issue [#118](https://github.com/dasher-project/DasherCore/issues/118) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+3. 🎉 Merged PR [#120](https://github.com/dasher-project/DasherCore/pull/120) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+4. 🎉 Merged PR [#117](https://github.com/dasher-project/DasherCore/pull/117) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
+5. 💪 Opened PR [#121](https://github.com/dasher-project/DasherCore/pull/121) in [dasher-project/DasherCore](https://github.com/dasher-project/DasherCore)
 <!--END_SECTION:activity-->
