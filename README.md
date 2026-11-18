@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 🎉 Merged PR [#93](https://github.com/dasher-project/Dasher-Apple/pull/93) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 🚀 Published release [v6.0.2](https://github.com/dasher-project/Dasher-Apple/releases/tag/v6.0.2) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-4. 💪 Opened PR [#128](https://github.com/dasher-project/Dasher-Windows/pull/128) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-5. 💪 Opened PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. ❗ Opened issue [#115](https://github.com/AACTools/rust-tts-wrapper/issues/115) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#94](https://github.com/dasher-project/Dasher-Apple/pull/94) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+3. 🎉 Merged PR [#93](https://github.com/dasher-project/Dasher-Apple/pull/93) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+4. 🚀 Published release [v6.0.2](https://github.com/dasher-project/Dasher-Apple/releases/tag/v6.0.2) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 💪 Opened PR [#128](https://github.com/dasher-project/Dasher-Windows/pull/128) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
 <!--END_SECTION:activity-->
