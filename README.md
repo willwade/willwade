@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/AACTools/rust-tts-wrapper/issues/116#issuecomment-6992746244) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🚀 Published release [v1.13.3](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.13.3) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#119](https://github.com/AACTools/rust-tts-wrapper/issues/119) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#116](https://github.com/AACTools/rust-tts-wrapper/issues/116#issuecomment-6989458215) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🔒 Closed issue [#115](https://github.com/AACTools/rust-tts-wrapper/issues/115) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#116](https://github.com/AACTools/rust-tts-wrapper/issues/116#issuecomment-6986221159) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#120](https://github.com/AACTools/rust-tts-wrapper/issues/120) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🎉 Merged PR [#10](https://github.com/AACTools/sherpa-onnx-tts-models/pull/10) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+4. 💪 Opened PR [#10](https://github.com/AACTools/sherpa-onnx-tts-models/pull/10) in [AACTools/sherpa-onnx-tts-models](https://github.com/AACTools/sherpa-onnx-tts-models)
+5. 🗣 Commented on [#116](https://github.com/AACTools/rust-tts-wrapper/issues/116#issuecomment-6992746244) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
