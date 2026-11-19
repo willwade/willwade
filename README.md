@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/dasher-project/Dasher-Windows/pull/130) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
-2. ❗ Opened issue [#130](https://github.com/AACTools/rust-tts-wrapper/issues/130) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#129](https://github.com/AACTools/rust-tts-wrapper/issues/129) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#12](https://github.com/AACTools/voicegarden-lexicons/issues/12#issuecomment-7020540821) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-5. 🔒 Closed issue [#12](https://github.com/AACTools/voicegarden-lexicons/issues/12) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+1. ❗ Opened issue [#133](https://github.com/AACTools/rust-tts-wrapper/issues/133) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#132](https://github.com/AACTools/rust-tts-wrapper/issues/132) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. ❗ Opened issue [#131](https://github.com/AACTools/rust-tts-wrapper/issues/131) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 💪 Opened PR [#130](https://github.com/dasher-project/Dasher-Windows/pull/130) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+5. ❗ Opened issue [#130](https://github.com/AACTools/rust-tts-wrapper/issues/130) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
