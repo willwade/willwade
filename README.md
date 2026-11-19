@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/AACTools/rust-tts-wrapper/pull/122#issuecomment-7005317545) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🚀 Published release [v1.13.6](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.13.6) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#123](https://github.com/AACTools/rust-tts-wrapper/pull/123) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. ❗ Opened issue [#11](https://github.com/AACTools/voicegarden-lexicons/issues/11) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-5. 💪 Opened PR [#123](https://github.com/AACTools/rust-tts-wrapper/pull/123) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🔒 Closed issue [#11](https://github.com/AACTools/voicegarden-lexicons/issues/11) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+2. ❗ Opened issue [#12](https://github.com/AACTools/voicegarden-lexicons/issues/12) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+3. ❗ Opened issue [#124](https://github.com/AACTools/rust-tts-wrapper/issues/124) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🗣 Commented on [#122](https://github.com/AACTools/rust-tts-wrapper/pull/122#issuecomment-7007011628) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 🗣 Commented on [#122](https://github.com/AACTools/rust-tts-wrapper/pull/122#issuecomment-7006639468) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
