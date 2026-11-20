@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/dasher-project/Dasher-Apple/pull/95) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-2. 💪 Opened PR [#95](https://github.com/dasher-project/Dasher-Apple/pull/95) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-3. 🗣 Commented on [#133](https://github.com/AACTools/rust-tts-wrapper/issues/133#issuecomment-7024930053) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#129](https://github.com/AACTools/rust-tts-wrapper/issues/129#issuecomment-7021803884) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#131](https://github.com/AACTools/rust-tts-wrapper/issues/131#issuecomment-7021803890) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🎉 Merged PR [#44](https://github.com/dasher-project/website/pull/44) in [dasher-project/website](https://github.com/dasher-project/website)
+2. 💪 Opened PR [#44](https://github.com/dasher-project/website/pull/44) in [dasher-project/website](https://github.com/dasher-project/website)
+3. 🎉 Merged PR [#130](https://github.com/dasher-project/Dasher-Windows/pull/130) in [dasher-project/Dasher-Windows](https://github.com/dasher-project/Dasher-Windows)
+4. 🎉 Merged PR [#95](https://github.com/dasher-project/Dasher-Apple/pull/95) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+5. 💪 Opened PR [#95](https://github.com/dasher-project/Dasher-Apple/pull/95) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
 <!--END_SECTION:activity-->
