@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.16.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.16.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 🔒 Closed issue [#139](https://github.com/AACTools/rust-tts-wrapper/issues/139) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#140](https://github.com/AACTools/rust-tts-wrapper/pull/140) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#140](https://github.com/AACTools/rust-tts-wrapper/pull/140) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🗣 Commented on [#139](https://github.com/AACTools/rust-tts-wrapper/issues/139#issuecomment-7045521639) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 💪 Opened PR [#122](https://github.com/dasher-project/Dasher-GTK/pull/122) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 🚀 Published release [v1.16.2](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.16.2) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 🔒 Closed issue [#139](https://github.com/AACTools/rust-tts-wrapper/issues/139) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#140](https://github.com/AACTools/rust-tts-wrapper/pull/140) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#140](https://github.com/AACTools/rust-tts-wrapper/pull/140) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
