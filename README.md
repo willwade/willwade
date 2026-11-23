@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/AACTools/VoiceGarden-SAPI/pull/21) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
-2. 💪 Opened PR [#142](https://github.com/AACTools/rust-tts-wrapper/pull/142) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. ❗ Opened issue [#141](https://github.com/AACTools/rust-tts-wrapper/issues/141) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 🗣 Commented on [#98](https://github.com/dasher-project/Dasher-Apple/issues/98#issuecomment-7063957278) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
-5. 🔒 Closed issue [#98](https://github.com/dasher-project/Dasher-Apple/issues/98) in [dasher-project/Dasher-Apple](https://github.com/dasher-project/Dasher-Apple)
+1. 🔒 Closed issue [#141](https://github.com/AACTools/rust-tts-wrapper/issues/141) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 🎉 Merged PR [#142](https://github.com/AACTools/rust-tts-wrapper/pull/142) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. 💪 Opened PR [#21](https://github.com/AACTools/VoiceGarden-SAPI/pull/21) in [AACTools/VoiceGarden-SAPI](https://github.com/AACTools/VoiceGarden-SAPI)
+4. 💪 Opened PR [#142](https://github.com/AACTools/rust-tts-wrapper/pull/142) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. ❗ Opened issue [#141](https://github.com/AACTools/rust-tts-wrapper/issues/141) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
