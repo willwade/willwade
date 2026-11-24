@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/dasher-project/Dasher-GTK/pull/130) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🚀 Published release [v1.16.3](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.16.3) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#129](https://github.com/dasher-project/Dasher-GTK/pull/129) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 🎉 Merged PR [#128](https://github.com/dasher-project/Dasher-GTK/pull/128) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🎉 Merged PR [#101](https://github.com/dasher-project/Dasher-Android/pull/101) in [dasher-project/Dasher-Android](https://github.com/dasher-project/Dasher-Android)
+1. 🎉 Merged PR [#130](https://github.com/dasher-project/Dasher-GTK/pull/130) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+2. 💪 Opened PR [#137](https://github.com/dasher-project/Dasher-GTK/pull/137) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🗣 Commented on [#131](https://github.com/dasher-project/Dasher-GTK/pull/131#issuecomment-7117428012) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 🗣 Commented on [#131](https://github.com/dasher-project/Dasher-GTK/pull/131#issuecomment-7117227153) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 💪 Opened PR [#130](https://github.com/dasher-project/Dasher-GTK/pull/130) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
