@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/predict-woo/qwen3-tts.cpp/pull/44) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 💪 Opened PR [#43](https://github.com/predict-woo/qwen3-tts.cpp/pull/43) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-3. 🎉 Merged PR [#39](https://github.com/predict-woo/qwen3-tts.cpp/pull/39) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-4. 🎉 Merged PR [#137](https://github.com/dasher-project/Dasher-GTK/pull/137) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 🗣 Commented on [#131](https://github.com/dasher-project/Dasher-GTK/pull/131#issuecomment-7117779531) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 💪 Opened PR [#146](https://github.com/AACTools/rust-tts-wrapper/pull/146) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#44](https://github.com/predict-woo/qwen3-tts.cpp/pull/44) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+3. 💪 Opened PR [#43](https://github.com/predict-woo/qwen3-tts.cpp/pull/43) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+4. 🎉 Merged PR [#39](https://github.com/predict-woo/qwen3-tts.cpp/pull/39) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+5. 🎉 Merged PR [#137](https://github.com/dasher-project/Dasher-GTK/pull/137) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
