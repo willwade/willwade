@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/predict-woo/qwen3-tts.cpp/pull/45) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 🚀 Published release [v1.17.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.17.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-3. 🎉 Merged PR [#146](https://github.com/AACTools/rust-tts-wrapper/pull/146) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#146](https://github.com/AACTools/rust-tts-wrapper/pull/146) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 💪 Opened PR [#44](https://github.com/predict-woo/qwen3-tts.cpp/pull/44) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+1. 💪 Opened PR [#147](https://github.com/AACTools/rust-tts-wrapper/pull/147) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. 💪 Opened PR [#45](https://github.com/predict-woo/qwen3-tts.cpp/pull/45) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+3. 🚀 Published release [v1.17.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.17.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 🎉 Merged PR [#146](https://github.com/AACTools/rust-tts-wrapper/pull/146) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#146](https://github.com/AACTools/rust-tts-wrapper/pull/146) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
