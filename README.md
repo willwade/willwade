@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/AACTools/rust-tts-wrapper/pull/148) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-2. 💪 Opened PR [#46](https://github.com/predict-woo/qwen3-tts.cpp/pull/46) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-3. 💪 Opened PR [#147](https://github.com/AACTools/rust-tts-wrapper/pull/147) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-4. 💪 Opened PR [#45](https://github.com/predict-woo/qwen3-tts.cpp/pull/45) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-5. 🚀 Published release [v1.17.0](https://github.com/AACTools/rust-tts-wrapper/releases/tag/v1.17.0) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#150](https://github.com/AACTools/rust-tts-wrapper/issues/150#issuecomment-7188765478) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+2. ❗ Opened issue [#150](https://github.com/AACTools/rust-tts-wrapper/issues/150) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+3. ❗ Opened issue [#149](https://github.com/AACTools/rust-tts-wrapper/issues/149) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+4. 💪 Opened PR [#148](https://github.com/AACTools/rust-tts-wrapper/pull/148) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+5. 💪 Opened PR [#46](https://github.com/predict-woo/qwen3-tts.cpp/pull/46) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
 <!--END_SECTION:activity-->
