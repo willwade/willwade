@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7203393227) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🎉 Merged PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-3. 💪 Opened PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 🗣 Commented on [#109](https://github.com/AACTools/rust-tts-wrapper/issues/109#issuecomment-7201075857) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
-5. 🎉 Merged PR [#157](https://github.com/AACTools/rust-tts-wrapper/pull/157) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
+1. 🗣 Commented on [#13](https://github.com/AACTools/voicegarden-lexicons/issues/13#issuecomment-7203843605) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+2. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7203393227) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🎉 Merged PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+4. 💪 Opened PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 🗣 Commented on [#109](https://github.com/AACTools/rust-tts-wrapper/issues/109#issuecomment-7201075857) in [AACTools/rust-tts-wrapper](https://github.com/AACTools/rust-tts-wrapper)
 <!--END_SECTION:activity-->
