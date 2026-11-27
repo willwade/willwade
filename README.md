@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7204390075) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-2. 🗣 Commented on [#13](https://github.com/AACTools/voicegarden-lexicons/issues/13#issuecomment-7203843605) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-3. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7203393227) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-4. 🎉 Merged PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
-5. 💪 Opened PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🗣 Commented on [#13](https://github.com/AACTools/voicegarden-lexicons/issues/13#issuecomment-7206551863) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+2. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7204390075) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+3. 🗣 Commented on [#13](https://github.com/AACTools/voicegarden-lexicons/issues/13#issuecomment-7203843605) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
+4. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7203393227) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+5. 🎉 Merged PR [#139](https://github.com/dasher-project/Dasher-GTK/pull/139) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
 <!--END_SECTION:activity-->
