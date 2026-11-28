@@ -46,9 +46,9 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/predict-woo/qwen3-tts.cpp/pull/45) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-2. 🎉 Merged PR [#44](https://github.com/predict-woo/qwen3-tts.cpp/pull/44) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-3. 🎉 Merged PR [#43](https://github.com/predict-woo/qwen3-tts.cpp/pull/43) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
-4. 🗣 Commented on [#13](https://github.com/AACTools/voicegarden-lexicons/issues/13#issuecomment-7206551863) in [AACTools/voicegarden-lexicons](https://github.com/AACTools/voicegarden-lexicons)
-5. 🗣 Commented on [#139](https://github.com/dasher-project/Dasher-GTK/pull/139#issuecomment-7204390075) in [dasher-project/Dasher-GTK](https://github.com/dasher-project/Dasher-GTK)
+1. 🗣 Commented on [#45](https://github.com/dasher-project/governance/pull/45#issuecomment-7236394906) in [dasher-project/governance](https://github.com/dasher-project/governance)
+2. 💪 Opened PR [#63](https://github.com/dasher-project/governance/pull/63) in [dasher-project/governance](https://github.com/dasher-project/governance)
+3. 🎉 Merged PR [#45](https://github.com/predict-woo/qwen3-tts.cpp/pull/45) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+4. 🎉 Merged PR [#44](https://github.com/predict-woo/qwen3-tts.cpp/pull/44) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
+5. 🎉 Merged PR [#43](https://github.com/predict-woo/qwen3-tts.cpp/pull/43) in [predict-woo/qwen3-tts.cpp](https://github.com/predict-woo/qwen3-tts.cpp)
 <!--END_SECTION:activity-->
